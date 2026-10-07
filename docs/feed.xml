@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pépites Animation</title>
+    <link>https://olanlive.github.io/revue-animation/</link>
+    <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
+    <language>fr</language>
+    <lastBuildDate>Thu, 08 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil Carver qui découpe traits et remplissages en vraie booléenne, remplissage multi-régions d’un seul geste et traits cycliques.</description>
+      <category>blender</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+    </item>
+    <item>
+      <title>Blender 5.3 — Animation &amp; Rigging : conversion des modes de rotation</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Côté anim, Blender 5.3 convertit enfin nativement l’animation d’un mode de rotation à l’autre (Ctrl+R en Pose, remplace l’opérateur de Rigify), ajoute un curseur d’influence au collage de pose, étend Fix to Camera à la focale et met la lecture en pause pendant le scrub.</description>
+      <category>blender</category>
+      <category>rigging</category>
+      <category>keyframing</category>
+    </item>
+    <item>
+      <title>FreePicker 4.7.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-freepicker-4-7-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-freepicker-4-7-0</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender (GPL) qui ajoute un picker flottant pour sélectionner os et objets via des boutons qu’on place et redimensionne librement, indépendant des selection sets natifs, avec export/import JSON des layouts. La 4.7.0 du 4 oct ajoute la duplication de boutons. Blender 5.0+.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>picker</category>
+    </item>
+    <item>
+      <title>OPEN-TOON 0.2.0-experimental</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-open-toon-0-2-0-experimental</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-open-toon-0-2-0-experimental</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nouvelle appli d’animation 2D open source (GPL, C++/Qt 6) lancée le 20 sept : dessin vectoriel et brosses MyPaint, timeline/Xsheet, pelure d’oignon, courbes d’animation et rig de perso éditable. Préversions expérimentales macOS et Linux (AppImage) ; projet très jeune.</description>
+      <category>2d</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FlowHMR</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-flowhmr</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-flowhmr</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Mocap depuis une seule vidéo : FlowHMR (code et poids publiés fin sept, article arXiv en oct) génère un mouvement 3D global corps + mains physiquement plausible, avec démo web et export FBX. Licence recherche : usage commercial interdit.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Krita 5.3.4 / 6.0.4</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-krita-5-3-4-6-0-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-krita-5-3-4-6-0-4</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Krita 5.3.4 (Qt 5) et 6.0.4 (Qt 6, Wayland et HDR sous Linux), sorties le 15 sept : la version Android exporte enfin en vidéo les animations image par image et les timelapses, avec une salve de correctifs. L’import XCF de GIMP est retiré (dépendance non maintenue).</description>
+      <category>2d</category>
+      <category>krita</category>
+      <category>open-source</category>
+    </item>
+  </channel>
+</rss>

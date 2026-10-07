@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-10-08",
+    "name": "Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw",
+    "summary": "Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil Carver qui découpe traits et remplissages en vraie booléenne, remplissage multi-régions d’un seul geste et traits cycliques.",
+    "url": "https://developer.blender.org/docs/release_notes/5.3/grease_pencil/",
+    "tags": ["blender", "grease-pencil", "2d"],
+    "source": {
+      "label": "Devtalk — Grease Pencil Module Meeting du 28 sept 2026",
+      "url": "https://devtalk.blender.org/t/2026-09-28-grease-pencil-module-meeting-notes/45843"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "name": "Blender 5.3 — Animation & Rigging : conversion des modes de rotation",
+    "summary": "Côté anim, Blender 5.3 convertit enfin nativement l’animation d’un mode de rotation à l’autre (Ctrl+R en Pose, remplace l’opérateur de Rigify), ajoute un curseur d’influence au collage de pose, étend Fix to Camera à la focale et met la lecture en pause pendant le scrub.",
+    "url": "https://developer.blender.org/docs/release_notes/5.3/animation_rigging/",
+    "tags": ["blender", "rigging", "keyframing"],
+    "source": {
+      "label": "Devtalk — Animation & Rigging module meeting du 1er oct 2026",
+      "url": "https://devtalk.blender.org/t/2026-10-01-animation-rigging-module-meeting/45879"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "name": "FreePicker 4.7.0",
+    "summary": "Add-on Blender (GPL) qui ajoute un picker flottant pour sélectionner os et objets via des boutons qu’on place et redimensionne librement, indépendant des selection sets natifs, avec export/import JSON des layouts. La 4.7.0 du 4 oct ajoute la duplication de boutons. Blender 5.0+.",
+    "url": "https://extensions.blender.org/add-ons/freepicker/",
+    "tags": ["blender-addon", "rigging", "picker"],
+    "source": {
+      "label": "Blender Extensions — FreePicker, historique des versions",
+      "url": "https://extensions.blender.org/add-ons/freepicker/versions/"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "name": "OPEN-TOON 0.2.0-experimental",
+    "summary": "Nouvelle appli d’animation 2D open source (GPL, C++/Qt 6) lancée le 20 sept : dessin vectoriel et brosses MyPaint, timeline/Xsheet, pelure d’oignon, courbes d’animation et rig de perso éditable. Préversions expérimentales macOS et Linux (AppImage) ; projet très jeune.",
+    "url": "https://github.com/mijim/OPEN-TOON",
+    "tags": ["2d", "open-source", "emerging"],
+    "source": {
+      "label": "Release GitHub — mijim/OPEN-TOON v0.2.0-experimental.11",
+      "url": "https://github.com/mijim/OPEN-TOON/releases/tag/v0.2.0-experimental.11"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "name": "FlowHMR",
+    "summary": "Mocap depuis une seule vidéo : FlowHMR (code et poids publiés fin sept, article arXiv en oct) génère un mouvement 3D global corps + mains physiquement plausible, avec démo web et export FBX. Licence recherche : usage commercial interdit.",
+    "url": "https://flowhmr.github.io/",
+    "tags": ["mocap", "capture-video", "emerging"],
+    "source": {
+      "label": "arXiv — 2610.03691 (FlowHMR)",
+      "url": "https://arxiv.org/abs/2610.03691"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "name": "Krita 5.3.4 / 6.0.4",
+    "summary": "Krita 5.3.4 (Qt 5) et 6.0.4 (Qt 6, Wayland et HDR sous Linux), sorties le 15 sept : la version Android exporte enfin en vidéo les animations image par image et les timelapses, avec une salve de correctifs. L’import XCF de GIMP est retiré (dépendance non maintenue).",
+    "url": "https://krita.org/",
+    "tags": ["2d", "krita", "open-source"],
+    "source": {
+      "label": "Annonce Krita — Krita 5.3.4 Released!",
+      "url": "https://krita.org/en/posts/2026/krita-5.3.4-released/"
+    }
+  }
+]

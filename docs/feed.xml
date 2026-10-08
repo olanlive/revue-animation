@@ -67,5 +67,55 @@
       <category>krita</category>
       <category>open-source</category>
     </item>
+    <item>
+      <title>CloudRig 2.2.31</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-cloudrig-2-2-31</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-cloudrig-2-2-31</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Le générateur de rigs du Blender Studio (gratuit, GPL) passe en 2.2.31 le 5 oct : génération 2 à 5× plus rapide (le gain dépend de la complexité du fichier, surtout avec Blender 5.3) et composant « Chain: Layered » peaufiné sur le film Cowboi. Pour Blender 5.0 à 5.x.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>RBF Nodes 4</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-rbf-nodes-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-rbf-nodes-4</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on payant (17,99 $ sur Superhive) de Brave Rabbit : un solveur RBF en nœuds pour piloter plusieurs valeurs depuis plusieurs entrées (correctifs d’épaules, rigs faciaux). La v4 refait le solveur, gère mieux les rotations et ajoute un runtime gratuit. Rigs v3 à reconstruire.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title>LibreSprite 1.3</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-libresprite-1-3</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-libresprite-1-3</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Éditeur de sprites animés et de pixel art libre (GPLv2, fork d’Aseprite) : la 1.3 du 2 oct est la première depuis mars 2025. Brosses jusqu’à 256 px, symétrie étendue, raccourci mode tuilé, meilleure gestion hi-DPI et correctifs de sécurité (zip-slip, sandbox des scripts).</description>
+      <category>2d</category>
+      <category>pixel-art</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>FreeMoCap 2.0.0-alpha.25</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-freemocap-2-0-0-alpha-25</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-freemocap-2-0-0-alpha-25</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Mocap sans marqueurs libre (AGPL) à partir de webcams : l’alpha 25 du 24 sept ajoute des options d’export Blender dans l’interface, améliore la détection des mains et corrige l’usage sur machines sans GPU. Installeurs Windows/macOS/Linux, mais c’est une alpha : prudence.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Auto-Rig Pro 3.78.62</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-08-auto-rig-pro-3-78-62</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-08-auto-rig-pro-3-78-62</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description>L’add-on de rigging payant de référence pour Blender enchaîne les mises à jour fin sept/début oct : le rig facial Smart détecte seul la surface du visage et la forme des yeux, nouveau preset Remap « Auto-Rig Pro Skeleton » et export FBX vers Unreal plus fiable (bind pose).</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>payant</category>
+    </item>
   </channel>
 </rss>

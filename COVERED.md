@@ -13,3 +13,8 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 | 2026-10-08 | OPEN-TOON 0.2.0-experimental | 2d, open-source, emerging | https://github.com/mijim/OPEN-TOON | https://olanlive.github.io/revue-animation/#2026-10-08-open-toon-0-2-0-experimental |
 | 2026-10-08 | FlowHMR | mocap, capture-video, emerging | https://flowhmr.github.io/ | https://olanlive.github.io/revue-animation/#2026-10-08-flowhmr |
 | 2026-10-08 | Krita 5.3.4 / 6.0.4 | 2d, krita, open-source | https://krita.org/ | https://olanlive.github.io/revue-animation/#2026-10-08-krita-5-3-4-6-0-4 |
+| 2026-10-08 | CloudRig 2.2.31 | blender-addon, rigging, open-source | https://extensions.blender.org/add-ons/cloudrig/ | https://olanlive.github.io/revue-animation/#2026-10-08-cloudrig-2-2-31 |
+| 2026-10-08 | RBF Nodes 4 | blender-addon, rigging, payant | https://superhivemarket.com/products/rbf-nodes | https://olanlive.github.io/revue-animation/#2026-10-08-rbf-nodes-4 |
+| 2026-10-08 | LibreSprite 1.3 | 2d, pixel-art, open-source | https://libresprite.github.io/ | https://olanlive.github.io/revue-animation/#2026-10-08-libresprite-1-3 |
+| 2026-10-08 | FreeMoCap 2.0.0-alpha.25 | mocap, capture-video, open-source | https://freemocap.org/ | https://olanlive.github.io/revue-animation/#2026-10-08-freemocap-2-0-0-alpha-25 |
+| 2026-10-08 | Auto-Rig Pro 3.78.62 | blender-addon, rigging, payant | https://superhivemarket.com/products/auto-rig-pro | https://olanlive.github.io/revue-animation/#2026-10-08-auto-rig-pro-3-78-62 |

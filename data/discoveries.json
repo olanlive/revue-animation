@@ -4,7 +4,11 @@
     "name": "Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw",
     "summary": "Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil Carver qui découpe traits et remplissages en vraie booléenne, remplissage multi-régions d’un seul geste et traits cycliques.",
     "url": "https://developer.blender.org/docs/release_notes/5.3/grease_pencil/",
-    "tags": ["blender", "grease-pencil", "2d"],
+    "tags": [
+      "blender",
+      "grease-pencil",
+      "2d"
+    ],
     "source": {
       "label": "Devtalk — Grease Pencil Module Meeting du 28 sept 2026",
       "url": "https://devtalk.blender.org/t/2026-09-28-grease-pencil-module-meeting-notes/45843"
@@ -15,7 +19,11 @@
     "name": "Blender 5.3 — Animation & Rigging : conversion des modes de rotation",
     "summary": "Côté anim, Blender 5.3 convertit enfin nativement l’animation d’un mode de rotation à l’autre (Ctrl+R en Pose, remplace l’opérateur de Rigify), ajoute un curseur d’influence au collage de pose, étend Fix to Camera à la focale et met la lecture en pause pendant le scrub.",
     "url": "https://developer.blender.org/docs/release_notes/5.3/animation_rigging/",
-    "tags": ["blender", "rigging", "keyframing"],
+    "tags": [
+      "blender",
+      "rigging",
+      "keyframing"
+    ],
     "source": {
       "label": "Devtalk — Animation & Rigging module meeting du 1er oct 2026",
       "url": "https://devtalk.blender.org/t/2026-10-01-animation-rigging-module-meeting/45879"
@@ -26,7 +34,11 @@
     "name": "FreePicker 4.7.0",
     "summary": "Add-on Blender (GPL) qui ajoute un picker flottant pour sélectionner os et objets via des boutons qu’on place et redimensionne librement, indépendant des selection sets natifs, avec export/import JSON des layouts. La 4.7.0 du 4 oct ajoute la duplication de boutons. Blender 5.0+.",
     "url": "https://extensions.blender.org/add-ons/freepicker/",
-    "tags": ["blender-addon", "rigging", "picker"],
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "picker"
+    ],
     "source": {
       "label": "Blender Extensions — FreePicker, historique des versions",
       "url": "https://extensions.blender.org/add-ons/freepicker/versions/"
@@ -37,7 +49,11 @@
     "name": "OPEN-TOON 0.2.0-experimental",
     "summary": "Nouvelle appli d’animation 2D open source (GPL, C++/Qt 6) lancée le 20 sept : dessin vectoriel et brosses MyPaint, timeline/Xsheet, pelure d’oignon, courbes d’animation et rig de perso éditable. Préversions expérimentales macOS et Linux (AppImage) ; projet très jeune.",
     "url": "https://github.com/mijim/OPEN-TOON",
-    "tags": ["2d", "open-source", "emerging"],
+    "tags": [
+      "2d",
+      "open-source",
+      "emerging"
+    ],
     "source": {
       "label": "Release GitHub — mijim/OPEN-TOON v0.2.0-experimental.11",
       "url": "https://github.com/mijim/OPEN-TOON/releases/tag/v0.2.0-experimental.11"
@@ -48,7 +64,11 @@
     "name": "FlowHMR",
     "summary": "Mocap depuis une seule vidéo : FlowHMR (code et poids publiés fin sept, article arXiv en oct) génère un mouvement 3D global corps + mains physiquement plausible, avec démo web et export FBX. Licence recherche : usage commercial interdit.",
     "url": "https://flowhmr.github.io/",
-    "tags": ["mocap", "capture-video", "emerging"],
+    "tags": [
+      "mocap",
+      "capture-video",
+      "emerging"
+    ],
     "source": {
       "label": "arXiv — 2610.03691 (FlowHMR)",
       "url": "https://arxiv.org/abs/2610.03691"
@@ -59,7 +79,11 @@
     "name": "Krita 5.3.4 / 6.0.4",
     "summary": "Krita 5.3.4 (Qt 5) et 6.0.4 (Qt 6, Wayland et HDR sous Linux), sorties le 15 sept : la version Android exporte enfin en vidéo les animations image par image et les timelapses, avec une salve de correctifs. L’import XCF de GIMP est retiré (dépendance non maintenue).",
     "url": "https://krita.org/",
-    "tags": ["2d", "krita", "open-source"],
+    "tags": [
+      "2d",
+      "krita",
+      "open-source"
+    ],
     "source": {
       "label": "Annonce Krita — Krita 5.3.4 Released!",
       "url": "https://krita.org/en/posts/2026/krita-5.3.4-released/"
@@ -70,7 +94,11 @@
     "name": "CloudRig 2.2.31",
     "summary": "Le générateur de rigs du Blender Studio (gratuit, GPL) passe en 2.2.31 le 5 oct : génération 2 à 5× plus rapide (le gain dépend de la complexité du fichier, surtout avec Blender 5.3) et composant « Chain: Layered » peaufiné sur le film Cowboi. Pour Blender 5.0 à 5.x.",
     "url": "https://extensions.blender.org/add-ons/cloudrig/",
-    "tags": ["blender-addon", "rigging", "open-source"],
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "open-source"
+    ],
     "source": {
       "label": "Blender Extensions — CloudRig, historique des versions (2.2.31)",
       "url": "https://extensions.blender.org/add-ons/cloudrig/versions/"
@@ -81,7 +109,11 @@
     "name": "RBF Nodes 4",
     "summary": "Add-on payant (17,99 $ sur Superhive) de Brave Rabbit : un solveur RBF en nœuds pour piloter plusieurs valeurs depuis plusieurs entrées (correctifs d’épaules, rigs faciaux). La v4 refait le solveur, gère mieux les rotations et ajoute un runtime gratuit. Rigs v3 à reconstruire.",
     "url": "https://superhivemarket.com/products/rbf-nodes",
-    "tags": ["blender-addon", "rigging", "payant"],
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "payant"
+    ],
     "source": {
       "label": "80.lv — Bring RBF Solver To Your Blender Rigs",
       "url": "https://80.lv/articles/bring-rbf-solver-to-your-blender-rigs"
@@ -92,7 +124,11 @@
     "name": "LibreSprite 1.3",
     "summary": "Éditeur de sprites animés et de pixel art libre (GPLv2, fork d’Aseprite) : la 1.3 du 2 oct est la première depuis mars 2025. Brosses jusqu’à 256 px, symétrie étendue, raccourci mode tuilé, meilleure gestion hi-DPI et correctifs de sécurité (zip-slip, sandbox des scripts).",
     "url": "https://libresprite.github.io/",
-    "tags": ["2d", "pixel-art", "open-source"],
+    "tags": [
+      "2d",
+      "pixel-art",
+      "open-source"
+    ],
     "source": {
       "label": "Release GitHub — LibreSprite v1.3",
       "url": "https://github.com/LibreSprite/LibreSprite/releases/tag/v1.3"
@@ -103,7 +139,11 @@
     "name": "FreeMoCap 2.0.0-alpha.25",
     "summary": "Mocap sans marqueurs libre (AGPL) à partir de webcams : l’alpha 25 du 24 sept ajoute des options d’export Blender dans l’interface, améliore la détection des mains et corrige l’usage sur machines sans GPU. Installeurs Windows/macOS/Linux, mais c’est une alpha : prudence.",
     "url": "https://freemocap.org/",
-    "tags": ["mocap", "capture-video", "open-source"],
+    "tags": [
+      "mocap",
+      "capture-video",
+      "open-source"
+    ],
     "source": {
       "label": "Release GitHub — freemocap v2.0.0-alpha.25",
       "url": "https://github.com/freemocap/freemocap/releases/tag/v2.0.0-alpha.25"
@@ -114,10 +154,61 @@
     "name": "Auto-Rig Pro 3.78.62",
     "summary": "L’add-on de rigging payant de référence pour Blender enchaîne les mises à jour fin sept/début oct : le rig facial Smart détecte seul la surface du visage et la forme des yeux, nouveau preset Remap « Auto-Rig Pro Skeleton » et export FBX vers Unreal plus fiable (bind pose).",
     "url": "https://superhivemarket.com/products/auto-rig-pro",
-    "tags": ["blender-addon", "rigging", "payant"],
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "payant"
+    ],
     "source": {
       "label": "Superhive — Auto-Rig Pro, historique des versions",
       "url": "https://superhivemarket.com/products/auto-rig-pro/versions"
+    }
+  },
+  {
+    "date": "2026-10-09",
+    "name": "cvELD Edit Paint",
+    "summary": "Add-on Blender (9,99 $, payant mais sous GPL) qui permet de peindre les poids de plusieurs os directement en mode Édition : demi-pinceau, dégradés directionnels (dont Ribbon), éditeur de poids par sommet, normalisation stricte et verrous protégés. Blender 4.5 à 5.2.",
+    "url": "https://superhivemarket.com/products/cveld-edit-paint",
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "weight-paint",
+      "payant"
+    ],
+    "source": {
+      "label": "80.lv — add-on de weight painting avancé",
+      "url": "https://80.lv/articles/check-out-this-add-on-that-adds-advanced-weight-painting-tools-to-blender"
+    }
+  },
+  {
+    "date": "2026-10-09",
+    "name": "Riginsec",
+    "summary": "Nouvel add-on Blender gratuit (Gumroad, prix libre) sorti le 5 octobre : il rigge une surface et génère ses poids en quelques secondes pour l’animer tout de suite. Projet tout jeune, peu documenté et licence non précisée : à tester sur un fichier de travail.",
+    "url": "https://ahingel.gumroad.com/l/riginsec",
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "gratuit",
+      "emerging"
+    ],
+    "source": {
+      "label": "Blender Artists — annonce de Riginsec",
+      "url": "https://blenderartists.org/t/riginsec-free-addon-rig-any-surface-in-seconds/1654340"
+    }
+  },
+  {
+    "date": "2026-10-09",
+    "name": "Aseprite 1.3.18.6",
+    "summary": "Mise à jour de l’éditeur de pixel art et d’animation sprite : correction du crash au collage de tilemaps, export JSON de sprite sheets corrigé, améliorations X11 sous Linux. Code source disponible mais licence non libre ; binaires payants (compilation perso autorisée).",
+    "url": "https://www.aseprite.org/",
+    "tags": [
+      "2d",
+      "pixel-art",
+      "payant"
+    ],
+    "source": {
+      "label": "GitHub — release Aseprite v1.3.18.6",
+      "url": "https://github.com/aseprite/aseprite/releases/tag/v1.3.18.6"
     }
   }
 ]

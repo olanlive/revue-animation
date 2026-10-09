@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-09 | cvELD Edit Paint | blender-addon, rigging, weight-paint, payant | https://superhivemarket.com/products/cveld-edit-paint | https://olanlive.github.io/revue-animation/#2026-10-09-cveld-edit-paint |
+| 2026-10-09 | Riginsec | blender-addon, rigging, gratuit, emerging | https://ahingel.gumroad.com/l/riginsec | https://olanlive.github.io/revue-animation/#2026-10-09-riginsec |
+| 2026-10-09 | Aseprite 1.3.18.6 | 2d, pixel-art, payant | https://www.aseprite.org/ | https://olanlive.github.io/revue-animation/#2026-10-09-aseprite-1-3-18-6 |
 | 2026-10-08 | Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw | blender, grease-pencil, 2d | https://developer.blender.org/docs/release_notes/5.3/grease_pencil/ | https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw |
 | 2026-10-08 | Blender 5.3 — Animation & Rigging : conversion des modes de rotation | blender, rigging, keyframing | https://developer.blender.org/docs/release_notes/5.3/animation_rigging/ | https://olanlive.github.io/revue-animation/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation |
 | 2026-10-08 | FreePicker 4.7.0 | blender-addon, rigging, picker | https://extensions.blender.org/add-ons/freepicker/ | https://olanlive.github.io/revue-animation/#2026-10-08-freepicker-4-7-0 |

@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-10 | Zeeks Hair 1.0.1 | blender-addon, simulation, open-source | https://extensions.blender.org/add-ons/zephyrhair-dynamics/ | https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1 |
+| 2026-10-10 | Blender Animations Plugin 3.1.1 (Roblox) | blender-addon, animation, open-source | https://github.com/Cautioned/Blender-Animations-Plugin | https://olanlive.github.io/revue-animation/#2026-10-10-blender-animations-plugin-3-1-1-roblox |
+| 2026-10-10 | RealMotion Pro 2.0.1 | blender-addon, retargeting, payant | https://superhivemarket.com/products/realmotion-pro | https://olanlive.github.io/revue-animation/#2026-10-10-realmotion-pro-2-0-1 |
 | 2026-10-09 | cvELD Edit Paint | blender-addon, rigging, weight-paint, payant | https://superhivemarket.com/products/cveld-edit-paint | https://olanlive.github.io/revue-animation/#2026-10-09-cveld-edit-paint |
 | 2026-10-09 | Riginsec | blender-addon, rigging, gratuit, emerging | https://ahingel.gumroad.com/l/riginsec | https://olanlive.github.io/revue-animation/#2026-10-09-riginsec |
 | 2026-10-09 | Aseprite 1.3.18.6 | 2d, pixel-art, payant | https://www.aseprite.org/ | https://olanlive.github.io/revue-animation/#2026-10-09-aseprite-1-3-18-6 |

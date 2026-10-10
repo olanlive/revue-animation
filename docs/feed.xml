@@ -5,8 +5,38 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zeeks Hair 1.0.1</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender gratuit (GPL-3.0) qui simplifie la mise en place et le réglage de la dynamique soft body pour cheveux en cartes, strands ou meshes. La 1.0.1 (6 octobre) corrige des erreurs et des bugs de bake. Blender 4.2 LTS et plus.</description>
+      <category>blender-addon</category>
+      <category>simulation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Blender Animations Plugin 3.1.1 (Roblox)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-10-blender-animations-plugin-3-1-1-roblox</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-10-blender-animations-plugin-3-1-1-roblox</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender open source (GPL-3.0) pour importer et exporter des animations Roblox depuis Blender. La 3.1.1 (9 octobre) corrige les easings et un crash de Blender. Utile pour animer des rigs Roblox avec les outils de Blender.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>RealMotion Pro 2.0.1</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-10-realmotion-pro-2-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-10-realmotion-pro-2-0-1</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender payant : bibliothèque d’animations prêtes à l’emploi avec retargeting vers Auto-Rig Pro, Rigify, Mixamo et Daz. La v2 passe au format Extension ; la 2.0.1 ajoute miniatures personnalisables et meilleure intégration HumanGen. Désinstaller les versions &lt; 2.0 avant.</description>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>payant</category>
+    </item>
     <item>
       <title>cvELD Edit Paint</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-09-cveld-edit-paint</link>

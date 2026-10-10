@@ -210,5 +210,50 @@
       "label": "GitHub — release Aseprite v1.3.18.6",
       "url": "https://github.com/aseprite/aseprite/releases/tag/v1.3.18.6"
     }
+  },
+  {
+    "date": "2026-10-10",
+    "name": "Zeeks Hair 1.0.1",
+    "summary": "Add-on Blender gratuit (GPL-3.0) qui simplifie la mise en place et le réglage de la dynamique soft body pour cheveux en cartes, strands ou meshes. La 1.0.1 (6 octobre) corrige des erreurs et des bugs de bake. Blender 4.2 LTS et plus.",
+    "url": "https://extensions.blender.org/add-ons/zephyrhair-dynamics/",
+    "tags": [
+      "blender-addon",
+      "simulation",
+      "open-source"
+    ],
+    "source": {
+      "label": "Blender Extensions — Zeeks Hair",
+      "url": "https://extensions.blender.org/add-ons/zephyrhair-dynamics/"
+    }
+  },
+  {
+    "date": "2026-10-10",
+    "name": "Blender Animations Plugin 3.1.1 (Roblox)",
+    "summary": "Add-on Blender open source (GPL-3.0) pour importer et exporter des animations Roblox depuis Blender. La 3.1.1 (9 octobre) corrige les easings et un crash de Blender. Utile pour animer des rigs Roblox avec les outils de Blender.",
+    "url": "https://github.com/Cautioned/Blender-Animations-Plugin",
+    "tags": [
+      "blender-addon",
+      "animation",
+      "open-source"
+    ],
+    "source": {
+      "label": "GitHub — release 3.1.1",
+      "url": "https://github.com/Cautioned/Blender-Animations-Plugin/releases/tag/3.1.1"
+    }
+  },
+  {
+    "date": "2026-10-10",
+    "name": "RealMotion Pro 2.0.1",
+    "summary": "Add-on Blender payant : bibliothèque d’animations prêtes à l’emploi avec retargeting vers Auto-Rig Pro, Rigify, Mixamo et Daz. La v2 passe au format Extension ; la 2.0.1 ajoute miniatures personnalisables et meilleure intégration HumanGen. Désinstaller les versions < 2.0 avant.",
+    "url": "https://superhivemarket.com/products/realmotion-pro",
+    "tags": [
+      "blender-addon",
+      "retargeting",
+      "payant"
+    ],
+    "source": {
+      "label": "Superhive Market — RealMotion Pro",
+      "url": "https://superhivemarket.com/products/realmotion-pro"
+    }
   }
 ]

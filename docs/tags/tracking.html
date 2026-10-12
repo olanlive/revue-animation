@@ -26,8 +26,10 @@
   <h3><a href="https://extensions.blender.org/add-ons/cv-autotrack/" rel="noopener" target="_blank">CV Auto Track 1.0.4</a></h3>
   <p class="summary">Add-on Blender libre (GPL-3.0) : auto-tracking OpenCV dans le Movie Clip Editor, presets Fast/Dynamic/High Motion, track + solve + raffinage en un clic, filtrage des pistes instables et prise en compte des masques. La 1.0.4 (12 oct) corrige le suivi des masques parentés.</p>
   <p class="source">Trouvé via : <a href="https://extensions.blender.org/add-ons/cv-autotrack/versions/" rel="noopener" target="_blank">Blender Extensions — CV Auto Track, historique des versions</a></p>
-  <div class="tags"><a class="tag" href="../index.html#tag=blender-addon">#blender-addon</a><a class="tag" href="../index.html#tag=tracking">#tracking</a><a class="tag" href="../index.html#tag=capture-video">#capture-video</a><a class="tag" href="../index.html#tag=open-source">#open-source</a></div>
-  <p class="share-x"><a href="https://x.com/intent/post?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ACV%20Auto%20Track%201.0.4%20%3A%20Add-on%20Blender%20libre%20%28GPL-3.0%29%20%3A%20auto-tracking%20OpenCV%20dans%20le%20Movie%20Clip%20Editor%2C%20presets%20Fast%2FDynamic%2FHigh%20Motion%2C%20track%20%2B%20solve%20%2B%20raffinage%20en%20un%20clic%2C%20filtrage%20des%20pistes%20instables%20et%20prise%20en%20comp%E2%80%A6%0Ahttps%3A%2F%2Fextensions.blender.org%2Fadd-ons%2Fcv-autotrack%2F%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a></p>
+  <p class="share-x" data-tags="blender-addon tracking capture-video open-source" data-text="Pépite du jour 💎
+CV Auto Track 1.0.4 : Add-on Blender libre (GPL-3.0) : auto-tracking OpenCV dans le Movie Clip Editor, presets Fast/Dynamic/High Motion, track + solve + raffinage en un clic, filtrage des pistes instables et prise en comp…
+https://extensions.blender.org/add-ons/cv-autotrack/
+#b3d #animation"><a class="share-btn" href="https://twitter.com/intent/tweet?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ACV%20Auto%20Track%201.0.4%20%3A%20Add-on%20Blender%20libre%20%28GPL-3.0%29%20%3A%20auto-tracking%20OpenCV%20dans%20le%20Movie%20Clip%20Editor%2C%20presets%20Fast%2FDynamic%2FHigh%20Motion%2C%20track%20%2B%20solve%20%2B%20raffinage%20en%20un%20clic%2C%20filtrage%20des%20pistes%20instables%20et%20prise%20en%20comp%E2%80%A6%0Ahttps%3A%2F%2Fextensions.blender.org%2Fadd-ons%2Fcv-autotrack%2F%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a> · <button type="button" class="copy-btn" hidden>Copier</button></p>
 </article>
 
 
@@ -38,5 +40,23 @@
          · <a href="../feed.xml">Flux RSS</a></p>
     </footer>
   </div>
+<script>/*PEPITES_SHARE*/
+(function(){
+  [].forEach.call(document.querySelectorAll('.share-x .copy-btn'),function(b){ if(navigator.clipboard) b.hidden=false; });
+  document.addEventListener('click',function(e){
+    var t=e.target, p=t.closest&&t.closest('.share-x'); if(!p) return;
+    var text=p.getAttribute('data-text');
+    if(t.closest('.share-btn')){
+      e.preventDefault();
+      if(navigator.share){ navigator.share({text:text}).catch(function(){}); }
+      else { window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(text),'_blank','noopener'); }
+    } else if(t.closest('.copy-btn')){
+      navigator.clipboard.writeText(text).then(function(){
+        var b=t.closest('.copy-btn'); b.textContent='Copié ✓'; setTimeout(function(){ b.textContent='Copier'; },2000);
+      }).catch(function(){});
+    }
+  });
+})();
+</script>
 </body>
 </html>

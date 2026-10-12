@@ -26,8 +26,10 @@
   <h3><a href="https://developer.blender.org/docs/release_notes/5.3/grease_pencil/" rel="noopener" target="_blank">Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw</a></h3>
   <p class="summary">Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil Carver qui découpe traits et remplissages en vraie booléenne, remplissage multi-régions d’un seul geste et traits cycliques.</p>
   <p class="source">Trouvé via : <a href="https://devtalk.blender.org/t/2026-09-28-grease-pencil-module-meeting-notes/45843" rel="noopener" target="_blank">Devtalk — Grease Pencil Module Meeting du 28 sept 2026</a></p>
-  <div class="tags"><a class="tag" href="../index.html#tag=blender">#blender</a><a class="tag" href="../index.html#tag=grease-pencil">#grease-pencil</a><a class="tag" href="../index.html#tag=2d">#2d</a></div>
-  <p class="share-x"><a href="https://x.com/intent/post?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ABlender%205.3%20%E2%80%94%20Grease%20Pencil%20%3A%20outil%20Carver%20et%20s%C3%A9lection%20en%20mode%20Draw%20%3A%20Blender%205.3%20%28b%C3%AAta%20imminente%2C%20sortie%20pr%C3%A9vue%20le%2010%20nov%29%20muscle%20Grease%20Pencil%20%3A%20s%C3%A9lection%20lasso%2Fbo%C3%AEte%20et%20copier-coller%20sans%20quitter%20le%20mode%20Draw%2C%20outil%E2%80%A6%0Ahttps%3A%2F%2Fdeveloper.blender.org%2Fdocs%2Frelease_notes%2F5.3%2Fgrease_pencil%2F%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a></p>
+  <p class="share-x" data-tags="blender grease-pencil 2d" data-text="Pépite du jour 💎
+Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw : Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil…
+https://developer.blender.org/docs/release_notes/5.3/grease_pencil/
+#b3d #animation"><a class="share-btn" href="https://twitter.com/intent/tweet?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ABlender%205.3%20%E2%80%94%20Grease%20Pencil%20%3A%20outil%20Carver%20et%20s%C3%A9lection%20en%20mode%20Draw%20%3A%20Blender%205.3%20%28b%C3%AAta%20imminente%2C%20sortie%20pr%C3%A9vue%20le%2010%20nov%29%20muscle%20Grease%20Pencil%20%3A%20s%C3%A9lection%20lasso%2Fbo%C3%AEte%20et%20copier-coller%20sans%20quitter%20le%20mode%20Draw%2C%20outil%E2%80%A6%0Ahttps%3A%2F%2Fdeveloper.blender.org%2Fdocs%2Frelease_notes%2F5.3%2Fgrease_pencil%2F%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a> · <button type="button" class="copy-btn" hidden>Copier</button></p>
 </article>
 
 
@@ -38,5 +40,23 @@
          · <a href="../feed.xml">Flux RSS</a></p>
     </footer>
   </div>
+<script>/*PEPITES_SHARE*/
+(function(){
+  [].forEach.call(document.querySelectorAll('.share-x .copy-btn'),function(b){ if(navigator.clipboard) b.hidden=false; });
+  document.addEventListener('click',function(e){
+    var t=e.target, p=t.closest&&t.closest('.share-x'); if(!p) return;
+    var text=p.getAttribute('data-text');
+    if(t.closest('.share-btn')){
+      e.preventDefault();
+      if(navigator.share){ navigator.share({text:text}).catch(function(){}); }
+      else { window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(text),'_blank','noopener'); }
+    } else if(t.closest('.copy-btn')){
+      navigator.clipboard.writeText(text).then(function(){
+        var b=t.closest('.copy-btn'); b.textContent='Copié ✓'; setTimeout(function(){ b.textContent='Copier'; },2000);
+      }).catch(function(){});
+    }
+  });
+})();
+</script>
 </body>
 </html>

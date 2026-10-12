@@ -26,8 +26,10 @@
   <h3><a href="https://github.com/Cautioned/Blender-Animations-Plugin" rel="noopener" target="_blank">Blender Animations Plugin 3.1.1 (Roblox)</a></h3>
   <p class="summary">Add-on Blender open source (GPL-3.0) pour importer et exporter des animations Roblox depuis Blender. La 3.1.1 (9 octobre) corrige les easings et un crash de Blender. Utile pour animer des rigs Roblox avec les outils de Blender.</p>
   <p class="source">Trouvé via : <a href="https://github.com/Cautioned/Blender-Animations-Plugin/releases/tag/3.1.1" rel="noopener" target="_blank">GitHub — release 3.1.1</a></p>
-  <div class="tags"><a class="tag" href="../index.html#tag=blender-addon">#blender-addon</a><a class="tag" href="../index.html#tag=animation">#animation</a><a class="tag" href="../index.html#tag=open-source">#open-source</a></div>
-  <p class="share-x"><a href="https://x.com/intent/post?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ABlender%20Animations%20Plugin%203.1.1%20%28Roblox%29%20%3A%20Add-on%20Blender%20open%20source%20%28GPL-3.0%29%20pour%20importer%20et%20exporter%20des%20animations%20Roblox%20depuis%20Blender.%20La%203.1.1%20%289%20octobre%29%20corrige%20les%20easings%20et%20un%20crash%20de%20Blender.%20Utile%20pour%20a%E2%80%A6%0Ahttps%3A%2F%2Fgithub.com%2FCautioned%2FBlender-Animations-Plugin%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a></p>
+  <p class="share-x" data-tags="blender-addon animation open-source" data-text="Pépite du jour 💎
+Blender Animations Plugin 3.1.1 (Roblox) : Add-on Blender open source (GPL-3.0) pour importer et exporter des animations Roblox depuis Blender. La 3.1.1 (9 octobre) corrige les easings et un crash de Blender. Utile pour a…
+https://github.com/Cautioned/Blender-Animations-Plugin
+#b3d #animation"><a class="share-btn" href="https://twitter.com/intent/tweet?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ABlender%20Animations%20Plugin%203.1.1%20%28Roblox%29%20%3A%20Add-on%20Blender%20open%20source%20%28GPL-3.0%29%20pour%20importer%20et%20exporter%20des%20animations%20Roblox%20depuis%20Blender.%20La%203.1.1%20%289%20octobre%29%20corrige%20les%20easings%20et%20un%20crash%20de%20Blender.%20Utile%20pour%20a%E2%80%A6%0Ahttps%3A%2F%2Fgithub.com%2FCautioned%2FBlender-Animations-Plugin%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a> · <button type="button" class="copy-btn" hidden>Copier</button></p>
 </article>
 
 
@@ -38,5 +40,23 @@
          · <a href="../feed.xml">Flux RSS</a></p>
     </footer>
   </div>
+<script>/*PEPITES_SHARE*/
+(function(){
+  [].forEach.call(document.querySelectorAll('.share-x .copy-btn'),function(b){ if(navigator.clipboard) b.hidden=false; });
+  document.addEventListener('click',function(e){
+    var t=e.target, p=t.closest&&t.closest('.share-x'); if(!p) return;
+    var text=p.getAttribute('data-text');
+    if(t.closest('.share-btn')){
+      e.preventDefault();
+      if(navigator.share){ navigator.share({text:text}).catch(function(){}); }
+      else { window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(text),'_blank','noopener'); }
+    } else if(t.closest('.copy-btn')){
+      navigator.clipboard.writeText(text).then(function(){
+        var b=t.closest('.copy-btn'); b.textContent='Copié ✓'; setTimeout(function(){ b.textContent='Copier'; },2000);
+      }).catch(function(){});
+    }
+  });
+})();
+</script>
 </body>
 </html>

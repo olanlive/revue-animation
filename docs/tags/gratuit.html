@@ -26,8 +26,10 @@
   <h3><a href="https://ahingel.gumroad.com/l/riginsec" rel="noopener" target="_blank">Riginsec</a></h3>
   <p class="summary">Nouvel add-on Blender gratuit (Gumroad, prix libre) sorti le 5 octobre : il rigge une surface et génère ses poids en quelques secondes pour l’animer tout de suite. Projet tout jeune, peu documenté et licence non précisée : à tester sur un fichier de travail.</p>
   <p class="source">Trouvé via : <a href="https://blenderartists.org/t/riginsec-free-addon-rig-any-surface-in-seconds/1654340" rel="noopener" target="_blank">Blender Artists — annonce de Riginsec</a></p>
-  <div class="tags"><a class="tag" href="../index.html#tag=blender-addon">#blender-addon</a><a class="tag" href="../index.html#tag=rigging">#rigging</a><a class="tag" href="../index.html#tag=gratuit">#gratuit</a><a class="tag" href="../index.html#tag=emerging">#emerging</a></div>
-  <p class="share-x"><a href="https://x.com/intent/post?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ARiginsec%20%3A%20Nouvel%20add-on%20Blender%20gratuit%20%28Gumroad%2C%20prix%20libre%29%20sorti%20le%205%20octobre%20%3A%20il%20rigge%20une%20surface%20et%20g%C3%A9n%C3%A8re%20ses%20poids%20en%20quelques%20secondes%20pour%20l%E2%80%99animer%20tout%20de%20suite.%20Projet%20tout%20jeune%2C%20peu%20document%C3%A9%20et%20licence%20n%E2%80%A6%0Ahttps%3A%2F%2Fahingel.gumroad.com%2Fl%2Friginsec%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a></p>
+  <p class="share-x" data-tags="blender-addon rigging gratuit emerging" data-text="Pépite du jour 💎
+Riginsec : Nouvel add-on Blender gratuit (Gumroad, prix libre) sorti le 5 octobre : il rigge une surface et génère ses poids en quelques secondes pour l’animer tout de suite. Projet tout jeune, peu documenté et licence n…
+https://ahingel.gumroad.com/l/riginsec
+#b3d #animation"><a class="share-btn" href="https://twitter.com/intent/tweet?text=P%C3%A9pite%20du%20jour%20%F0%9F%92%8E%0ARiginsec%20%3A%20Nouvel%20add-on%20Blender%20gratuit%20%28Gumroad%2C%20prix%20libre%29%20sorti%20le%205%20octobre%20%3A%20il%20rigge%20une%20surface%20et%20g%C3%A9n%C3%A8re%20ses%20poids%20en%20quelques%20secondes%20pour%20l%E2%80%99animer%20tout%20de%20suite.%20Projet%20tout%20jeune%2C%20peu%20document%C3%A9%20et%20licence%20n%E2%80%A6%0Ahttps%3A%2F%2Fahingel.gumroad.com%2Fl%2Friginsec%0A%23b3d%20%23animation" rel="noopener" target="_blank">Partager sur X</a> · <button type="button" class="copy-btn" hidden>Copier</button></p>
 </article>
 
 
@@ -38,5 +40,23 @@
          · <a href="../feed.xml">Flux RSS</a></p>
     </footer>
   </div>
+<script>/*PEPITES_SHARE*/
+(function(){
+  [].forEach.call(document.querySelectorAll('.share-x .copy-btn'),function(b){ if(navigator.clipboard) b.hidden=false; });
+  document.addEventListener('click',function(e){
+    var t=e.target, p=t.closest&&t.closest('.share-x'); if(!p) return;
+    var text=p.getAttribute('data-text');
+    if(t.closest('.share-btn')){
+      e.preventDefault();
+      if(navigator.share){ navigator.share({text:text}).catch(function(){}); }
+      else { window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(text),'_blank','noopener'); }
+    } else if(t.closest('.copy-btn')){
+      navigator.clipboard.writeText(text).then(function(){
+        var b=t.closest('.copy-btn'); b.textContent='Copié ✓'; setTimeout(function(){ b.textContent='Copier'; },2000);
+      }).catch(function(){});
+    }
+  });
+})();
+</script>
 </body>
 </html>

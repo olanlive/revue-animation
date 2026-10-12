@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-12 | Auto Face Mocap Pro | blender-addon, mocap, facial, payant | https://superhivemarket.com/products/auto-face-mocap-pro | https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro |
+| 2026-10-12 | Rig-GNS Pro 4.6.0 | blender-addon, rigging, retargeting, payant | https://22722studios.gumroad.com/l/yFocf | https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0 |
+| 2026-10-12 | VRM Add-on for Blender 4.10.2 | blender-addon, vrm, spring-bones, open-source | https://extensions.blender.org/add-ons/vrm/ | https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2 |
+| 2026-10-12 | CV Auto Track 1.0.4 | blender-addon, tracking, capture-video, open-source | https://extensions.blender.org/add-ons/cv-autotrack/ | https://olanlive.github.io/revue-animation/#2026-10-12-cv-auto-track-1-0-4 |
+| 2026-10-12 | B-Bone Gizmos 1.0.0 | blender-addon, rigging, bendy-bones, open-source | https://extensions.blender.org/add-ons/bbone-gizmo/ | https://olanlive.github.io/revue-animation/#2026-10-12-b-bone-gizmos-1-0-0 |
 | 2026-10-10 | Zeeks Hair 1.0.1 | blender-addon, simulation, open-source | https://extensions.blender.org/add-ons/zephyrhair-dynamics/ | https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1 |
 | 2026-10-10 | Blender Animations Plugin 3.1.1 (Roblox) | blender-addon, animation, open-source | https://github.com/Cautioned/Blender-Animations-Plugin | https://olanlive.github.io/revue-animation/#2026-10-10-blender-animations-plugin-3-1-1-roblox |
 | 2026-10-10 | RealMotion Pro 2.0.1 | blender-addon, retargeting, payant | https://superhivemarket.com/products/realmotion-pro | https://olanlive.github.io/revue-animation/#2026-10-10-realmotion-pro-2-0-1 |

@@ -5,8 +5,63 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auto Face Mocap Pro</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nouvel add-on Blender payant (dès 99 $ perso, 129 $ commercial, sous GPL) sorti le 11 octobre : il applique une capture faciale tirée d’une simple vidéo webcam ou téléphone sur un personnage doté des shape keys ARKit. Blender 5.2. Offre de lancement −30 %.</description>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>facial</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title>Rig-GNS Pro 4.6.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender payant (dès 80 $) de rigging Rigify et retargeting (Mixamo, Rokoko, ActorCore…) pour figures Daz Genesis et humanoïdes perso. La 4.6.0 du 11 oct ajoute des repères de landmarks déplaçables avec symétrie et un aperçu éditable des articulations avant génération.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>retargeting</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title>VRM Add-on for Blender 4.10.2</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Import/export et édition d’avatars VRM dans Blender (GPL-3.0 / MIT). La 4.10.0 du 10 oct ajoute un support expérimental des limites de spring bones ; les 4.10.1 et 4.10.2 corrigent des expressions/blend shapes détachées à l’import VRM0/VRM1. Blender 4.2 à 5.2.</description>
+      <category>blender-addon</category>
+      <category>vrm</category>
+      <category>spring-bones</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>CV Auto Track 1.0.4</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-12-cv-auto-track-1-0-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-cv-auto-track-1-0-4</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender libre (GPL-3.0) : auto-tracking OpenCV dans le Movie Clip Editor, presets Fast/Dynamic/High Motion, track + solve + raffinage en un clic, filtrage des pistes instables et prise en compte des masques. La 1.0.4 (12 oct) corrige le suivi des masques parentés.</description>
+      <category>blender-addon</category>
+      <category>tracking</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>B-Bone Gizmos 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-12-b-bone-gizmos-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-b-bone-gizmos-1-0-0</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nouvelle extension Blender gratuite (GPL-3.0) de Tal Hershko, extraite d’AnimToolbox : un outil de la barre d’outils en mode Pose qui façonne les bendy bones avec des gizmos type poignées de Bézier (position, rotation, échelle). Blender 4.2 LTS et plus.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>bendy-bones</category>
+      <category>open-source</category>
+    </item>
     <item>
       <title>Zeeks Hair 1.0.1</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1</link>

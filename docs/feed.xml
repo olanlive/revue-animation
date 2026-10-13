@@ -5,8 +5,67 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SAM3DBody-cpp</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-13-sam3dbody-cpp</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-sam3dbody-cpp</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Moteur C++ sans Python pour SAM 3D Body : mocap 3D temps réel depuis une seule caméra, multi-personnes, export BVH par acteur prêt pour Blender (script fourni). Code MIT ; poids issus du modèle SAM 3D Body de Meta, vérifier sa licence avant usage commercial.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>PhoneRig for Blender 1.1.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-13-phonerig-for-blender-1-1-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-phonerig-for-blender-1-1-0</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nouveau (11 oct), gratuit et GPL-3.0 : un téléphone Android devient caméra virtuelle 6DoF pour Blender via ARCore, avec retour vidéo, enregistrement de prises en keyframes, bake en F-curves propres et presets (épaule, dolly, grue). Wi-Fi local, Blender 4.2+.</description>
+      <category>blender-addon</category>
+      <category>camera</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MeshRig 0.2.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nouvelle appli autonome gratuite (GPL-3.0, Windows/macOS/Linux) qui rigge un mesh de .blend : squelette humanoïde, quadrupède ou chaîne calé dans le volume, poids calculés à travers le volume, brosse de poids, IK auto et test de pose. Pilote Blender (testé 5.2) en tâche de fond.</description>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>blender</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Ayatsuri2D 0.5.3</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-13-ayatsuri2d-0-5-3</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-ayatsuri2d-0-5-3</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Alternative ouverte à Live2D Cubism (GPL-3.0, Rust) pour la marionnette 2D temps réel : import et export moc3 v3 à v6 (compatible VTube Studio), format ouvert .aom, runtime embarquable via une API C. Très jeune : préversions, éditeur encore en chantier.</description>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Iki (moteur de marionnette 2D web)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-13-iki-moteur-de-marionnette-2d-web</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-iki-moteur-de-marionnette-2d-web</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Moteur de marionnette 2D pour le web sous MIT, alternative à Live2D et Inochi2D : format JSON ouvert .iki, warp mesh, masques, physique des cheveux, éditeur et auto-rig depuis des calques PNG/PSD, plus un serveur MCP pour faire générer les pièces par une IA. Démo en ligne.</description>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>web</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Auto Face Mocap Pro</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro</link>

@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-13 | SAM3DBody-cpp | mocap, capture-video, open-source | https://github.com/AmmarkoV/SAM3DBody-cpp | https://olanlive.github.io/revue-animation/#2026-10-13-sam3dbody-cpp |
+| 2026-10-13 | PhoneRig for Blender 1.1.0 | blender-addon, camera, capture-video, open-source, emerging | https://github.com/Fisl-Gaming/PhoneRig-for-Blender | https://olanlive.github.io/revue-animation/#2026-10-13-phonerig-for-blender-1-1-0 |
+| 2026-10-13 | MeshRig 0.2.0 | rigging, skinning, blender, open-source, emerging | https://github.com/Stuyk/meshrig | https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0 |
+| 2026-10-13 | Ayatsuri2D 0.5.3 | 2d, puppet, rigging, open-source, emerging | https://github.com/Yoru-KenomoVT/ayatsuri_2d | https://olanlive.github.io/revue-animation/#2026-10-13-ayatsuri2d-0-5-3 |
+| 2026-10-13 | Iki (moteur de marionnette 2D web) | 2d, puppet, rigging, web, open-source, emerging | https://github.com/zeikar/iki | https://olanlive.github.io/revue-animation/#2026-10-13-iki-moteur-de-marionnette-2d-web |
 | 2026-10-12 | Auto Face Mocap Pro | blender-addon, mocap, facial, payant | https://superhivemarket.com/products/auto-face-mocap-pro | https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro |
 | 2026-10-12 | Rig-GNS Pro 4.6.0 | blender-addon, rigging, retargeting, payant | https://22722studios.gumroad.com/l/yFocf | https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0 |
 | 2026-10-12 | VRM Add-on for Blender 4.10.2 | blender-addon, vrm, spring-bones, open-source | https://extensions.blender.org/add-ons/vrm/ | https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2 |

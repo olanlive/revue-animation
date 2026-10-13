@@ -335,5 +335,89 @@
       "label": "Blender Extensions — B-Bone Gizmos",
       "url": "https://extensions.blender.org/add-ons/bbone-gizmo/"
     }
+  },
+  {
+    "date": "2026-10-13",
+    "name": "SAM3DBody-cpp",
+    "summary": "Moteur C++ sans Python pour SAM 3D Body : mocap 3D temps réel depuis une seule caméra, multi-personnes, export BVH par acteur prêt pour Blender (script fourni). Code MIT ; poids issus du modèle SAM 3D Body de Meta, vérifier sa licence avant usage commercial.",
+    "url": "https://github.com/AmmarkoV/SAM3DBody-cpp",
+    "tags": [
+      "mocap",
+      "capture-video",
+      "open-source"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (mis à jour récemment)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "name": "PhoneRig for Blender 1.1.0",
+    "summary": "Nouveau (11 oct), gratuit et GPL-3.0 : un téléphone Android devient caméra virtuelle 6DoF pour Blender via ARCore, avec retour vidéo, enregistrement de prises en keyframes, bake en F-curves propres et presets (épaule, dolly, grue). Wi-Fi local, Blender 4.2+.",
+    "url": "https://github.com/Fisl-Gaming/PhoneRig-for-Blender",
+    "tags": [
+      "blender-addon",
+      "camera",
+      "capture-video",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (mis à jour récemment)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "name": "MeshRig 0.2.0",
+    "summary": "Nouvelle appli autonome gratuite (GPL-3.0, Windows/macOS/Linux) qui rigge un mesh de .blend : squelette humanoïde, quadrupède ou chaîne calé dans le volume, poids calculés à travers le volume, brosse de poids, IK auto et test de pose. Pilote Blender (testé 5.2) en tâche de fond.",
+    "url": "https://github.com/Stuyk/meshrig",
+    "tags": [
+      "rigging",
+      "skinning",
+      "blender",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (mis à jour récemment)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "name": "Ayatsuri2D 0.5.3",
+    "summary": "Alternative ouverte à Live2D Cubism (GPL-3.0, Rust) pour la marionnette 2D temps réel : import et export moc3 v3 à v6 (compatible VTube Studio), format ouvert .aom, runtime embarquable via une API C. Très jeune : préversions, éditeur encore en chantier.",
+    "url": "https://github.com/Yoru-KenomoVT/ayatsuri_2d",
+    "tags": [
+      "2d",
+      "puppet",
+      "rigging",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (mis à jour récemment)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "name": "Iki (moteur de marionnette 2D web)",
+    "summary": "Moteur de marionnette 2D pour le web sous MIT, alternative à Live2D et Inochi2D : format JSON ouvert .iki, warp mesh, masques, physique des cheveux, éditeur et auto-rig depuis des calques PNG/PSD, plus un serveur MCP pour faire générer les pièces par une IA. Démo en ligne.",
+    "url": "https://github.com/zeikar/iki",
+    "tags": [
+      "2d",
+      "puppet",
+      "rigging",
+      "web",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (mis à jour récemment)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
   }
 ]

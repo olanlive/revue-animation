@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-14 | mGear 5.4.0 | maya, rigging, animation, open-source | https://github.com/mgear-dev/mgear/releases/tag/5.4.0 | https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0 |
+| 2026-10-14 | Instant Rigger and Animator | blender-addon, rigging, animation, payant | https://superhivemarket.com/products/instant-rigger-and-animator-auto-rig-animate-and-export-humanoid-characters- | https://olanlive.github.io/revue-animation/#2026-10-14-instant-rigger-and-animator |
+| 2026-10-14 | Grease Pencil Auto Interpolate | blender-addon, grease-pencil, 2d, payant | https://superhivemarket.com/products/grease-pencil-auto-interpolate | https://olanlive.github.io/revue-animation/#2026-10-14-grease-pencil-auto-interpolate |
 | 2026-10-13 | SAM3DBody-cpp | mocap, capture-video, open-source | https://github.com/AmmarkoV/SAM3DBody-cpp | https://olanlive.github.io/revue-animation/#2026-10-13-sam3dbody-cpp |
 | 2026-10-13 | PhoneRig for Blender 1.1.0 | blender-addon, camera, capture-video, open-source, emerging | https://github.com/Fisl-Gaming/PhoneRig-for-Blender | https://olanlive.github.io/revue-animation/#2026-10-13-phonerig-for-blender-1-1-0 |
 | 2026-10-13 | MeshRig 0.2.0 | rigging, skinning, blender, open-source, emerging | https://github.com/Stuyk/meshrig | https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0 |

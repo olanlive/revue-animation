@@ -5,8 +5,41 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>mGear 5.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Framework de rig Maya gratuit (MIT) : la 5.4 du 14 oct ajoute Facial Rigger 3.0 (yeux/lèvres/sourcils unifiés), Anim Picker 2.0 (SVG, widgets), Blocking Ghosts (pelure d’oignon 3D), Spring Manager 2.0 et builds Shifter ~2× plus rapides. Maya 2022–2027.</description>
+      <category>maya</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Instant Rigger and Animator</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-14-instant-rigger-and-animator</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-14-instant-rigger-and-animator</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender payant (39 $, GPL) publié le 1er oct : auto-rig humanoïde guidé (vêtements, pièces séparées, robots), bibliothèque de 2300+ clips, corrections IK et export FBX/GLB sans quitter Blender. Blender 3.3–5.2.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title>Grease Pencil Auto Interpolate</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-14-grease-pencil-auto-interpolate</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-14-grease-pencil-auto-interpolate</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender payant (15 $, licence MIT) mis à jour le 2 oct : interpole automatiquement les in-betweens Grease Pencil via Geometry Nodes, en temps réel et non destructif, plus import line-art et mode Link Strokes. Blender 4.3–5.2.</description>
+      <category>blender-addon</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+      <category>payant</category>
+    </item>
     <item>
       <title>SAM3DBody-cpp</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-13-sam3dbody-cpp</link>

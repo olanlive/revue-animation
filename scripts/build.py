@@ -29,7 +29,7 @@ FEED_MAX = 100
 SUMMARY_MAX = 280
 
 SITE_TITLE = "Pépites Animation"
-SITE_DESC = "Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours."
+SITE_DESC = "Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…)."
 
 CSS = """\
 :root {
@@ -153,8 +153,7 @@ h2.section {
   font-weight: 600;
   color: var(--text);
 }
-.day-sep:first-of-type,
-.day-sep.first { margin-top: 1.5rem; }
+.day-sep:first-of-type { margin-top: 1.5rem; }
 footer.site {
   margin-top: 3rem;
   padding-top: 1.25rem;
@@ -358,10 +357,9 @@ def format_day_fr(iso: str) -> str:
 
 
 def day_separator_html(iso: str, *, first: bool) -> str:
-    cls = "day-sep first" if first else "day-sep"
     return (
-        f'\n<h2 class="{cls}" id="jour-{esc(iso)}">'
-        f'<time datetime="{esc(iso)}">{esc(format_day_fr(iso))}</time></h2>\n'
+        f'\n<h3 class="day-sep" id="jour-{esc(iso)}">'
+        f'<time datetime="{esc(iso)}">{esc(format_day_fr(iso))}</time></h3>\n'
     )
 
 
@@ -407,7 +405,7 @@ def page(
     {crumb_html}
     {body}
     <footer class="site">
-      <p>Veille animation · open source d’abord (gratuit / payant signalé) · tous les jours</p>
+      <p>Veille animation · open source d’abord (gratuit / payant signalé)</p>
       <p><a href="{REPO_URL}">Code source sur GitHub</a>
          · <a href="{prefix}tags/index.html">Tous les tags</a>
          · <a href="{prefix}feed.xml">Flux RSS</a></p>

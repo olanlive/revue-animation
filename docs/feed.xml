@@ -3,7 +3,7 @@
   <channel>
     <title>Pépites Animation</title>
     <link>https://olanlive.github.io/revue-animation/</link>
-    <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours.</description>
+    <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
     <lastBuildDate>Wed, 14 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>

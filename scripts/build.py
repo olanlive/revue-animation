@@ -34,21 +34,21 @@ SITE_DESC = "Veille animation — logiciels open source, add-ons Blender d’ani
 CSS = """\
 /* Thème clair jaune (distinct de l’ambre sombre de Outils IT) — contrastes WCAG AA vérifiés, voir README */
 :root {
-  --bg: #fff7cc;
-  --surface: #fffdf2;
+  --bg: #0f1419;
+  --surface: #1a2332;
   --band: #ffd60a;
-  --border: #e8d27a;
-  --text: #1d1a0e;
-  --muted: #57491a;
-  --band-text: #1d1a0e;
+  --border: #2d3a4f;
+  --text: #e7ecf3;
+  --muted: #9aa8bc;
+  --band-text: #0f1419;
   --band-muted: #3b3000;
-  --accent: #665000;
-  --accent-hover: #3d3000;
-  --accent-line: #9c7a00;
-  --tag-bg: #ffe066;
-  --tag-text: #3b2f00;
-  --tag-hover-bg: #ffd21f;
-  --tag-hover-text: #2a2100;
+  --accent: #ffd60a;
+  --accent-hover: #ffe566;
+  --accent-line: #ffd60a;
+  --tag-bg: #243044;
+  --tag-text: #ffe58a;
+  --tag-hover-bg: #ffd60a;
+  --tag-hover-text: #0f1419;
   --radius: 8px;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
   --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;

@@ -32,23 +32,16 @@ SITE_TITLE = "Pépites Animation"
 SITE_DESC = "Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…) — tous les jours."
 
 CSS = """\
-/* Thème clair jaune (distinct de l’ambre sombre de Outils IT) — contrastes WCAG AA vérifiés, voir README */
 :root {
   --bg: #0f1419;
   --surface: #1a2332;
-  --band: #ffd60a;
   --border: #2d3a4f;
   --text: #e7ecf3;
   --muted: #9aa8bc;
-  --band-text: #0f1419;
-  --band-muted: #3b3000;
   --accent: #ffd60a;
   --accent-hover: #ffe566;
-  --accent-line: #ffd60a;
   --tag-bg: #243044;
   --tag-text: #ffe58a;
-  --tag-hover-bg: #ffd60a;
-  --tag-hover-text: #0f1419;
   --radius: 8px;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
   --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
@@ -66,19 +59,15 @@ body {
 }
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-hover); text-decoration: underline; }
-/* Liens dans du texte courant : soulignés (ne pas reposer sur la seule couleur, WCAG 1.4.1) */
-.discovery .source a, footer.site a { text-decoration: underline; text-underline-offset: 2px; }
-a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .wrap {
   max-width: var(--max);
   margin: 0 auto;
   padding: 1.25rem 1.25rem 3rem;
 }
 header.site {
-  background: var(--band);
-  border-radius: var(--radius);
+  border-bottom: 1px solid var(--border);
   margin-bottom: 2rem;
-  padding: 1.1rem 1.25rem 1.2rem;
+  padding-bottom: 1.25rem;
 }
 header.site h1 {
   margin: 0 0 0.35rem;
@@ -86,23 +75,21 @@ header.site h1 {
   font-weight: 700;
   letter-spacing: -0.02em;
 }
-header.site h1 a { color: var(--band-text); text-decoration: none; }
-header.site h1 a:hover { color: var(--band-text); text-decoration: underline; }
-header.site a:focus-visible { outline-color: var(--band-text); }
-.tagline { color: var(--band-muted); margin: 0; font-size: 0.95rem; }
+header.site h1 a { color: var(--text); text-decoration: none; }
+header.site h1 a:hover { color: var(--accent); }
+.tagline { color: var(--muted); margin: 0; font-size: 0.95rem; }
 nav.crumbs {
   font-size: 0.85rem;
   color: var(--muted);
   margin-bottom: 1.5rem;
 }
-nav.crumbs a { color: var(--accent); }
-nav.crumbs a:hover { color: var(--accent-hover); }
+nav.crumbs a { color: var(--muted); }
+nav.crumbs a:hover { color: var(--accent); }
 nav.crumbs span.sep { margin: 0 0.35rem; }
 .meta { color: var(--muted); font-size: 0.9rem; }
 .discovery {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-left: 4px solid var(--band);
   border-radius: var(--radius);
   padding: 1.15rem 1.25rem;
   margin-bottom: 1rem;
@@ -132,12 +119,12 @@ nav.crumbs span.sep { margin: 0 0.35rem; }
   font-family: var(--mono);
   padding: 0.2rem 0.55rem;
   border-radius: 999px;
-  border: 1px solid var(--accent-line);
+  border: 1px solid var(--border);
   text-decoration: none;
 }
 .tag:hover {
-  background: var(--tag-hover-bg);
-  color: var(--tag-hover-text);
+  background: #2e4058;
+  color: var(--accent-hover);
   text-decoration: none;
   border-color: var(--accent);
 }
@@ -158,21 +145,20 @@ h2.section {
   font-size: 0.9rem;
   margin: 0 0 0.35rem;
 }
-/* Séparateur de date (page d’accueil) : grand espace au-dessus, titre lisible, trait jaune foncé */
-h2.day-sep {
+.day-sep {
   margin: 2.75rem 0 1rem;
   padding-bottom: 0.4rem;
-  border-bottom: 2px solid var(--accent-line);
-  color: var(--text);
-  font-size: 1.15rem;
+  border-bottom: 1px solid var(--accent);
+  font-size: 1.1rem;
   font-weight: 600;
-  letter-spacing: 0.01em;
+  color: var(--text);
 }
-h2.day-sep.first { margin-top: 1.25rem; }
+.day-sep:first-of-type,
+.day-sep.first { margin-top: 1.5rem; }
 footer.site {
   margin-top: 3rem;
   padding-top: 1.25rem;
-  border-top: 1px solid var(--accent-line);
+  border-top: 1px solid var(--border);
   color: var(--muted);
   font-size: 0.85rem;
 }

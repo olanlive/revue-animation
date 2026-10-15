@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-15 | Rigby2D | 2d, rigging, skeletal, open-source, emerging | https://github.com/jaisurya-dev-art/rigby2d | https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d |
+| 2026-10-15 | Character DNA Addon 0.14.4 (MetaHuman → Blender) | blender-addon, rigging, facial, metahuman, open-source | https://github.com/poly-hammer/character-dna-addon/releases/tag/0.14.4 | https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender |
+| 2026-10-15 | Kinesia | mocap, capture-video, open-source, emerging | https://github.com/flyaurelien/kinesia | https://olanlive.github.io/revue-animation/#2026-10-15-kinesia |
+| 2026-10-15 | Driver Espresso Lite 1.6.6 | blender-addon, animation, drivers, open-source | https://extensions.blender.org/add-ons/driver-espresso-lite/ | https://olanlive.github.io/revue-animation/#2026-10-15-driver-espresso-lite-1-6-6 |
+| 2026-10-15 | KeyCraft MIDI 1.4.0 | blender-addon, animation, midi, open-source | https://extensions.blender.org/add-ons/keycraft-midi/ | https://olanlive.github.io/revue-animation/#2026-10-15-keycraft-midi-1-4-0 |
 | 2026-10-14 | mGear 5.4.0 | maya, rigging, animation, open-source | https://github.com/mgear-dev/mgear/releases/tag/5.4.0 | https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0 |
 | 2026-10-14 | Instant Rigger and Animator | blender-addon, rigging, animation, payant | https://superhivemarket.com/products/instant-rigger-and-animator-auto-rig-animate-and-export-humanoid-characters- | https://olanlive.github.io/revue-animation/#2026-10-14-instant-rigger-and-animator |
 | 2026-10-14 | Grease Pencil Auto Interpolate | blender-addon, grease-pencil, 2d, payant | https://superhivemarket.com/products/grease-pencil-auto-interpolate | https://olanlive.github.io/revue-animation/#2026-10-14-grease-pencil-auto-interpolate |

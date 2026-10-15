@@ -5,8 +5,65 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rigby2D</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Éditeur d’animation squelettale 2D gratuit (MIT), né le 13 oct : import PSD/PNG, os dessinés dans le viewport, dopesheet + graph editor, IK, export JSON/.skel + atlas compatible des formats runtime courants. Appli Tauri Win/Mac/Linux, à compiler (pas encore de binaire).</description>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>skeletal</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Character DNA Addon 0.14.4 (MetaHuman → Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender GPL-3.0 (base gratuite, version Pro payante) qui importe les fichiers DNA MetaHuman avec face board et correctifs via OpenRigLogic, puis les renvoie vers Unreal. La 0.14.x (9–14 oct) passe RigLogic en Z-up et corrige yeux/bouche. Blender 4.5/5.2.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>metahuman</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Kinesia</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-15-kinesia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-kinesia</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Mocap 3D multi-personnes depuis une seule vidéo (code CC0) : SAM 3.1 + SAM 3D Body + DINOv3, suivi et ré-identification, pieds ancrés au sol, viewer web. Lourd (Linux, GPU NVIDIA ~32 Go), modèles Meta sous licence SAM restrictive, export CSV/JSON (pas de BVH/FBX annoncé).</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Driver Espresso Lite 1.6.6</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-15-driver-espresso-lite-1-6-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-driver-espresso-lite-1-6-6</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender gratuit (GPL-3.0) : 18 « recettes » de drivers prêtes à l’emploi (oscillation, clignotement, rotation en boucle, fondus, ease/spring, néons RGB) avec aperçu de courbe live et décalage sur plusieurs objets ou os. Drivers natifs : l’anim survit à la désinstallation.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>drivers</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>KeyCraft MIDI 1.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-15-keycraft-midi-1-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-keycraft-midi-1-4-0</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender gratuit (GPL-3.0) qui génère un clavier piano/synthé et l’anime depuis un contrôleur MIDI, enregistré en keyframes éditables. La 1.4.0 (14 oct) gère claviers existants, multi-canaux, orgue et lecture de MIDI/MusicXML/PDF. MIDI live sous Windows uniquement.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>midi</category>
+      <category>open-source</category>
+    </item>
     <item>
       <title>mGear 5.4.0</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0</link>

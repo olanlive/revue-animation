@@ -549,5 +549,89 @@
       "label": "Blender Extensions — add-ons récemment publiés",
       "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
     }
+  },
+  {
+    "date": "2026-10-16",
+    "name": "Moho 14.5 SHOWTIME",
+    "summary": "Logiciel d’anim 2D payant : la 14.5 (12 oct, gratuite pour les possesseurs de Moho 14) ajoute un mode Live Playback qui pilote tes persos à la webcam (visage) ou à la manette via Smart Bones/Actions, enregistrable en keyframes. Plus Paint Bucket refait et onion skins magnétiques.",
+    "url": "https://moho.lostmarble.com/blogs/news/moho-14-5-showtime-design-rig-and-animate-characters-live-all-the-power-of-moho-now-live",
+    "tags": [
+      "payant",
+      "2d",
+      "rigging",
+      "live"
+    ],
+    "source": {
+      "label": "Recherche web — page d’accueil Moho (bandeau « Moho 14.5 SHOWTIME »)",
+      "url": "https://moho.lostmarble.com/"
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "name": "ParaRig 1.2.0",
+    "summary": "Add-on Blender gratuit (GPL-3.0) qui génère un panneau de sliders à glisser dans le viewport et câble tout seul les drivers vers shape keys, os ou propriétés, sans écrire d’expression. La 1.2.0 (14 oct) pilote X/Y/Z d’un même os depuis un seul slider.",
+    "url": "https://extensions.blender.org/add-ons/para-rig/",
+    "tags": [
+      "blender-addon",
+      "rigging",
+      "drivers",
+      "open-source"
+    ],
+    "source": {
+      "label": "Blender Extensions — catalogue (API), tags Rigging/Animation",
+      "url": "https://extensions.blender.org/api/v1/extensions/"
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "name": "rig-c (rigging 2D compilé, sortie Spine)",
+    "summary": "Compilateur de rigs 2D (MIT) pensé pour les agents IA : PNG de parties + spec JSON → squelette Spine 4.3 (éditeur payant), vérifié par assertions avant écriture. Le module pose (v0.22.1, 16 oct) transfère une pose issue d’une vidéo sur le rig. Prototype en v0.x.",
+    "url": "https://github.com/rig-c/core",
+    "tags": [
+      "2d",
+      "rigging",
+      "ia",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "name": "aimocap 0.5.0 (vidéo → mocap MetaHuman, UE 5.8)",
+    "summary": "Plugin UE 5.8 + CLI (MIT, 15 oct) : vidéo → mocap à deux via GVHMR (licence non commerciale), nettoyage du glissement des pieds, retarget MetaHuman, séquence et rapport QC auto. Génération vidéo Seedance payante en crédits ; testé seulement Win 11/RTX 3090, doc en chinois.",
+    "url": "https://github.com/darcyjia/ue5-ai-mocap",
+    "tags": [
+      "mocap",
+      "capture-video",
+      "unreal",
+      "metahuman",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "name": "@three-ws/retarget",
+    "summary": "Lib Three.js (Apache-2.0, publiée le 10 oct) qui renomme les os de n’importe quel humanoïde GLB (Mixamo, VRM, Daz, UE, HumanIK, Blender .L/.R…) vers un squelette canonique et y retargete tes clips avec correction de rest pose, plus un runtime de fondus.",
+    "url": "https://github.com/nirholas/three-ws-retarget",
+    "tags": [
+      "retargeting",
+      "web",
+      "three-js",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget animation » (repos créés depuis le 8 oct)",
+      "url": "https://github.com/search?q=retarget+animation+created%3A%3E%3D2026-10-08&type=repositories"
+    }
   }
 ]

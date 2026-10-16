@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-16 | Moho 14.5 SHOWTIME | payant, 2d, rigging, live | https://moho.lostmarble.com/blogs/news/moho-14-5-showtime-design-rig-and-animate-characters-live-all-the-power-of-moho-now-live | https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime |
+| 2026-10-16 | ParaRig 1.2.0 | blender-addon, rigging, drivers, open-source | https://extensions.blender.org/add-ons/para-rig/ | https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0 |
+| 2026-10-16 | rig-c (rigging 2D compilé, sortie Spine) | 2d, rigging, ia, open-source, emerging | https://github.com/rig-c/core | https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine |
+| 2026-10-16 | aimocap 0.5.0 (vidéo → mocap MetaHuman, UE 5.8) | mocap, capture-video, unreal, metahuman, open-source, emerging | https://github.com/darcyjia/ue5-ai-mocap | https://olanlive.github.io/revue-animation/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8 |
+| 2026-10-16 | @three-ws/retarget | retargeting, web, three-js, open-source, emerging | https://github.com/nirholas/three-ws-retarget | https://olanlive.github.io/revue-animation/#2026-10-16-three-ws-retarget |
 | 2026-10-15 | Rigby2D | 2d, rigging, skeletal, open-source, emerging | https://github.com/jaisurya-dev-art/rigby2d | https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d |
 | 2026-10-15 | Character DNA Addon 0.14.4 (MetaHuman → Blender) | blender-addon, rigging, facial, metahuman, open-source | https://github.com/poly-hammer/character-dna-addon/releases/tag/0.14.4 | https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender |
 | 2026-10-15 | Kinesia | mocap, capture-video, open-source, emerging | https://github.com/flyaurelien/kinesia | https://olanlive.github.io/revue-animation/#2026-10-15-kinesia |

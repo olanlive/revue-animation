@@ -5,8 +5,67 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moho 14.5 SHOWTIME</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Logiciel d’anim 2D payant : la 14.5 (12 oct, gratuite pour les possesseurs de Moho 14) ajoute un mode Live Playback qui pilote tes persos à la webcam (visage) ou à la manette via Smart Bones/Actions, enregistrable en keyframes. Plus Paint Bucket refait et onion skins magnétiques.</description>
+      <category>payant</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>live</category>
+    </item>
+    <item>
+      <title>ParaRig 1.2.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender gratuit (GPL-3.0) qui génère un panneau de sliders à glisser dans le viewport et câble tout seul les drivers vers shape keys, os ou propriétés, sans écrire d’expression. La 1.2.0 (14 oct) pilote X/Y/Z d’un même os depuis un seul slider.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>drivers</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>rig-c (rigging 2D compilé, sortie Spine)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Compilateur de rigs 2D (MIT) pensé pour les agents IA : PNG de parties + spec JSON → squelette Spine 4.3 (éditeur payant), vérifié par assertions avant écriture. Le module pose (v0.22.1, 16 oct) transfère une pose issue d’une vidéo sur le rig. Prototype en v0.x.</description>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>aimocap 0.5.0 (vidéo → mocap MetaHuman, UE 5.8)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Plugin UE 5.8 + CLI (MIT, 15 oct) : vidéo → mocap à deux via GVHMR (licence non commerciale), nettoyage du glissement des pieds, retarget MetaHuman, séquence et rapport QC auto. Génération vidéo Seedance payante en crédits ; testé seulement Win 11/RTX 3090, doc en chinois.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>unreal</category>
+      <category>metahuman</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>@three-ws/retarget</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-16-three-ws-retarget</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-three-ws-retarget</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Lib Three.js (Apache-2.0, publiée le 10 oct) qui renomme les os de n’importe quel humanoïde GLB (Mixamo, VRM, Daz, UE, HumanIK, Blender .L/.R…) vers un squelette canonique et y retargete tes clips avec correction de rest pose, plus un runtime de fondus.</description>
+      <category>retargeting</category>
+      <category>web</category>
+      <category>three-js</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Rigby2D</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d</link>

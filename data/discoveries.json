@@ -633,5 +633,96 @@
       "label": "GitHub — recherche « retarget animation » (repos créés depuis le 8 oct)",
       "url": "https://github.com/search?q=retarget+animation+created%3A%3E%3D2026-10-08&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-17",
+    "name": "CAST (mocap vidéo pour n’importe quel squelette)",
+    "summary": "Code MIT + add-on Blender CAST Live publiés le 16 oct : capture le mouvement d’une vidéo RGB et le transfère en temps réel sur des squelettes de topologie différente (crabe, quadrupède…). Poids MIT ; backbone DINOv3 (licence Meta) et SAM2 à fournir à part, GPU CUDA requis.",
+    "url": "https://github.com/fankewen/CAST",
+    "tags": [
+      "mocap",
+      "capture-video",
+      "blender-addon",
+      "retargeting",
+      "ia",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "X — post de @Evan_THU (co-auteur), 16 oct",
+      "url": "https://x.com/Evan_THU/status/2110934552877342950"
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "name": "ComfyUI-GEM-X (mocap vidéo NVIDIA GEM-X → FBX)",
+    "summary": "Nœuds ComfyUI (Apache-2.0, 15 oct) : mocap corps entier (77 joints, mains et visage) depuis une seule vidéo avec NVIDIA GEM-X, puis retarget sur des FBX Mixamo, Unreal ou Unity avec aperçu 3D intégré. Poids sous NVIDIA Open Model License, ~10 Go de modèles, GPU NVIDIA requis.",
+    "url": "https://github.com/lkevincc0/ComfyUI-GEM-X",
+    "tags": [
+      "mocap",
+      "capture-video",
+      "retargeting",
+      "comfyui",
+      "ia",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion retargeting » (repos créés depuis le 14 oct)",
+      "url": "https://github.com/search?q=motion+retargeting+created%3A%3E%3D2026-10-14&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "name": "anny-maya 1.2.1 (humain paramétrique Anny dans Maya)",
+    "summary": "Module Maya 2022–2027 (Apache-2.0, v1.2.1 du 16 oct) qui amène le modèle humain Anny de NAVER (données CC0) : sliders d’âge et de morpho, 52 formes ARKit, tête Google GNM en option, puis bake en rig Maya classique (joints, skinCluster, blendShapes) prêt pour l’anim et le FBX.",
+    "url": "https://github.com/enriquevelmai/anny-maya",
+    "tags": [
+      "maya",
+      "rigging",
+      "facial",
+      "arkit",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "name": "RigFlow (transfert d’animation pour Maya)",
+    "summary": "Outil Maya (MIT, en ligne le 16 oct) qui transfère l’anim du corps entre persos aux proportions et nommages différents : appariement auto des joints avec score de confiance, retouche manuelle, aperçu HumanIK avant bake, visage intact. Alpha, Maya 2023–2024, sans release.",
+    "url": "https://github.com/luisvaldez3015-cmd/rigflow",
+    "tags": [
+      "maya",
+      "retargeting",
+      "animation",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "name": "ToothPaste for Blender 1.1.6 (SVG → Grease Pencil)",
+    "summary": "Extension Blender 5.0+ (mise en ligne le 15 oct) qui colle ou importe le SVG d’Illustrator, Figma, Affinity ou Inkscape en Grease Pencil v3 : matériaux éditables, masques multi-niveaux, découpe en calques, dégradés partiels. Licence CC-BY-4.0, inhabituelle pour du code.",
+    "url": "https://github.com/todormotion/toothpaste-for-blender",
+    "tags": [
+      "blender-addon",
+      "grease-pencil",
+      "2d",
+      "svg",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « grease pencil » (repos créés depuis le 12 oct)",
+      "url": "https://github.com/search?q=grease+pencil+created%3A%3E%3D2026-10-12&type=repositories"
+    }
   }
 ]

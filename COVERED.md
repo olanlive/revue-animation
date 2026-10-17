@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-17 | CAST (mocap vidéo pour n’importe quel squelette) | mocap, capture-video, blender-addon, retargeting, ia, open-source, emerging | https://github.com/fankewen/CAST | https://olanlive.github.io/revue-animation/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette |
+| 2026-10-17 | ComfyUI-GEM-X (mocap vidéo NVIDIA GEM-X → FBX) | mocap, capture-video, retargeting, comfyui, ia, open-source, emerging | https://github.com/lkevincc0/ComfyUI-GEM-X | https://olanlive.github.io/revue-animation/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx |
+| 2026-10-17 | anny-maya 1.2.1 (humain paramétrique Anny dans Maya) | maya, rigging, facial, arkit, open-source, emerging | https://github.com/enriquevelmai/anny-maya | https://olanlive.github.io/revue-animation/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya |
+| 2026-10-17 | RigFlow (transfert d’animation pour Maya) | maya, retargeting, animation, open-source, emerging | https://github.com/luisvaldez3015-cmd/rigflow | https://olanlive.github.io/revue-animation/#2026-10-17-rigflow-transfert-danimation-pour-maya |
+| 2026-10-17 | ToothPaste for Blender 1.1.6 (SVG → Grease Pencil) | blender-addon, grease-pencil, 2d, svg, open-source, emerging | https://github.com/todormotion/toothpaste-for-blender | https://olanlive.github.io/revue-animation/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil |
 | 2026-10-16 | Moho 14.5 SHOWTIME | payant, 2d, rigging, live | https://moho.lostmarble.com/blogs/news/moho-14-5-showtime-design-rig-and-animate-characters-live-all-the-power-of-moho-now-live | https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime |
 | 2026-10-16 | ParaRig 1.2.0 | blender-addon, rigging, drivers, open-source | https://extensions.blender.org/add-ons/para-rig/ | https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0 |
 | 2026-10-16 | rig-c (rigging 2D compilé, sortie Spine) | 2d, rigging, ia, open-source, emerging | https://github.com/rig-c/core | https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine |

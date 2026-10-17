@@ -5,8 +5,74 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CAST (mocap vidéo pour n’importe quel squelette)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Code MIT + add-on Blender CAST Live publiés le 16 oct : capture le mouvement d’une vidéo RGB et le transfère en temps réel sur des squelettes de topologie différente (crabe, quadrupède…). Poids MIT ; backbone DINOv3 (licence Meta) et SAM2 à fournir à part, GPU CUDA requis.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>ComfyUI-GEM-X (mocap vidéo NVIDIA GEM-X → FBX)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Nœuds ComfyUI (Apache-2.0, 15 oct) : mocap corps entier (77 joints, mains et visage) depuis une seule vidéo avec NVIDIA GEM-X, puis retarget sur des FBX Mixamo, Unreal ou Unity avec aperçu 3D intégré. Poids sous NVIDIA Open Model License, ~10 Go de modèles, GPU NVIDIA requis.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>comfyui</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>anny-maya 1.2.1 (humain paramétrique Anny dans Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Module Maya 2022–2027 (Apache-2.0, v1.2.1 du 16 oct) qui amène le modèle humain Anny de NAVER (données CC0) : sliders d’âge et de morpho, 52 formes ARKit, tête Google GNM en option, puis bake en rig Maya classique (joints, skinCluster, blendShapes) prêt pour l’anim et le FBX.</description>
+      <category>maya</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>arkit</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>RigFlow (transfert d’animation pour Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-17-rigflow-transfert-danimation-pour-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-rigflow-transfert-danimation-pour-maya</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Outil Maya (MIT, en ligne le 16 oct) qui transfère l’anim du corps entre persos aux proportions et nommages différents : appariement auto des joints avec score de confiance, retouche manuelle, aperçu HumanIK avant bake, visage intact. Alpha, Maya 2023–2024, sans release.</description>
+      <category>maya</category>
+      <category>retargeting</category>
+      <category>animation</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>ToothPaste for Blender 1.1.6 (SVG → Grease Pencil)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Extension Blender 5.0+ (mise en ligne le 15 oct) qui colle ou importe le SVG d’Illustrator, Figma, Affinity ou Inkscape en Grease Pencil v3 : matériaux éditables, masques multi-niveaux, découpe en calques, dégradés partiels. Licence CC-BY-4.0, inhabituelle pour du code.</description>
+      <category>blender-addon</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+      <category>svg</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Moho 14.5 SHOWTIME</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime</link>

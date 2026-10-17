@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation Gems</title>
+    <link>https://olanlive.github.io/revue-animation/en/</link>
+    <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title xml:lang="fr">CAST (mocap vidéo pour n’importe quel squelette)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Code MIT + add-on Blender CAST Live publiés le 16 oct : capture le mouvement d’une vidéo RGB et le transfère en temps réel sur des squelettes de topologie différente (crabe, quadrupède…). Poids MIT ; backbone DINOv3 (licence Meta) et SAM2 à fournir à part, GPU CUDA requis.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">ComfyUI-GEM-X (mocap vidéo NVIDIA GEM-X → FBX)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nœuds ComfyUI (Apache-2.0, 15 oct) : mocap corps entier (77 joints, mains et visage) depuis une seule vidéo avec NVIDIA GEM-X, puis retarget sur des FBX Mixamo, Unreal ou Unity avec aperçu 3D intégré. Poids sous NVIDIA Open Model License, ~10 Go de modèles, GPU NVIDIA requis.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>comfyui</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">anny-maya 1.2.1 (humain paramétrique Anny dans Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Module Maya 2022–2027 (Apache-2.0, v1.2.1 du 16 oct) qui amène le modèle humain Anny de NAVER (données CC0) : sliders d’âge et de morpho, 52 formes ARKit, tête Google GNM en option, puis bake en rig Maya classique (joints, skinCluster, blendShapes) prêt pour l’anim et le FBX.</description>
+      <category>maya</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>arkit</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">RigFlow (transfert d’animation pour Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-rigflow-transfert-danimation-pour-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-17-rigflow-transfert-danimation-pour-maya</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Outil Maya (MIT, en ligne le 16 oct) qui transfère l’anim du corps entre persos aux proportions et nommages différents : appariement auto des joints avec score de confiance, retouche manuelle, aperçu HumanIK avant bake, visage intact. Alpha, Maya 2023–2024, sans release.</description>
+      <category>maya</category>
+      <category>retargeting</category>
+      <category>animation</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">ToothPaste for Blender 1.1.6 (SVG → Grease Pencil)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</guid>
+      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Extension Blender 5.0+ (mise en ligne le 15 oct) qui colle ou importe le SVG d’Illustrator, Figma, Affinity ou Inkscape en Grease Pencil v3 : matériaux éditables, masques multi-niveaux, découpe en calques, dégradés partiels. Licence CC-BY-4.0, inhabituelle pour du code.</description>
+      <category>blender-addon</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+      <category>svg</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Moho 14.5 SHOWTIME</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-16-moho-14-5-showtime</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-16-moho-14-5-showtime</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Logiciel d’anim 2D payant : la 14.5 (12 oct, gratuite pour les possesseurs de Moho 14) ajoute un mode Live Playback qui pilote tes persos à la webcam (visage) ou à la manette via Smart Bones/Actions, enregistrable en keyframes. Plus Paint Bucket refait et onion skins magnétiques.</description>
+      <category>payant</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>live</category>
+    </item>
+    <item>
+      <title xml:lang="fr">ParaRig 1.2.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-16-pararig-1-2-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-16-pararig-1-2-0</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender gratuit (GPL-3.0) qui génère un panneau de sliders à glisser dans le viewport et câble tout seul les drivers vers shape keys, os ou propriétés, sans écrire d’expression. La 1.2.0 (14 oct) pilote X/Y/Z d’un même os depuis un seul slider.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>drivers</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">rig-c (rigging 2D compilé, sortie Spine)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Compilateur de rigs 2D (MIT) pensé pour les agents IA : PNG de parties + spec JSON → squelette Spine 4.3 (éditeur payant), vérifié par assertions avant écriture. Le module pose (v0.22.1, 16 oct) transfère une pose issue d’une vidéo sur le rig. Prototype en v0.x.</description>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>ia</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">aimocap 0.5.0 (vidéo → mocap MetaHuman, UE 5.8)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Plugin UE 5.8 + CLI (MIT, 15 oct) : vidéo → mocap à deux via GVHMR (licence non commerciale), nettoyage du glissement des pieds, retarget MetaHuman, séquence et rapport QC auto. Génération vidéo Seedance payante en crédits ; testé seulement Win 11/RTX 3090, doc en chinois.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>unreal</category>
+      <category>metahuman</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">@three-ws/retarget</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-16-three-ws-retarget</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-16-three-ws-retarget</guid>
+      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Lib Three.js (Apache-2.0, publiée le 10 oct) qui renomme les os de n’importe quel humanoïde GLB (Mixamo, VRM, Daz, UE, HumanIK, Blender .L/.R…) vers un squelette canonique et y retargete tes clips avec correction de rest pose, plus un runtime de fondus.</description>
+      <category>retargeting</category>
+      <category>web</category>
+      <category>three-js</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Rigby2D</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-15-rigby2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-15-rigby2d</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Éditeur d’animation squelettale 2D gratuit (MIT), né le 13 oct : import PSD/PNG, os dessinés dans le viewport, dopesheet + graph editor, IK, export JSON/.skel + atlas compatible des formats runtime courants. Appli Tauri Win/Mac/Linux, à compiler (pas encore de binaire).</description>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>skeletal</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Character DNA Addon 0.14.4 (MetaHuman → Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender GPL-3.0 (base gratuite, version Pro payante) qui importe les fichiers DNA MetaHuman avec face board et correctifs via OpenRigLogic, puis les renvoie vers Unreal. La 0.14.x (9–14 oct) passe RigLogic en Z-up et corrige yeux/bouche. Blender 4.5/5.2.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>metahuman</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Kinesia</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-15-kinesia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-15-kinesia</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Mocap 3D multi-personnes depuis une seule vidéo (code CC0) : SAM 3.1 + SAM 3D Body + DINOv3, suivi et ré-identification, pieds ancrés au sol, viewer web. Lourd (Linux, GPU NVIDIA ~32 Go), modèles Meta sous licence SAM restrictive, export CSV/JSON (pas de BVH/FBX annoncé).</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Driver Espresso Lite 1.6.6</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-15-driver-espresso-lite-1-6-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-15-driver-espresso-lite-1-6-6</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender gratuit (GPL-3.0) : 18 « recettes » de drivers prêtes à l’emploi (oscillation, clignotement, rotation en boucle, fondus, ease/spring, néons RGB) avec aperçu de courbe live et décalage sur plusieurs objets ou os. Drivers natifs : l’anim survit à la désinstallation.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>drivers</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">KeyCraft MIDI 1.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-15-keycraft-midi-1-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-15-keycraft-midi-1-4-0</guid>
+      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender gratuit (GPL-3.0) qui génère un clavier piano/synthé et l’anime depuis un contrôleur MIDI, enregistré en keyframes éditables. La 1.4.0 (14 oct) gère claviers existants, multi-canaux, orgue et lecture de MIDI/MusicXML/PDF. MIDI live sous Windows uniquement.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>midi</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">mGear 5.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-14-mgear-5-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-14-mgear-5-4-0</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Framework de rig Maya gratuit (MIT) : la 5.4 du 14 oct ajoute Facial Rigger 3.0 (yeux/lèvres/sourcils unifiés), Anim Picker 2.0 (SVG, widgets), Blocking Ghosts (pelure d’oignon 3D), Spring Manager 2.0 et builds Shifter ~2× plus rapides. Maya 2022–2027.</description>
+      <category>maya</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Instant Rigger and Animator</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-14-instant-rigger-and-animator</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-14-instant-rigger-and-animator</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender payant (39 $, GPL) publié le 1er oct : auto-rig humanoïde guidé (vêtements, pièces séparées, robots), bibliothèque de 2300+ clips, corrections IK et export FBX/GLB sans quitter Blender. Blender 3.3–5.2.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Grease Pencil Auto Interpolate</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-14-grease-pencil-auto-interpolate</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-14-grease-pencil-auto-interpolate</guid>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender payant (15 $, licence MIT) mis à jour le 2 oct : interpole automatiquement les in-betweens Grease Pencil via Geometry Nodes, en temps réel et non destructif, plus import line-art et mode Link Strokes. Blender 4.3–5.2.</description>
+      <category>blender-addon</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">SAM3DBody-cpp</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-sam3dbody-cpp</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-sam3dbody-cpp</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Moteur C++ sans Python pour SAM 3D Body : mocap 3D temps réel depuis une seule caméra, multi-personnes, export BVH par acteur prêt pour Blender (script fourni). Code MIT ; poids issus du modèle SAM 3D Body de Meta, vérifier sa licence avant usage commercial.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">PhoneRig for Blender 1.1.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-phonerig-for-blender-1-1-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-phonerig-for-blender-1-1-0</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouveau (11 oct), gratuit et GPL-3.0 : un téléphone Android devient caméra virtuelle 6DoF pour Blender via ARCore, avec retour vidéo, enregistrement de prises en keyframes, bake en F-curves propres et presets (épaule, dolly, grue). Wi-Fi local, Blender 4.2+.</description>
+      <category>blender-addon</category>
+      <category>camera</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">MeshRig 0.2.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-meshrig-0-2-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-meshrig-0-2-0</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouvelle appli autonome gratuite (GPL-3.0, Windows/macOS/Linux) qui rigge un mesh de .blend : squelette humanoïde, quadrupède ou chaîne calé dans le volume, poids calculés à travers le volume, brosse de poids, IK auto et test de pose. Pilote Blender (testé 5.2) en tâche de fond.</description>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>blender</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Ayatsuri2D 0.5.3</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-ayatsuri2d-0-5-3</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-ayatsuri2d-0-5-3</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Alternative ouverte à Live2D Cubism (GPL-3.0, Rust) pour la marionnette 2D temps réel : import et export moc3 v3 à v6 (compatible VTube Studio), format ouvert .aom, runtime embarquable via une API C. Très jeune : préversions, éditeur encore en chantier.</description>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Iki (moteur de marionnette 2D web)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-iki-moteur-de-marionnette-2d-web</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-iki-moteur-de-marionnette-2d-web</guid>
+      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Moteur de marionnette 2D pour le web sous MIT, alternative à Live2D et Inochi2D : format JSON ouvert .iki, warp mesh, masques, physique des cheveux, éditeur et auto-rig depuis des calques PNG/PSD, plus un serveur MCP pour faire générer les pièces par une IA. Démo en ligne.</description>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>web</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Auto Face Mocap Pro</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-12-auto-face-mocap-pro</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-12-auto-face-mocap-pro</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouvel add-on Blender payant (dès 99 $ perso, 129 $ commercial, sous GPL) sorti le 11 octobre : il applique une capture faciale tirée d’une simple vidéo webcam ou téléphone sur un personnage doté des shape keys ARKit. Blender 5.2. Offre de lancement −30 %.</description>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>facial</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Rig-GNS Pro 4.6.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-12-rig-gns-pro-4-6-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-12-rig-gns-pro-4-6-0</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender payant (dès 80 $) de rigging Rigify et retargeting (Mixamo, Rokoko, ActorCore…) pour figures Daz Genesis et humanoïdes perso. La 4.6.0 du 11 oct ajoute des repères de landmarks déplaçables avec symétrie et un aperçu éditable des articulations avant génération.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>retargeting</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">VRM Add-on for Blender 4.10.2</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-12-vrm-add-on-for-blender-4-10-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-12-vrm-add-on-for-blender-4-10-2</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Import/export et édition d’avatars VRM dans Blender (GPL-3.0 / MIT). La 4.10.0 du 10 oct ajoute un support expérimental des limites de spring bones ; les 4.10.1 et 4.10.2 corrigent des expressions/blend shapes détachées à l’import VRM0/VRM1. Blender 4.2 à 5.2.</description>
+      <category>blender-addon</category>
+      <category>vrm</category>
+      <category>spring-bones</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">CV Auto Track 1.0.4</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-12-cv-auto-track-1-0-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-12-cv-auto-track-1-0-4</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender libre (GPL-3.0) : auto-tracking OpenCV dans le Movie Clip Editor, presets Fast/Dynamic/High Motion, track + solve + raffinage en un clic, filtrage des pistes instables et prise en compte des masques. La 1.0.4 (12 oct) corrige le suivi des masques parentés.</description>
+      <category>blender-addon</category>
+      <category>tracking</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">B-Bone Gizmos 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-12-b-bone-gizmos-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-12-b-bone-gizmos-1-0-0</guid>
+      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouvelle extension Blender gratuite (GPL-3.0) de Tal Hershko, extraite d’AnimToolbox : un outil de la barre d’outils en mode Pose qui façonne les bendy bones avec des gizmos type poignées de Bézier (position, rotation, échelle). Blender 4.2 LTS et plus.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>bendy-bones</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Zeeks Hair 1.0.1</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-10-zeeks-hair-1-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-10-zeeks-hair-1-0-1</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender gratuit (GPL-3.0) qui simplifie la mise en place et le réglage de la dynamique soft body pour cheveux en cartes, strands ou meshes. La 1.0.1 (6 octobre) corrige des erreurs et des bugs de bake. Blender 4.2 LTS et plus.</description>
+      <category>blender-addon</category>
+      <category>simulation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Blender Animations Plugin 3.1.1 (Roblox)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-10-blender-animations-plugin-3-1-1-roblox</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-10-blender-animations-plugin-3-1-1-roblox</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender open source (GPL-3.0) pour importer et exporter des animations Roblox depuis Blender. La 3.1.1 (9 octobre) corrige les easings et un crash de Blender. Utile pour animer des rigs Roblox avec les outils de Blender.</description>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">RealMotion Pro 2.0.1</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-10-realmotion-pro-2-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-10-realmotion-pro-2-0-1</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender payant : bibliothèque d’animations prêtes à l’emploi avec retargeting vers Auto-Rig Pro, Rigify, Mixamo et Daz. La v2 passe au format Extension ; la 2.0.1 ajoute miniatures personnalisables et meilleure intégration HumanGen. Désinstaller les versions &lt; 2.0 avant.</description>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">cvELD Edit Paint</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-cveld-edit-paint</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-cveld-edit-paint</guid>
+      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender (9,99 $, payant mais sous GPL) qui permet de peindre les poids de plusieurs os directement en mode Édition : demi-pinceau, dégradés directionnels (dont Ribbon), éditeur de poids par sommet, normalisation stricte et verrous protégés. Blender 4.5 à 5.2.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>weight-paint</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Riginsec</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-riginsec</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-riginsec</guid>
+      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouvel add-on Blender gratuit (Gumroad, prix libre) sorti le 5 octobre : il rigge une surface et génère ses poids en quelques secondes pour l’animer tout de suite. Projet tout jeune, peu documenté et licence non précisée : à tester sur un fichier de travail.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>gratuit</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Aseprite 1.3.18.6</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-aseprite-1-3-18-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-aseprite-1-3-18-6</guid>
+      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Mise à jour de l’éditeur de pixel art et d’animation sprite : correction du crash au collage de tilemaps, export JSON de sprite sheets corrigé, améliorations X11 sous Linux. Code source disponible mais licence non libre ; binaires payants (compilation perso autorisée).</description>
+      <category>2d</category>
+      <category>pixel-art</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Blender 5.3 — Grease Pencil : outil Carver et sélection en mode Draw</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Blender 5.3 (bêta imminente, sortie prévue le 10 nov) muscle Grease Pencil : sélection lasso/boîte et copier-coller sans quitter le mode Draw, outil Carver qui découpe traits et remplissages en vraie booléenne, remplissage multi-régions d’un seul geste et traits cycliques.</description>
+      <category>blender</category>
+      <category>grease-pencil</category>
+      <category>2d</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Blender 5.3 — Animation &amp; Rigging : conversion des modes de rotation</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Côté anim, Blender 5.3 convertit enfin nativement l’animation d’un mode de rotation à l’autre (Ctrl+R en Pose, remplace l’opérateur de Rigify), ajoute un curseur d’influence au collage de pose, étend Fix to Camera à la focale et met la lecture en pause pendant le scrub.</description>
+      <category>blender</category>
+      <category>rigging</category>
+      <category>keyframing</category>
+    </item>
+    <item>
+      <title xml:lang="fr">FreePicker 4.7.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-freepicker-4-7-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-freepicker-4-7-0</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on Blender (GPL) qui ajoute un picker flottant pour sélectionner os et objets via des boutons qu’on place et redimensionne librement, indépendant des selection sets natifs, avec export/import JSON des layouts. La 4.7.0 du 4 oct ajoute la duplication de boutons. Blender 5.0+.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>picker</category>
+    </item>
+    <item>
+      <title xml:lang="fr">OPEN-TOON 0.2.0-experimental</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-open-toon-0-2-0-experimental</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-open-toon-0-2-0-experimental</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Nouvelle appli d’animation 2D open source (GPL, C++/Qt 6) lancée le 20 sept : dessin vectoriel et brosses MyPaint, timeline/Xsheet, pelure d’oignon, courbes d’animation et rig de perso éditable. Préversions expérimentales macOS et Linux (AppImage) ; projet très jeune.</description>
+      <category>2d</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">FlowHMR</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-flowhmr</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-flowhmr</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Mocap depuis une seule vidéo : FlowHMR (code et poids publiés fin sept, article arXiv en oct) génère un mouvement 3D global corps + mains physiquement plausible, avec démo web et export FBX. Licence recherche : usage commercial interdit.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Krita 5.3.4 / 6.0.4</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-krita-5-3-4-6-0-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-krita-5-3-4-6-0-4</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Krita 5.3.4 (Qt 5) et 6.0.4 (Qt 6, Wayland et HDR sous Linux), sorties le 15 sept : la version Android exporte enfin en vidéo les animations image par image et les timelapses, avec une salve de correctifs. L’import XCF de GIMP est retiré (dépendance non maintenue).</description>
+      <category>2d</category>
+      <category>krita</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">CloudRig 2.2.31</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-cloudrig-2-2-31</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-cloudrig-2-2-31</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Le générateur de rigs du Blender Studio (gratuit, GPL) passe en 2.2.31 le 5 oct : génération 2 à 5× plus rapide (le gain dépend de la complexité du fichier, surtout avec Blender 5.3) et composant « Chain: Layered » peaufiné sur le film Cowboi. Pour Blender 5.0 à 5.x.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">RBF Nodes 4</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-rbf-nodes-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-rbf-nodes-4</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Add-on payant (17,99 $ sur Superhive) de Brave Rabbit : un solveur RBF en nœuds pour piloter plusieurs valeurs depuis plusieurs entrées (correctifs d’épaules, rigs faciaux). La v4 refait le solveur, gère mieux les rotations et ajoute un runtime gratuit. Rigs v3 à reconstruire.</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>payant</category>
+    </item>
+    <item>
+      <title xml:lang="fr">LibreSprite 1.3</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-libresprite-1-3</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-libresprite-1-3</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Éditeur de sprites animés et de pixel art libre (GPLv2, fork d’Aseprite) : la 1.3 du 2 oct est la première depuis mars 2025. Brosses jusqu’à 256 px, symétrie étendue, raccourci mode tuilé, meilleure gestion hi-DPI et correctifs de sécurité (zip-slip, sandbox des scripts).</description>
+      <category>2d</category>
+      <category>pixel-art</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">FreeMoCap 2.0.0-alpha.25</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-freemocap-2-0-0-alpha-25</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-freemocap-2-0-0-alpha-25</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">Mocap sans marqueurs libre (AGPL) à partir de webcams : l’alpha 25 du 24 sept ajoute des options d’export Blender dans l’interface, améliore la détection des mains et corrige l’usage sur machines sans GPU. Installeurs Windows/macOS/Linux, mais c’est une alpha : prudence.</description>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title xml:lang="fr">Auto-Rig Pro 3.78.62</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-auto-rig-pro-3-78-62</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-auto-rig-pro-3-78-62</guid>
+      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
+      <description xml:lang="fr">L’add-on de rigging payant de référence pour Blender enchaîne les mises à jour fin sept/début oct : le rig facial Smart détecte seul la surface du visage et la forme des yeux, nouveau preset Remap « Auto-Rig Pro Skeleton » et export FBX vers Unreal plus fiable (bind pose).</description>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>payant</category>
+    </item>
+  </channel>
+</rss>

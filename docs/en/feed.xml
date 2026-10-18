@@ -5,8 +5,73 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CEB SAM 3D Body Loader (AI mocap in Blender, now free)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-ceb-sam-3d-body-loader-mocap-ia-dans-blender-devenu-gratuit</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-18-ceb-sam-3d-body-loader-mocap-ia-dans-blender-devenu-gratuit</guid>
+      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Since Oct 17, Carlos Barreto’s add-on is free: video mocap (GEM-X, SAM 3D Body) in Blender 4.0 to 5.2, retargeting to Auto-Rig Pro, foot-sliding fix, walk along a curve. Windows only; some underlying models are restricted to non-commercial use.</description>
+      <category>gratuit</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>ia</category>
+    </item>
+    <item>
+      <title>Viewport Avatar Toolset 0.4.1 (Bento animation for Second Life)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-viewport-avatar-toolset-0-4-1-animation-bento-pour-second-life</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-18-viewport-avatar-toolset-0-4-1-animation-bento-pour-second-life</guid>
+      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Free, open-source animation editor (LGPL-2.1, Linux and Windows) for Second Life’s Bento avatar: timeline, IK, graph editor, BVH, glTF, FBX or network mocap import, .anim and BVH export. Version 0.4 (Oct 17) resizes the whole skeleton and scales the keys.</description>
+      <category>animation</category>
+      <category>rigging</category>
+      <category>mocap</category>
+      <category>second-life</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>video2live2d (video → Live2D motion)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-video2live2d-video-motion-live2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-18-video2live2d-video-motion-live2d</guid>
+      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Command-line tool (MIT, Linux and macOS) released Oct 17 that turns a face-and-shoulders video into a Live2D Cubism motion3.json for VBridger models: head, eyes, brows, mouth, breathing, auto calibration. No iPhone, no live tracking.</description>
+      <category>2d</category>
+      <category>live2d</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>facial</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>PaperDoll 1.0.0 (Inochi2D puppets in C#)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-paperdoll-1-0-0-marionnettes-inochi2d-en-c</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-18-paperdoll-1-0-0-marionnettes-inochi2d-en-c</guid>
+      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
+      <description>.NET runtime (BSD-2), 1.0.0 out Oct 17, that loads, animates and draws Inochi2D 2D puppets (.inp, .inx) in FNA or MonoGame: parameters, mesh deformation, masks, physics, several puppets on screen. A from-scratch C# port of Inochi2D and nijilive.</description>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>runtime</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Stop Motion Pancake (stop-motion studio)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-stop-motion-pancake-studio-de-stop-motion</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-18-stop-motion-pancake-studio-de-stop-motion</guid>
+      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Desktop stop-motion studio (MIT, macOS, Windows, Linux) online since Oct 15: webcam or iPhone capture, onion skinning, vector rotoscoping, exposures on 1s, 2s or 3s, frame-by-frame audio scrubbing for lip-sync and an exposure sheet.</description>
+      <category>2d</category>
+      <category>stop-motion</category>
+      <category>lip-sync</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>CAST (video mocap for any skeleton)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</link>

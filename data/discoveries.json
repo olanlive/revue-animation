@@ -859,5 +859,110 @@
       "label_en": "GitHub — search “grease pencil” (repos created since Oct 12)",
       "url": "https://github.com/search?q=grease+pencil+created%3A%3E%3D2026-10-12&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "CEB SAM 3D Body Loader (mocap IA dans Blender, devenu gratuit)",
+    "name_en": "CEB SAM 3D Body Loader (AI mocap in Blender, now free)",
+    "summary": "Depuis le 17 oct, l’add-on de Carlos Barreto est gratuit : mocap vidéo (GEM-X, SAM 3D Body) dans Blender 4.0 à 5.2, retarget vers Auto-Rig Pro, anti-glissement des pieds, marche sur courbe. Windows seulement ; certains modèles sous-jacents sont limités au non-commercial.",
+    "summary_en": "Since Oct 17, Carlos Barreto’s add-on is free: video mocap (GEM-X, SAM 3D Body) in Blender 4.0 to 5.2, retargeting to Auto-Rig Pro, foot-sliding fix, walk along a curve. Windows only; some underlying models are restricted to non-commercial use.",
+    "url": "https://www.patreon.com/cebstudios/posts/ceb-sam-3d-body-172610949",
+    "tags": [
+      "gratuit",
+      "blender-addon",
+      "mocap",
+      "capture-video",
+      "retargeting",
+      "ia"
+    ],
+    "source": {
+      "label": "X — post de @carlosedubarret (auteur), 17 oct",
+      "label_en": "X — post by @carlosedubarret (author), Oct 17",
+      "url": "https://x.com/carlosedubarret/status/2111396141984256373"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "Viewport Avatar Toolset 0.4.1 (animation Bento pour Second Life)",
+    "name_en": "Viewport Avatar Toolset 0.4.1 (Bento animation for Second Life)",
+    "summary": "Éditeur d’animation libre (LGPL-2.1, Linux et Windows) pour l’avatar Bento de Second Life : timeline, IK, graph editor, import BVH, glTF, FBX ou mocap réseau, export .anim et BVH. La 0.4 du 17 oct redimensionne tout le squelette en adaptant les clés.",
+    "summary_en": "Free, open-source animation editor (LGPL-2.1, Linux and Windows) for Second Life’s Bento avatar: timeline, IK, graph editor, BVH, glTF, FBX or network mocap import, .anim and BVH export. Version 0.4 (Oct 17) resizes the whole skeleton and scales the keys.",
+    "url": "https://github.com/squeedledorf/viewport-avatar-toolset",
+    "tags": [
+      "animation",
+      "rigging",
+      "mocap",
+      "second-life",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — topic motion-capture (sorted by update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "video2live2d (vidéo → motion Live2D)",
+    "name_en": "video2live2d (video → Live2D motion)",
+    "summary": "Outil en ligne de commande (MIT, Linux et macOS) publié le 17 oct qui transforme une vidéo de visage et d’épaules en motion3.json Live2D Cubism pour modèles VBridger : tête, yeux, sourcils, bouche, respiration, calibration auto. Sans iPhone ni suivi live.",
+    "summary_en": "Command-line tool (MIT, Linux and macOS) released Oct 17 that turns a face-and-shoulders video into a Live2D Cubism motion3.json for VBridger models: head, eyes, brows, mouth, breathing, auto calibration. No iPhone, no live tracking.",
+    "url": "https://github.com/FMsongX2/video2live2d",
+    "tags": [
+      "2d",
+      "live2d",
+      "mocap",
+      "capture-video",
+      "facial",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — topic motion-capture (sorted by update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "PaperDoll 1.0.0 (marionnettes Inochi2D en C#)",
+    "name_en": "PaperDoll 1.0.0 (Inochi2D puppets in C#)",
+    "summary": "Runtime .NET (BSD-2) sorti en 1.0.0 le 17 oct qui charge, anime et affiche les marionnettes 2D Inochi2D (.inp, .inx) dans FNA ou MonoGame : paramètres, déformation de mesh, masques, physique, plusieurs pantins à l’écran. Port C# réécrit d’Inochi2D et nijilive.",
+    "summary_en": ".NET runtime (BSD-2), 1.0.0 out Oct 17, that loads, animates and draws Inochi2D 2D puppets (.inp, .inx) in FNA or MonoGame: parameters, mesh deformation, masks, physics, several puppets on screen. A from-scratch C# port of Inochi2D and nijilive.",
+    "url": "https://github.com/rathinosk/PaperDoll",
+    "tags": [
+      "2d",
+      "puppet",
+      "rigging",
+      "runtime",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — topic rigging (sorted by update)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "Stop Motion Pancake (studio de stop-motion)",
+    "name_en": "Stop Motion Pancake (stop-motion studio)",
+    "summary": "Studio de stop-motion de bureau (MIT, macOS, Windows, Linux) mis en ligne le 15 oct : capture webcam ou iPhone, pelure d’oignon, rotoscopie vectorielle, expositions sur 1, 2 ou 3 images, scrub audio image par image pour le lip-sync et feuille d’expo.",
+    "summary_en": "Desktop stop-motion studio (MIT, macOS, Windows, Linux) online since Oct 15: webcam or iPhone capture, onion skinning, vector rotoscoping, exposures on 1s, 2s or 3s, frame-by-frame audio scrubbing for lip-sync and an exposure sheet.",
+    "url": "https://github.com/noodlefishy/Stop-motion-pancakes",
+    "tags": [
+      "2d",
+      "stop-motion",
+      "lip-sync",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lip sync animation » (repos créés depuis le 14 oct)",
+      "label_en": "GitHub — search “lip sync animation” (repos created since Oct 14)",
+      "url": "https://github.com/search?q=lip+sync+animation+created%3A%3E%3D2026-10-14&type=repositories"
+    }
   }
 ]

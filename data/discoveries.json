@@ -964,5 +964,109 @@
       "label_en": "GitHub — search “lip sync animation” (repos created since Oct 14)",
       "url": "https://github.com/search?q=lip+sync+animation+created%3A%3E%3D2026-10-14&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Rigger 1.2.0 (auto-rig Blender + vidéo → animation)",
+    "name_en": "Rigger 1.2.0 (Blender auto-rig + video to animation)",
+    "summary": "Auto-rigger modulaire pour Blender 4.2+ (GPL-3.0) : la 1.2.0 du 18 oct ajoute la vidéo → animation en local (corps, doigts, shape keys ARKit, root motion, pieds plantés), des marqueurs placés par IA et un picker dans la vue 3D.",
+    "summary_en": "Modular auto-rigger for Blender 4.2+ (GPL-3.0): 1.2.0 (Oct 18) adds local video-to-animation (body, fingers, ARKit shape keys, root motion, planted feet), AI-placed markers and a picker right in the 3D viewport.",
+    "url": "https://github.com/asu37/Rigger",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "retargeting",
+      "capture-video",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recently updated)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "name": "XR Animator 0.36.0 (mocap webcam IA)",
+    "name_en": "XR Animator 0.36.0 (AI webcam mocap)",
+    "summary": "Mocap corps entier par webcam (MediaPipe) pour avatars VRM/MMD, en web ou appli : la 0.36.0 du 17 oct ajoute un modèle de suivi « lite » plus rapide, le choix GPU/CPU et le mode web local sur Android et iOS. Gratuit, mais aucune licence déclarée sur le repo.",
+    "summary_en": "Full-body webcam mocap (MediaPipe) for VRM/MMD avatars, web or desktop: 0.36.0 (Oct 17) adds a faster “lite” body model, a GPU/CPU choice and local web app mode on Android and iOS. Free, but the repo declares no license.",
+    "url": "https://github.com/ButzYung/SystemAnimatorOnline",
+    "tags": [
+      "gratuit",
+      "mocap",
+      "capture-video",
+      "vrm",
+      "ia"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recently updated)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "name": "L2DEditor (rigging de marionnettes 2D façon Live2D)",
+    "name_en": "L2DEditor (Live2D-style 2D puppet rigging)",
+    "summary": "Éditeur open source (Apache-2.0) de marionnettes 2D, alternative à Cubism mis en ligne le 19 oct : import PSD, maillage et auto-rig, keyforms, physique, export .moc3 sans binaire Live2D, plus une CLI et un serveur MCP pour piloter le tout par agent IA.",
+    "summary_en": "Open-source (Apache-2.0) 2D puppet editor, a Cubism alternative published Oct 19: PSD import, meshing and auto-rig, keyforms, physics, .moc3 export without Live2D binaries, plus a CLI and an MCP server so AI agents can drive it.",
+    "url": "https://github.com/wsyzxjn/L2DEditor",
+    "tags": [
+      "open-source",
+      "2d",
+      "puppet",
+      "rigging",
+      "live2d",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 16 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 16)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E%3D2026-10-16&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "name": "MotionForge 1.0.1 (studio d’animation 2D Windows)",
+    "name_en": "MotionForge 1.0.1 (2D animation studio for Windows)",
+    "summary": "Studio d’animation 2D vectorielle façon Flash (MIT, C#/.NET 10, Windows) sorti le 19 oct : timeline à clés et interpolations avec easing, calques, symboles, pelure d’oignon, export GIF, PNG, sprite sheets et SVG. La 1.0.1 lisse le pinceau et ajoute une roue HSV.",
+    "summary_en": "Flash-style vector 2D animation studio (MIT, C#/.NET 10, Windows) released Oct 19: keyframe timeline with eased tweens, layers, symbols, onion skin, GIF, PNG, sprite sheet and SVG export. 1.0.1 smooths the brush and adds an HSV wheel.",
+    "url": "https://github.com/VaKaVo/MotionForge",
+    "tags": [
+      "open-source",
+      "2d",
+      "keyframing",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « topic:animation topic:blender » (mis à jour depuis le 17 oct)",
+      "label_en": "GitHub — search “topic:animation topic:blender” (updated since Oct 17)",
+      "url": "https://github.com/search?q=topic%3Aanimation+topic%3Ablender+pushed%3A%3E%3D2026-10-17&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "name": "VisemeMaker 1.0.0 (visèmes VRChat depuis A-I-U-E-O)",
+    "name_en": "VisemeMaker 1.0.0 (VRChat visemes from A-I-U-E-O)",
+    "summary": "Outil Unity (MIT) sorti le 16 oct qui fabrique les 14 visèmes VRChat à partir des 5 formes de voyelles déjà présentes (modèles MMD, VRoid, Source…) et branche le lip-sync sur le descripteur d’avatar, avec aperçu et réglage de force.",
+    "summary_en": "Unity tool (MIT) released Oct 16 that builds VRChat’s 14 visemes from the 5 vowel shapes most models already have (MMD, VRoid, Source…) and wires lip sync on the avatar descriptor, with preview and strength control.",
+    "url": "https://github.com/luna-gelmini/VisemeMaker",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "facial",
+      "unity",
+      "vrchat",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lip sync » (repos créés depuis le 16 oct)",
+      "label_en": "GitHub — search “lip sync” (repos created since Oct 16)",
+      "url": "https://github.com/search?q=lip+sync+created%3A%3E%3D2026-10-16&type=repositories&s=updated&o=desc"
+    }
   }
 ]

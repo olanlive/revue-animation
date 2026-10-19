@@ -5,8 +5,72 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rigger 1.2.0 (Blender auto-rig + video to animation)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-rigger-1-2-0-auto-rig-blender-video-animation</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-rigger-1-2-0-auto-rig-blender-video-animation</guid>
+      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Modular auto-rigger for Blender 4.2+ (GPL-3.0): 1.2.0 (Oct 18) adds local video-to-animation (body, fingers, ARKit shape keys, root motion, planted feet), AI-placed markers and a picker right in the 3D viewport.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>retargeting</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>XR Animator 0.36.0 (AI webcam mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-xr-animator-0-36-0-mocap-webcam-ia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-xr-animator-0-36-0-mocap-webcam-ia</guid>
+      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Full-body webcam mocap (MediaPipe) for VRM/MMD avatars, web or desktop: 0.36.0 (Oct 17) adds a faster “lite” body model, a GPU/CPU choice and local web app mode on Android and iOS. Free, but the repo declares no license.</description>
+      <category>gratuit</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>vrm</category>
+      <category>ia</category>
+    </item>
+    <item>
+      <title>L2DEditor (Live2D-style 2D puppet rigging)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-l2deditor-rigging-de-marionnettes-2d-facon-live2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-l2deditor-rigging-de-marionnettes-2d-facon-live2d</guid>
+      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Open-source (Apache-2.0) 2D puppet editor, a Cubism alternative published Oct 19: PSD import, meshing and auto-rig, keyforms, physics, .moc3 export without Live2D binaries, plus a CLI and an MCP server so AI agents can drive it.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>rigging</category>
+      <category>live2d</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MotionForge 1.0.1 (2D animation studio for Windows)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-motionforge-1-0-1-studio-danimation-2d-windows</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-motionforge-1-0-1-studio-danimation-2d-windows</guid>
+      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Flash-style vector 2D animation studio (MIT, C#/.NET 10, Windows) released Oct 19: keyframe timeline with eased tweens, layers, symbols, onion skin, GIF, PNG, sprite sheet and SVG export. 1.0.1 smooths the brush and adds an HSV wheel.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>keyframing</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>VisemeMaker 1.0.0 (VRChat visemes from A-I-U-E-O)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-visememaker-1-0-0-visemes-vrchat-depuis-a-i-u-e-o</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-visememaker-1-0-0-visemes-vrchat-depuis-a-i-u-e-o</guid>
+      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Unity tool (MIT) released Oct 16 that builds VRChat’s 14 visemes from the 5 vowel shapes most models already have (MMD, VRoid, Source…) and wires lip sync on the avatar descriptor, with preview and strength control.</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>unity</category>
+      <category>vrchat</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>CEB SAM 3D Body Loader (AI mocap in Blender, now free)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-18-ceb-sam-3d-body-loader-mocap-ia-dans-blender-devenu-gratuit</link>

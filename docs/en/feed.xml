@@ -5,8 +5,72 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ekza Animator (glTF/VRM character animation in the browser)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</guid>
+      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Open-source (MIT, alpha) in-browser character animator launched Oct 18: circle controls and leg IK on a GLB or VRM, Dope Sheet, a Graph Editor with Maya-style tangents, then bake back into the original file or export VRMA.</description>
+      <category>open-source</category>
+      <category>animation</category>
+      <category>keyframing</category>
+      <category>vrm</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MotionBridge 0.3.0 (browser video mocap → Blender and 2D)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</guid>
+      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
+      <description>First public release (MIT, Oct 19): the video is analysed in the browser (MediaPipe), the motion is retargeted onto your GLB/FBX character and exported as animated GLB or BVH for Blender; a second workspace animates 2D PNG cutout puppets.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>2d</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Lightweight CPU VTuber Tracker 0.1.0 (GPU-free webcam VRM mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-lightweight-cpu-vtuber-tracker-0-1-0-mocap-webcam-vrm-sans-gpu</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-lightweight-cpu-vtuber-tracker-0-1-0-mocap-webcam-vrm-sans-gpu</guid>
+      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Native Windows webcam tracker in Rust (v0.1.0, Oct 19) that drives a VRM avatar on the CPU alone: 52 ARKit blendshapes, gaze, arms, torso and fingers at 30 fps. Code is Apache-2.0/MIT, but the bundled body model is under the SAM License: read it before pro use.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>facial</category>
+      <category>vrm</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Riggle 0.1.1 (rig + jiggle bones, Blender-powered)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-riggle-0-1-1-rig-jiggle-bones-moteur-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-riggle-0-1-1-rig-jiggle-bones-moteur-blender</guid>
+      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Local rigging workbench (MIT, heavy WIP) driven by Blender: fit a 22-joint humanoid skeleton to your mesh, mark what should wobble (jiggle bones), then export rigged GLB + FBX with a spring manifest. Portable Windows build on Oct 19.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>blender</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>PuppetForge 1.0 (2D puppets on Android)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-puppetforge-1-0-marionnettes-2d-sur-android</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-puppetforge-1-0-marionnettes-2d-sur-android</guid>
+      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
+      <description>2D puppet studio for Android (MIT, v1.0 on Oct 20), a free alternative to Character Animator: PNG layers, pivots and bone hierarchy set by touch, live-performed animation, mic-driven lip sync, GIF or MP4 export, all on-device.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>puppet</category>
+      <category>lip-sync</category>
+      <category>android</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Rigger 1.2.0 (Blender auto-rig + video to animation)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-rigger-1-2-0-auto-rig-blender-video-animation</link>

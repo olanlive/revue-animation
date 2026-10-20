@@ -1068,5 +1068,109 @@
       "label_en": "GitHub — search “lip sync” (repos created since Oct 16)",
       "url": "https://github.com/search?q=lip+sync+created%3A%3E%3D2026-10-16&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Ekza Animator (animation de persos glTF/VRM dans le navigateur)",
+    "name_en": "Ekza Animator (glTF/VRM character animation in the browser)",
+    "summary": "Animateur de personnages open source (MIT, alpha) lancé le 18 oct, dans le navigateur : contrôles en cercle et IK de jambes sur un GLB ou un VRM, Dope Sheet, Graph Editor aux tangentes façon Maya, puis bake dans le fichier d’origine ou export VRMA.",
+    "summary_en": "Open-source (MIT, alpha) in-browser character animator launched Oct 18: circle controls and leg IK on a GLB or VRM, Dope Sheet, a Graph Editor with Maya-style tangents, then bake back into the original file or export VRMA.",
+    "url": "https://github.com/ekza-space/ekza-studio",
+    "tags": [
+      "open-source",
+      "animation",
+      "keyframing",
+      "vrm",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 18 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 18)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E%3D2026-10-18&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "MotionBridge 0.3.0 (mocap vidéo dans le navigateur → Blender et 2D)",
+    "name_en": "MotionBridge 0.3.0 (browser video mocap → Blender and 2D)",
+    "summary": "Première version publique (MIT, 19 oct) : la vidéo est analysée dans le navigateur (MediaPipe), le mouvement est retargeté sur ton perso GLB/FBX et exporté en GLB animé ou BVH pour Blender ; un 2e espace anime des marionnettes 2D en PNG découpés.",
+    "summary_en": "First public release (MIT, Oct 19): the video is analysed in the browser (MediaPipe), the motion is retargeted onto your GLB/FBX character and exported as animated GLB or BVH for Blender; a second workspace animates 2D PNG cutout puppets.",
+    "url": "https://github.com/adonisglobal/motionbridge",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "retargeting",
+      "2d",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recently updated)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Lightweight CPU VTuber Tracker 0.1.0 (mocap webcam VRM sans GPU)",
+    "name_en": "Lightweight CPU VTuber Tracker 0.1.0 (GPU-free webcam VRM mocap)",
+    "summary": "Tracker webcam natif Windows en Rust (v0.1.0, 19 oct) qui anime un avatar VRM sur le seul CPU : 52 blendshapes ARKit, regard, bras, torse et doigts à 30 fps. Code Apache-2.0/MIT, mais le modèle de corps fourni est sous licence SAM : lis-la avant un usage pro.",
+    "summary_en": "Native Windows webcam tracker in Rust (v0.1.0, Oct 19) that drives a VRM avatar on the CPU alone: 52 ARKit blendshapes, gaze, arms, torso and fingers at 30 fps. Code is Apache-2.0/MIT, but the bundled body model is under the SAM License: read it before pro use.",
+    "url": "https://github.com/GPA-N/lightweight-cpu-vtuber-tracker",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "facial",
+      "vrm",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recently updated)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Riggle 0.1.1 (rig + jiggle bones, moteur Blender)",
+    "name_en": "Riggle 0.1.1 (rig + jiggle bones, Blender-powered)",
+    "summary": "Atelier de rigging local (MIT, très WIP) piloté par Blender : tu cales un squelette humanoïde de 22 os sur ton mesh, tu marques ce qui doit ballotter (jiggle bones), puis export GLB + FBX riggés avec un manifeste de ressorts. Build Windows portable le 19 oct.",
+    "summary_en": "Local rigging workbench (MIT, heavy WIP) driven by Blender: fit a 22-joint humanoid skeleton to your mesh, mark what should wobble (jiggle bones), then export rigged GLB + FBX with a spring manifest. Portable Windows build on Oct 19.",
+    "url": "https://github.com/SenjuWoo/riggle",
+    "tags": [
+      "open-source",
+      "rigging",
+      "skinning",
+      "blender",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recently updated)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "PuppetForge 1.0 (marionnettes 2D sur Android)",
+    "name_en": "PuppetForge 1.0 (2D puppets on Android)",
+    "summary": "Studio de marionnettes 2D pour Android (MIT, v1.0 du 20 oct), alternative libre à Character Animator : calques PNG, pivots et hiérarchie d’os au doigt, animation jouée en direct, lip-sync piloté par le micro, export GIF ou MP4, tout en local.",
+    "summary_en": "2D puppet studio for Android (MIT, v1.0 on Oct 20), a free alternative to Character Animator: PNG layers, pivots and bone hierarchy set by touch, live-performed animation, mic-driven lip sync, GIF or MP4 export, all on-device.",
+    "url": "https://github.com/Rustys90/puppetforge",
+    "tags": [
+      "open-source",
+      "2d",
+      "puppet",
+      "lip-sync",
+      "android",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lip sync animation » (repos créés depuis le 18 oct)",
+      "label_en": "GitHub — search “lip sync animation” (repos created since Oct 18)",
+      "url": "https://github.com/search?q=lip+sync+animation+created%3A%3E%3D2026-10-18&type=repositories&s=updated&o=desc"
+    }
   }
 ]

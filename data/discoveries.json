@@ -1172,5 +1172,88 @@
       "label_en": "GitHub — search “lip sync animation” (repos created since Oct 18)",
       "url": "https://github.com/search?q=lip+sync+animation+created%3A%3E%3D2026-10-18&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Live2D Offline Converter 0.3.0 (Live2D → os Blender)",
+    "name_en": "Live2D Offline Converter 0.3.0 (Live2D → Blender bones)",
+    "summary": "Add-on Blender expérimental (MIT, v0.3.0 du 19 oct) qui échantillonne un clip Live2D et le convertit en armature, poids et Action Blender natifs, jouables sans plugin. La 0.3 cuit masques et modes de fusion (Cycles). Le SDK Cubism reste à fournir toi-même.",
+    "summary_en": "Experimental Blender add-on (MIT, v0.3.0 on Oct 19) that samples a Live2D clip and converts it into a native Blender armature, weights and Action that play without the plugin. 0.3 bakes masks and blend modes (Cycles). You supply the Cubism SDK yourself.",
+    "url": "https://github.com/yanyvpingsheng/live2d-blender",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "live2d",
+      "2d",
+      "rigging",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « live2d » (repos créés depuis le 19 oct)",
+      "label_en": "GitHub — search “live2d” (repos created since Oct 19)",
+      "url": "https://github.com/search?q=live2d+created%3A%3E%3D2026-10-19&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-21",
+    "name": "QuadMocap (mocap vidéo IA pour n’importe quel rig)",
+    "name_en": "QuadMocap (AI video mocap for any rig)",
+    "summary": "Appli web locale (MIT, publiée le 20 oct) : tu donnes un perso riggé, elle entraîne un détecteur DINOv2 sur des rendus de ton rig puis cale le squelette sur une vidéo IA à deux vues. Sortie Action Blender, .blend et FBX ; testée sur des quadrupèdes.",
+    "summary_en": "Local web app (MIT, published Oct 20): give it a rigged character, it trains a DINOv2 detector on renders of your rig, then fits the skeleton to a two-view AI video. Outputs a Blender Action, .blend and FBX; tested on quadrupeds.",
+    "url": "https://github.com/sparklecatta-lang/quadmocap",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "ia",
+      "blender",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » (repos créés depuis le 19 oct)",
+      "label_en": "GitHub — search “motion capture” (repos created since Oct 19)",
+      "url": "https://github.com/search?q=motion+capture+created%3A%3E%3D2026-10-19&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Stylized 2D Mouth Rig (bouche 2D pour Blender)",
+    "name_en": "Stylized 2D Mouth Rig (2D mouth for Blender)",
+    "summary": "Add-on Blender 5.2 lancé le 20 oct à 5 $ : un clic pose une bouche 2D stylisée sur n’importe quelle tête, pilotée en Pose Mode par un panneau flottant, avec 28 presets d’expressions et de lip-sync, 4 styles, dents et langue personnalisables.",
+    "summary_en": "Blender 5.2 add-on launched Oct 20 at $5: one click puts a stylized 2D mouth on any head, driven in Pose Mode from a floating panel, with 28 expression and lip-sync presets, 4 styles, customizable teeth and tongue.",
+    "url": "https://huzky.gumroad.com/l/stylized-mouth-rig",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "lip-sync",
+      "facial",
+      "2d"
+    ],
+    "source": {
+      "label": "X — post de @MBlox66650 (20 oct)",
+      "label_en": "X — post by @MBlox66650 (Oct 20)",
+      "url": "https://x.com/MBlox66650/status/2112401413091516444"
+    }
+  },
+  {
+    "date": "2026-10-21",
+    "name": "cascadeur MMD toolkit 1.0 (VMD dans Cascadeur)",
+    "name_en": "cascadeur MMD toolkit 1.0 (VMD in Cascadeur)",
+    "summary": "Plugin gratuit pour Cascadeur (v1.0 du 19 oct, Windows) : import de motions MMD .vmd sur tes persos, export VMD en FK ou IK et nettoyage du rig généré. Attention : pas de licence, binaire seulement, le dépôt ne contient que la doc.",
+    "summary_en": "Free Cascadeur plugin (v1.0 on Oct 19, Windows): import MMD .vmd motions onto your characters, export VMD as FK or IK and clean up the generated rig. Heads-up: no license, binary only, the repo holds just the docs.",
+    "url": "https://github.com/BrianFinch-1/cascadeur-mmd-toolkit",
+    "tags": [
+      "gratuit",
+      "cascadeur",
+      "mmd",
+      "retargeting",
+      "animation",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « cascadeur » (repos créés depuis le 12 oct)",
+      "label_en": "GitHub — search “cascadeur” (repos created since Oct 12)",
+      "url": "https://github.com/search?q=cascadeur+created%3A%3E%3D2026-10-12&type=repositories&s=updated&o=desc"
+    }
   }
 ]

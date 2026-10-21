@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Live2D Offline Converter 0.3.0 (Live2D → os Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender</guid>
+      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender expérimental (MIT, v0.3.0 du 19 oct) qui échantillonne un clip Live2D et le convertit en armature, poids et Action Blender natifs, jouables sans plugin. La 0.3 cuit masques et modes de fusion (Cycles). Le SDK Cubism reste à fournir toi-même.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>live2d</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>QuadMocap (mocap vidéo IA pour n’importe quel rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-21-quadmocap-mocap-video-ia-pour-nimporte-quel-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-21-quadmocap-mocap-video-ia-pour-nimporte-quel-rig</guid>
+      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Appli web locale (MIT, publiée le 20 oct) : tu donnes un perso riggé, elle entraîne un détecteur DINOv2 sur des rendus de ton rig puis cale le squelette sur une vidéo IA à deux vues. Sortie Action Blender, .blend et FBX ; testée sur des quadrupèdes.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>blender</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Stylized 2D Mouth Rig (bouche 2D pour Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-21-stylized-2d-mouth-rig-bouche-2d-pour-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-21-stylized-2d-mouth-rig-bouche-2d-pour-blender</guid>
+      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Add-on Blender 5.2 lancé le 20 oct à 5 $ : un clic pose une bouche 2D stylisée sur n’importe quelle tête, pilotée en Pose Mode par un panneau flottant, avec 28 presets d’expressions et de lip-sync, 4 styles, dents et langue personnalisables.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>2d</category>
+    </item>
+    <item>
+      <title>cascadeur MMD toolkit 1.0 (VMD dans Cascadeur)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</guid>
+      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Plugin gratuit pour Cascadeur (v1.0 du 19 oct, Windows) : import de motions MMD .vmd sur tes persos, export VMD en FK ou IK et nettoyage du rig généré. Attention : pas de licence, binaire seulement, le dépôt ne contient que la doc.</description>
+      <category>gratuit</category>
+      <category>cascadeur</category>
+      <category>mmd</category>
+      <category>retargeting</category>
+      <category>animation</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Ekza Animator (animation de persos glTF/VRM dans le navigateur)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</link>

@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-22 | prompt2rig (prompt → animation de perso Mixamo, doigts compris) | open-source, mocap, ia, capture-video, retargeting, emerging | https://github.com/blendi-remade/prompt2rig | https://olanlive.github.io/revue-animation/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris |
+| 2026-10-22 | KinetiFrame (studio d’animation 2D pour Android) | open-source, 2d, rigging, android, emerging | https://github.com/DonnC/kinetiframe | https://olanlive.github.io/revue-animation/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android |
+| 2026-10-22 | kr-custom-rigs (extensions Rigify : œil configurable, outils de rig) | open-source, blender-addon, rigging, rigify, emerging | https://github.com/Kroklion/kr-custom-rigs | https://olanlive.github.io/revue-animation/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig |
+| 2026-10-22 | Mocap Studio (vidéo → animation Mixamo en local) | open-source, mocap, capture-video, ia, emerging | https://github.com/1bilstar/mocap-studio | https://olanlive.github.io/revue-animation/#2026-10-22-mocap-studio-video-animation-mixamo-en-local |
 | 2026-10-21 | Live2D Offline Converter 0.3.0 (Live2D → os Blender) | open-source, blender-addon, live2d, 2d, rigging, emerging | https://github.com/yanyvpingsheng/live2d-blender | https://olanlive.github.io/revue-animation/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender |
 | 2026-10-21 | QuadMocap (mocap vidéo IA pour n’importe quel rig) | open-source, mocap, capture-video, ia, blender, emerging | https://github.com/sparklecatta-lang/quadmocap | https://olanlive.github.io/revue-animation/#2026-10-21-quadmocap-mocap-video-ia-pour-nimporte-quel-rig |
 | 2026-10-21 | Stylized 2D Mouth Rig (bouche 2D pour Blender) | payant, blender-addon, lip-sync, facial, 2d | https://huzky.gumroad.com/l/stylized-mouth-rig | https://olanlive.github.io/revue-animation/#2026-10-21-stylized-2d-mouth-rig-bouche-2d-pour-blender |

@@ -1255,5 +1255,86 @@
       "label_en": "GitHub — search “cascadeur” (repos created since Oct 12)",
       "url": "https://github.com/search?q=cascadeur+created%3A%3E%3D2026-10-12&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-10-22",
+    "name": "prompt2rig (prompt → animation de perso Mixamo, doigts compris)",
+    "name_en": "prompt2rig (prompt → Mixamo character animation, fingers included)",
+    "summary": "Tu tapes un mouvement, un modèle vidéo le joue, puis GVHMR + WiLoR (ajouté le 20 oct) en tirent corps et doigts pour un perso Mixamo, export .glb vers Blender ou Unity. Code Apache-2.0, mais GVHMR, SMPL-X et WiLoR sont non commerciaux et la vidéo passe par fal (payant).",
+    "summary_en": "Type a motion, a video model acts it out, then GVHMR + WiLoR (added Oct 20) extract body and fingers for a Mixamo character, .glb export to Blender or Unity. Apache-2.0 code, but GVHMR, SMPL-X and WiLoR are non-commercial and video goes through fal (paid).",
+    "url": "https://github.com/blendi-remade/prompt2rig",
+    "tags": [
+      "open-source",
+      "mocap",
+      "ia",
+      "capture-video",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "Fil X — @BlendiByl (post du 21 oct, repéré via la recherche X « rigging / mocap »)",
+      "label_en": "X feed — @BlendiByl (Oct 21 post, found via X search “rigging / mocap”)",
+      "url": "https://x.com/BlendiByl/status/2112810543748891127"
+    }
+  },
+  {
+    "date": "2026-10-22",
+    "name": "KinetiFrame (studio d’animation 2D pour Android)",
+    "name_en": "KinetiFrame (2D animation studio for Android)",
+    "summary": "Publié le 21 oct : appli Android Apache-2.0 qui mêle dessin image par image (pelures d’oignon, calques) et persos riggés en IK, avec mouvements enregistrés au doigt, caméra, son et export MP4. Hors ligne, sans compte ; encore en dev, pas de version stable.",
+    "summary_en": "Released Oct 21: Apache-2.0 Android app mixing frame-by-frame drawing (onion skin, layers) with IK-rigged characters, finger-recorded performances, camera moves, audio and MP4 export. Offline, no account; still in development, no stable release yet.",
+    "url": "https://github.com/DonnC/kinetiframe",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "android",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic « rigging » (trié par mise à jour)",
+      "label_en": "GitHub — topic “rigging” (sorted by recent update)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-22",
+    "name": "kr-custom-rigs (extensions Rigify : œil configurable, outils de rig)",
+    "name_en": "kr-custom-rigs (Rigify extensions: configurable eye, rig tools)",
+    "summary": "Extensions GPL-3.0 pour Rigify, compatibles Blender 5.2 depuis le 21 oct : un rig d’œil configurable (iris, groupes, sans paupières obligatoires), un rig qui déplace les drivers sur les os DEF et un mode weight paint qui libère les os du rig généré.",
+    "summary_en": "GPL-3.0 Rigify extensions, Blender 5.2 compatible since Oct 21: a configurable eye rig (iris, groups, eyelids optional), a rig that moves drivers onto DEF bones, and a weight-paint mode that frees the generated rig’s bones.",
+    "url": "https://github.com/Kroklion/kr-custom-rigs",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "rigify",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic « rigging » (trié par mise à jour)",
+      "label_en": "GitHub — topic “rigging” (sorted by recent update)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-22",
+    "name": "Mocap Studio (vidéo → animation Mixamo en local)",
+    "name_en": "Mocap Studio (video → Mixamo animation, local)",
+    "summary": "Publié le 22 oct : appli web locale (MIT) au-dessus de Motion2MixamoRig. Tu envoies une vidéo d’une personne et un perso Mixamo, il rejoue le geste, export .glb et vers un squelette type mannequin Unreal. Usage non commercial (GVHMR, SMPL-X) ; interface en vietnamien.",
+    "summary_en": "Released Oct 22: local web app (MIT) on top of Motion2MixamoRig. Upload a video of one person and a Mixamo character, it replays the motion, .glb export and an Unreal-mannequin style skeleton. Non-commercial use only (GVHMR, SMPL-X); UI in Vietnamese.",
+    "url": "https://github.com/1bilstar/mocap-studio",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap / rigging / lip-sync » (repos créés depuis le 18 oct)",
+      "label_en": "GitHub — search “mocap / rigging / lip-sync” (repos created since Oct 18)",
+      "url": "https://github.com/search?q=mocap+created%3A%3E2026-10-18&type=repositories&s=updated&o=desc"
+    }
   }
 ]

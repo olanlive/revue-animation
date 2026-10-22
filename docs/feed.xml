@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>prompt2rig (prompt → animation de perso Mixamo, doigts compris)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris</guid>
+      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Tu tapes un mouvement, un modèle vidéo le joue, puis GVHMR + WiLoR (ajouté le 20 oct) en tirent corps et doigts pour un perso Mixamo, export .glb vers Blender ou Unity. Code Apache-2.0, mais GVHMR, SMPL-X et WiLoR sont non commerciaux et la vidéo passe par fal (payant).</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>ia</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>KinetiFrame (studio d’animation 2D pour Android)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android</guid>
+      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Publié le 21 oct : appli Android Apache-2.0 qui mêle dessin image par image (pelures d’oignon, calques) et persos riggés en IK, avec mouvements enregistrés au doigt, caméra, son et export MP4. Hors ligne, sans compte ; encore en dev, pas de version stable.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>android</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>kr-custom-rigs (extensions Rigify : œil configurable, outils de rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig</guid>
+      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Extensions GPL-3.0 pour Rigify, compatibles Blender 5.2 depuis le 21 oct : un rig d’œil configurable (iris, groupes, sans paupières obligatoires), un rig qui déplace les drivers sur les os DEF et un mode weight paint qui libère les os du rig généré.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>rigify</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Mocap Studio (vidéo → animation Mixamo en local)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-22-mocap-studio-video-animation-mixamo-en-local</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-22-mocap-studio-video-animation-mixamo-en-local</guid>
+      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Publié le 22 oct : appli web locale (MIT) au-dessus de Motion2MixamoRig. Tu envoies une vidéo d’une personne et un perso Mixamo, il rejoue le geste, export .glb et vers un squelette type mannequin Unreal. Usage non commercial (GVHMR, SMPL-X) ; interface en vietnamien.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Live2D Offline Converter 0.3.0 (Live2D → os Blender)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender</link>

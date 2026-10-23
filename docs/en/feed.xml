@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Batlejka (multi-camera sync → FreeMoCap → .blend)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-batlejka-sync-multicamera-freemocap-blend</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-batlejka-sync-multicamera-freemocap-blend</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Released Oct 21 (AGPL-3.0): drop the clips of a multi-camera mocap session (phones, no timecode), it syncs them by audio, lets you cut takes, then runs FreeMoCap to get 3D skeletons all the way to a .blend file.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>blender</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>three-procedural-locomotion</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-three-procedural-locomotion</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-three-procedural-locomotion</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Released Oct 22 (MIT): procedural human locomotion for Three.js with no baked clips. Walk, run, turns, crouch and jump computed every frame (footstep planning, two-bone IK, feet on terrain), tuned against CMU mocap.</description>
+      <category>open-source</category>
+      <category>animation</category>
+      <category>procedural</category>
+      <category>web</category>
+      <category>three-js</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Pixel Puppettier (layer-based rigging for Aseprite)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Released Oct 22 (MIT): Aseprite extension that attaches bones to layers, with hierarchy and mouse posing; “Create frame” builds a new frame where each part stays on its own layer for pixel-art cleanup. UI in Spanish.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>pixel-art</category>
+      <category>rigging</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Auto Copy Transforms DEF 1.1.5</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-auto-copy-transforms-def-1-1-5</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-auto-copy-transforms-def-1-1-5</guid>
+      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Released Oct 22 (GPL-3.0, Blender 4.2+ and 5.x): batch-creates Copy Transforms/Rotation/Location/Scale constraints between DEF and MCH/ORG bones, prefix, regex and L/R mapping, preview before applying and cleanup that leaves manual constraints alone.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>constraints</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>prompt2rig (prompt → Mixamo character animation, fingers included)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris</link>

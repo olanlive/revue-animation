@@ -1336,5 +1336,86 @@
       "label_en": "GitHub — search “mocap / rigging / lip-sync” (repos created since Oct 18)",
       "url": "https://github.com/search?q=mocap+created%3A%3E2026-10-18&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Batlejka (sync multicaméra → FreeMoCap → .blend)",
+    "name_en": "Batlejka (multi-camera sync → FreeMoCap → .blend)",
+    "summary": "Publié le 21 oct (AGPL-3.0) : tu déposes les clips d’une séance mocap multicaméra (téléphones, sans timecode), il les synchronise par l’audio, te laisse découper les prises, puis lance FreeMoCap pour sortir les squelettes 3D jusqu’au .blend.",
+    "summary_en": "Released Oct 21 (AGPL-3.0): drop the clips of a multi-camera mocap session (phones, no timecode), it syncs them by audio, lets you cut takes, then runs FreeMoCap to get 3D skeletons all the way to a .blend file.",
+    "url": "https://github.com/rferee/batlejka",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "blender",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » (repos créés depuis le 20 oct)",
+      "label_en": "GitHub — search “mocap” (repos created since Oct 20)",
+      "url": "https://github.com/search?q=mocap+created%3A%3E2026-10-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-23",
+    "name": "three-procedural-locomotion",
+    "name_en": "three-procedural-locomotion",
+    "summary": "Publié le 22 oct (MIT) : locomotion humaine procédurale pour Three.js, sans anim précalculée. Marche, course, virages, accroupi et saut calculés à chaque frame (planif des pas, IK deux os, pieds posés sur le terrain), réglés sur la mocap CMU.",
+    "summary_en": "Released Oct 22 (MIT): procedural human locomotion for Three.js with no baked clips. Walk, run, turns, crouch and jump computed every frame (footstep planning, two-bone IK, feet on terrain), tuned against CMU mocap.",
+    "url": "https://github.com/PabloMesquida/three-procedural-locomotion",
+    "tags": [
+      "open-source",
+      "animation",
+      "procedural",
+      "web",
+      "three-js",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 20 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 20)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-10-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Pixel Puppettier (rigging par calques pour Aseprite)",
+    "name_en": "Pixel Puppettier (layer-based rigging for Aseprite)",
+    "summary": "Publié le 22 oct (MIT) : extension Aseprite qui pose des os sur les calques, avec hiérarchie et pose à la souris ; « Create frame » génère une nouvelle frame où chaque partie reste sur son calque pour retoucher le pixel art. Interface en espagnol.",
+    "summary_en": "Released Oct 22 (MIT): Aseprite extension that attaches bones to layers, with hierarchy and mouse posing; “Create frame” builds a new frame where each part stays on its own layer for pixel-art cleanup. UI in Spanish.",
+    "url": "https://github.com/zephyrux-lux/Pixel-Puppettier",
+    "tags": [
+      "open-source",
+      "2d",
+      "pixel-art",
+      "rigging",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 20 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 20)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-10-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Auto Copy Transforms DEF 1.1.5",
+    "name_en": "Auto Copy Transforms DEF 1.1.5",
+    "summary": "Sorti le 22 oct (GPL-3.0, Blender 4.2+ et 5.x) : crée en lot les contraintes Copy Transforms/Rotation/Location/Scale entre os DEF et MCH/ORG, mapping par préfixes, regex et côté L/R, aperçu avant application et nettoyage sans toucher tes contraintes manuelles.",
+    "summary_en": "Released Oct 22 (GPL-3.0, Blender 4.2+ and 5.x): batch-creates Copy Transforms/Rotation/Location/Scale constraints between DEF and MCH/ORG bones, prefix, regex and L/R mapping, preview before applying and cleanup that leaves manual constraints alone.",
+    "url": "https://github.com/PieroFra/auto-copy-transforms-def",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "constraints",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 20 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 20)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-10-20&type=repositories&s=updated&o=desc"
+    }
   }
 ]

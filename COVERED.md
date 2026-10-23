@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-23 | Batlejka (sync multicaméra → FreeMoCap → .blend) | open-source, mocap, capture-video, blender, emerging | https://github.com/rferee/batlejka | https://olanlive.github.io/revue-animation/#2026-10-23-batlejka-sync-multicamera-freemocap-blend |
+| 2026-10-23 | three-procedural-locomotion | open-source, animation, procedural, web, three-js, emerging | https://github.com/PabloMesquida/three-procedural-locomotion | https://olanlive.github.io/revue-animation/#2026-10-23-three-procedural-locomotion |
+| 2026-10-23 | Pixel Puppettier (rigging par calques pour Aseprite) | open-source, 2d, pixel-art, rigging, emerging | https://github.com/zephyrux-lux/Pixel-Puppettier | https://olanlive.github.io/revue-animation/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite |
+| 2026-10-23 | Auto Copy Transforms DEF 1.1.5 | open-source, blender-addon, rigging, constraints, emerging | https://github.com/PieroFra/auto-copy-transforms-def | https://olanlive.github.io/revue-animation/#2026-10-23-auto-copy-transforms-def-1-1-5 |
 | 2026-10-22 | prompt2rig (prompt → animation de perso Mixamo, doigts compris) | open-source, mocap, ia, capture-video, retargeting, emerging | https://github.com/blendi-remade/prompt2rig | https://olanlive.github.io/revue-animation/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris |
 | 2026-10-22 | KinetiFrame (studio d’animation 2D pour Android) | open-source, 2d, rigging, android, emerging | https://github.com/DonnC/kinetiframe | https://olanlive.github.io/revue-animation/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android |
 | 2026-10-22 | kr-custom-rigs (extensions Rigify : œil configurable, outils de rig) | open-source, blender-addon, rigging, rigify, emerging | https://github.com/Kroklion/kr-custom-rigs | https://olanlive.github.io/revue-animation/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig |

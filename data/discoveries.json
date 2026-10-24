@@ -1417,5 +1417,85 @@
       "label_en": "GitHub — search “rigging” (repos created since Oct 20)",
       "url": "https://github.com/search?q=rigging+created%3A%3E2026-10-20&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-10-24",
+    "name": "Auto Dangle Rig 1.9.0 (chaînes d’os pour jupes, cheveux, rubans)",
+    "name_en": "Auto Dangle Rig 1.9.0 (bone chains for skirts, hair, ribbons)",
+    "summary": "Add-on Blender 5.2 payant (300 ¥, BOOTH) : crée les chaînes d’os des éléments qui bougent depuis une sélection, une par colonne de jupe, miroir des rubans, poids transférés ou par distance, puis teste le ballant sur une anim Mixamo/VRMA. Annoncé le 22 oct.",
+    "summary_en": "Paid Blender 5.2 add-on (¥300, BOOTH): builds dangle bone chains from a selection, one per skirt column, mirrors ribbons, weights by transfer or distance, then previews the jiggle on a Mixamo/VRMA clip. Announced Oct 22.",
+    "url": "https://fukui-kui.booth.pm/items/8308693",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "rigging",
+      "secondary-motion",
+      "skinning"
+    ],
+    "source": {
+      "label": "X — post de @Fukui_Kui (22 oct, repéré via la recherche X « blender rigging add-on »)",
+      "label_en": "X — post by @Fukui_Kui (Oct 22, spotted via X search “blender rigging add-on”)",
+      "url": "https://x.com/Fukui_Kui/status/2113238971614740686"
+    }
+  },
+  {
+    "date": "2026-10-24",
+    "name": "mmd-retarget 0.0.2 (VMD d’un modèle à l’autre, sans passe-murailles)",
+    "name_en": "mmd-retarget 0.0.2 (VMD from one model to another, without clipping)",
+    "summary": "Créé le 23 oct (GPL-3.0, Python, VMD ↔ Blender) : retarget une danse MMD vers un autre gabarit avec mise à l’échelle, verrouillage des pieds, IK des bras, puis détecte les interpénétrations frame par frame avec rapport CSV/JSON. Encore très jeune, doc en chinois.",
+    "summary_en": "Created Oct 23 (GPL-3.0, Python, VMD ↔ Blender): retargets an MMD dance to another body with scaling, foot locking and arm IK, then detects frame-by-frame interpenetration with CSV/JSON reports. Very early, docs in Chinese.",
+    "url": "https://github.com/Fairy0019/mmd-retarget",
+    "tags": [
+      "open-source",
+      "retargeting",
+      "mmd",
+      "blender",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » (repos créés depuis le 21 oct)",
+      "label_en": "GitHub — search “retarget” (repos created since Oct 21)",
+      "url": "https://github.com/search?q=retarget+created%3A%3E%3D2026-10-21&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-24",
+    "name": "C3D Reader 0.3.4 (lecteur C3D local façon Mokka)",
+    "name_en": "C3D Reader 0.3.4 (local Mokka-style C3D viewer)",
+    "summary": "Sorti le 23 oct (MIT) : ouvre tes fichiers mocap C3D en local (app macOS Apple Silicon ou navigateur), lecture 3D des marqueurs, signaux analogiques synchronisés, événements, inspecteur de paramètres et export CSV par lot, même sur des prises de plusieurs centaines de Mo.",
+    "summary_en": "Released Oct 23 (MIT): opens your C3D mocap files locally (Apple Silicon macOS app or browser), 3D marker playback, synced analog signals, events, parameter inspector and batch CSV export, even on takes of several hundred MB.",
+    "url": "https://github.com/SourorangeChen/C3D_Reader",
+    "tags": [
+      "open-source",
+      "mocap",
+      "c3d",
+      "viewer",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » (repos créés depuis le 21 oct)",
+      "label_en": "GitHub — search “motion capture” (repos created since Oct 21)",
+      "url": "https://github.com/search?q=%22motion+capture%22+created%3A%3E%3D2026-10-21&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-24",
+    "name": "Prima Motion Capture Volume Planner (placement des caméras mocap)",
+    "name_en": "Prima Motion Capture Volume Planner (mocap camera placement)",
+    "summary": "Publié le 24 oct (AGPL-3.0 + conditions en plus, nom et logo non libres) : appli web en un fichier pour placer les caméras d’une salle mocap optique (OptiTrack, Qualisys, Vicon), couverture, visibilité des marqueurs et erreur 3D estimée. Modèle géométrique seulement.",
+    "summary_en": "Published Oct 24 (AGPL-3.0 plus extra terms, name and logo not licensed): single-file web app to plan optical mocap camera placement (OptiTrack, Qualisys, Vicon), coverage, marker visibility and predicted 3D error. Geometric model only.",
+    "url": "https://camplan.primamotion.tech",
+    "tags": [
+      "open-source",
+      "mocap",
+      "planning",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » (repos créés depuis le 21 oct)",
+      "label_en": "GitHub — search “motion capture” (repos created since Oct 21)",
+      "url": "https://github.com/search?q=%22motion+capture%22+created%3A%3E%3D2026-10-21&type=repositories"
+    }
   }
 ]

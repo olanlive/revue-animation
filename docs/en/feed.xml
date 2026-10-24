@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:51:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auto Dangle Rig 1.9.0 (bone chains for skirts, hair, ribbons)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans</guid>
+      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Paid Blender 5.2 add-on (¥300, BOOTH): builds dangle bone chains from a selection, one per skirt column, mirrors ribbons, weights by transfer or distance, then previews the jiggle on a Mixamo/VRMA clip. Announced Oct 22.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>secondary-motion</category>
+      <category>skinning</category>
+    </item>
+    <item>
+      <title>mmd-retarget 0.0.2 (VMD from one model to another, without clipping)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles</guid>
+      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Created Oct 23 (GPL-3.0, Python, VMD ↔ Blender): retargets an MMD dance to another body with scaling, foot locking and arm IK, then detects frame-by-frame interpenetration with CSV/JSON reports. Very early, docs in Chinese.</description>
+      <category>open-source</category>
+      <category>retargeting</category>
+      <category>mmd</category>
+      <category>blender</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>C3D Reader 0.3.4 (local Mokka-style C3D viewer)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka</guid>
+      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Released Oct 23 (MIT): opens your C3D mocap files locally (Apple Silicon macOS app or browser), 3D marker playback, synced analog signals, events, parameter inspector and batch CSV export, even on takes of several hundred MB.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>c3d</category>
+      <category>viewer</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Prima Motion Capture Volume Planner (mocap camera placement)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-24-prima-motion-capture-volume-planner-placement-des-cameras-mocap</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-24-prima-motion-capture-volume-planner-placement-des-cameras-mocap</guid>
+      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
+      <description>Published Oct 24 (AGPL-3.0 plus extra terms, name and logo not licensed): single-file web app to plan optical mocap camera placement (OptiTrack, Qualisys, Vicon), coverage, marker visibility and predicted 3D error. Geometric model only.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>planning</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Batlejka (multi-camera sync → FreeMoCap → .blend)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-batlejka-sync-multicamera-freemocap-blend</link>

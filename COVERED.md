@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-24 | Auto Dangle Rig 1.9.0 (chaînes d’os pour jupes, cheveux, rubans) | payant, blender-addon, rigging, secondary-motion, skinning | https://fukui-kui.booth.pm/items/8308693 | https://olanlive.github.io/revue-animation/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans |
+| 2026-10-24 | mmd-retarget 0.0.2 (VMD d’un modèle à l’autre, sans passe-murailles) | open-source, retargeting, mmd, blender, emerging | https://github.com/Fairy0019/mmd-retarget | https://olanlive.github.io/revue-animation/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles |
+| 2026-10-24 | C3D Reader 0.3.4 (lecteur C3D local façon Mokka) | open-source, mocap, c3d, viewer, emerging | https://github.com/SourorangeChen/C3D_Reader | https://olanlive.github.io/revue-animation/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka |
+| 2026-10-24 | Prima Motion Capture Volume Planner (placement des caméras mocap) | open-source, mocap, planning, web, emerging | https://camplan.primamotion.tech | https://olanlive.github.io/revue-animation/#2026-10-24-prima-motion-capture-volume-planner-placement-des-cameras-mocap |
 | 2026-10-23 | Batlejka (sync multicaméra → FreeMoCap → .blend) | open-source, mocap, capture-video, blender, emerging | https://github.com/rferee/batlejka | https://olanlive.github.io/revue-animation/#2026-10-23-batlejka-sync-multicamera-freemocap-blend |
 | 2026-10-23 | three-procedural-locomotion | open-source, animation, procedural, web, three-js, emerging | https://github.com/PabloMesquida/three-procedural-locomotion | https://olanlive.github.io/revue-animation/#2026-10-23-three-procedural-locomotion |
 | 2026-10-23 | Pixel Puppettier (rigging par calques pour Aseprite) | open-source, 2d, pixel-art, rigging, emerging | https://github.com/zephyrux-lux/Pixel-Puppettier | https://olanlive.github.io/revue-animation/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite |

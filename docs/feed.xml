@@ -5,8 +5,55 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OSATURA 0.1.0-alpha.4 (rigging et animation 2D vectoriels en Rust)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-25-osatura-0-1-0-alpha-4-rigging-et-animation-2d-vectoriels-en-rust</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-osatura-0-1-0-alpha-4-rigging-et-animation-2d-vectoriels-en-rust</guid>
+      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Pré-version du 25 oct (CLI AGPL-3.0, bibliothèques MPL-2.0) : un moteur 2D à la Moho avec os, IK, skinning, déformeurs, machine à états, studio dans le navigateur, et export GIF, vidéo, Lottie, glTF ou lecteur HTML. Encore en alpha, code largement écrit par IA.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>vector</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>CTRL_DEF 0.1.2 (contrôleurs auto depuis les os DEF)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def</guid>
+      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 24 oct (GPL-3.0, Blender 4.2 à 5.2) : sélectionne tes os DEF_ et l’add-on génère en un clic des contrôleurs FK colorés avec custom shapes partagées, puis les relie sans cycle de dépendance. Du même auteur qu’Auto Copy Transforms DEF (vu le 23 oct).</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>controllers</category>
+    </item>
+    <item>
+      <title>FaceSet Creature Rigger 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0</guid>
+      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 24 oct (MIT, Blender 4.2+) : peins chaque membre de ta créature en Face Sets, l’add-on détecte la symétrie, te laisse choisir FK, IK avec pole, Spline IK ou wiggle, puis génère l’armature et des poids lissés. Tout nouveau, 0 étoile.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>creature</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FellowStudio3D 0.1.0 (pose et animation de persos pixel)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-25-fellowstudio3d-0-1-0-pose-et-animation-de-persos-pixel</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-fellowstudio3d-0-1-0-pose-et-animation-de-persos-pixel</guid>
+      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Première version le 24 oct (MIT, Windows) : pars d’une marche ou d’une course, ajuste chaque partie du corps, empile des couches de mouvement, IK et suivi physique, sans éditer de clés, puis exporte des sprites 64×64 en 1x, 4x ou 8x.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>pixel-art</category>
+      <category>sprites</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Auto Dangle Rig 1.9.0 (chaînes d’os pour jupes, cheveux, rubans)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans</link>

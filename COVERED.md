@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-25 | OSATURA 0.1.0-alpha.4 (rigging et animation 2D vectoriels en Rust) | open-source, 2d, rigging, vector, emerging | https://osatura.chiuta.ro/ | https://olanlive.github.io/revue-animation/#2026-10-25-osatura-0-1-0-alpha-4-rigging-et-animation-2d-vectoriels-en-rust |
+| 2026-10-25 | CTRL_DEF 0.1.2 (contrôleurs auto depuis les os DEF) | open-source, blender-addon, rigging, controllers | https://github.com/PieroFra/def-controller-auto | https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def |
+| 2026-10-25 | FaceSet Creature Rigger 1.0.0 | open-source, blender-addon, rigging, creature, emerging | https://github.com/cemcoff/Blender-FaceSet-Rigger | https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0 |
+| 2026-10-25 | FellowStudio3D 0.1.0 (pose et animation de persos pixel) | open-source, 2d, pixel-art, sprites, emerging | https://github.com/PotionCV/FellowStudio3D | https://olanlive.github.io/revue-animation/#2026-10-25-fellowstudio3d-0-1-0-pose-et-animation-de-persos-pixel |
 | 2026-10-24 | Auto Dangle Rig 1.9.0 (chaînes d’os pour jupes, cheveux, rubans) | payant, blender-addon, rigging, secondary-motion, skinning | https://fukui-kui.booth.pm/items/8308693 | https://olanlive.github.io/revue-animation/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans |
 | 2026-10-24 | mmd-retarget 0.0.2 (VMD d’un modèle à l’autre, sans passe-murailles) | open-source, retargeting, mmd, blender, emerging | https://github.com/Fairy0019/mmd-retarget | https://olanlive.github.io/revue-animation/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles |
 | 2026-10-24 | C3D Reader 0.3.4 (lecteur C3D local façon Mokka) | open-source, mocap, c3d, viewer, emerging | https://github.com/SourorangeChen/C3D_Reader | https://olanlive.github.io/revue-animation/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka |

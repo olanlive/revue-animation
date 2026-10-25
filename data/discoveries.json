@@ -1497,5 +1497,84 @@
       "label_en": "GitHub — search “motion capture” (repos created since Oct 21)",
       "url": "https://github.com/search?q=%22motion+capture%22+created%3A%3E%3D2026-10-21&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "OSATURA 0.1.0-alpha.4 (rigging et animation 2D vectoriels en Rust)",
+    "name_en": "OSATURA 0.1.0-alpha.4 (2D vector rigging and animation in Rust)",
+    "summary": "Pré-version du 25 oct (CLI AGPL-3.0, bibliothèques MPL-2.0) : un moteur 2D à la Moho avec os, IK, skinning, déformeurs, machine à états, studio dans le navigateur, et export GIF, vidéo, Lottie, glTF ou lecteur HTML. Encore en alpha, code largement écrit par IA.",
+    "summary_en": "Pre-release from Oct 25 (CLI AGPL-3.0, libraries MPL-2.0): a Moho-style 2D engine with bones, IK, skinning, deformers, a state machine, a browser studio, and GIF, video, Lottie, glTF or HTML player export. Still alpha, code largely AI-written.",
+    "url": "https://osatura.chiuta.ro/",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "vector",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 23 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 23)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E%3D2026-10-23&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "CTRL_DEF 0.1.2 (contrôleurs auto depuis les os DEF)",
+    "name_en": "CTRL_DEF 0.1.2 (auto controllers from DEF bones)",
+    "summary": "Sorti le 24 oct (GPL-3.0, Blender 4.2 à 5.2) : sélectionne tes os DEF_ et l’add-on génère en un clic des contrôleurs FK colorés avec custom shapes partagées, puis les relie sans cycle de dépendance. Du même auteur qu’Auto Copy Transforms DEF (vu le 23 oct).",
+    "summary_en": "Released Oct 24 (GPL-3.0, Blender 4.2 to 5.2): select your DEF_ bones and the add-on generates colored FK controllers with shared custom shapes in one click, then binds them without dependency cycles. Same author as Auto Copy Transforms DEF (seen Oct 23).",
+    "url": "https://github.com/PieroFra/def-controller-auto",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "controllers"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » (repos créés depuis le 23 oct)",
+      "label_en": "GitHub — search “rigging” (repos created since Oct 23)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E%3D2026-10-23&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "FaceSet Creature Rigger 1.0.0",
+    "name_en": "FaceSet Creature Rigger 1.0.0",
+    "summary": "Sorti le 24 oct (MIT, Blender 4.2+) : peins chaque membre de ta créature en Face Sets, l’add-on détecte la symétrie, te laisse choisir FK, IK avec pole, Spline IK ou wiggle, puis génère l’armature et des poids lissés. Tout nouveau, 0 étoile.",
+    "summary_en": "Released Oct 24 (MIT, Blender 4.2+): paint each creature limb as a Face Set, the add-on detects symmetry, lets you pick FK, IK with pole, Spline IK or wiggle, then generates the armature and smoothed weights. Brand new, 0 stars.",
+    "url": "https://github.com/cemcoff/Blender-FaceSet-Rigger",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "creature",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « auto rig » / « rigging » (repos créés depuis le 23 oct)",
+      "label_en": "GitHub — search “auto rig” / “rigging” (repos created since Oct 23)",
+      "url": "https://github.com/search?q=rigging+created%3A%3E%3D2026-10-23&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "FellowStudio3D 0.1.0 (pose et animation de persos pixel)",
+    "name_en": "FellowStudio3D 0.1.0 (pixel character posing and animation)",
+    "summary": "Première version le 24 oct (MIT, Windows) : pars d’une marche ou d’une course, ajuste chaque partie du corps, empile des couches de mouvement, IK et suivi physique, sans éditer de clés, puis exporte des sprites 64×64 en 1x, 4x ou 8x.",
+    "summary_en": "First release Oct 24 (MIT, Windows): start from a walk or run, tweak each body part, stack motion layers, IK and physical follow, without editing keys, then export 64×64 sprites at 1x, 4x or 8x.",
+    "url": "https://github.com/PotionCV/FellowStudio3D",
+    "tags": [
+      "open-source",
+      "2d",
+      "pixel-art",
+      "sprites",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « keyframe » (repos créés depuis le 23 oct)",
+      "label_en": "GitHub — search “keyframe” (repos created since Oct 23)",
+      "url": "https://github.com/search?q=keyframe+created%3A%3E%3D2026-10-23&type=repositories"
+    }
   }
 ]

@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-26 | LipScan 0.5.0 (voix → courbes de lip-sync et de visage) | open-source, lip-sync, facial, ia, emerging | https://github.com/thriftshoppin/lipscan | https://olanlive.github.io/revue-animation/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage |
+| 2026-10-26 | OrthoRig 0.2.0 (rigs 2D Blender → PixiJS) | open-source, 2d, rigging, blender, web, emerging | https://github.com/CReNET-Games/OrthoRig | https://olanlive.github.io/revue-animation/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs |
+| 2026-10-26 | spine-mcp 0.2.0 (Spine piloté par une IA) | open-source, 2d, spine, ia, mcp, emerging | https://github.com/UmutFarukDilli/spine-mcp | https://olanlive.github.io/revue-animation/#2026-10-26-spine-mcp-0-2-0-spine-pilote-par-une-ia |
+| 2026-10-26 | MetaHuman ARKit Export (blendshapes ARKit depuis le DNA) | open-source, facial, blendshapes, metahuman, unreal, emerging | https://github.com/HolotypePteLtd/metahuman_arkit_export | https://olanlive.github.io/revue-animation/#2026-10-26-metahuman-arkit-export-blendshapes-arkit-depuis-le-dna |
 | 2026-10-25 | OSATURA 0.1.0-alpha.4 (rigging et animation 2D vectoriels en Rust) | open-source, 2d, rigging, vector, emerging | https://osatura.chiuta.ro/ | https://olanlive.github.io/revue-animation/#2026-10-25-osatura-0-1-0-alpha-4-rigging-et-animation-2d-vectoriels-en-rust |
 | 2026-10-25 | CTRL_DEF 0.1.2 (contrôleurs auto depuis les os DEF) | open-source, blender-addon, rigging, controllers | https://github.com/PieroFra/def-controller-auto | https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def |
 | 2026-10-25 | FaceSet Creature Rigger 1.0.0 | open-source, blender-addon, rigging, creature, emerging | https://github.com/cemcoff/Blender-FaceSet-Rigger | https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0 |

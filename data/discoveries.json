@@ -1576,5 +1576,88 @@
       "label_en": "GitHub — search “keyframe” (repos created since Oct 23)",
       "url": "https://github.com/search?q=keyframe+created%3A%3E%3D2026-10-23&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-26",
+    "name": "LipScan 0.5.0 (voix → courbes de lip-sync et de visage)",
+    "name_en": "LipScan 0.5.0 (voice → lip-sync and face curves)",
+    "summary": "Version 0.5.0 le 26 oct (MIT, en local) : mesure un vrai visage en vidéo (52 blendshapes, tête, regard) pour le rejouer sur un rig, ou transforme une voix seule en courbes bouche, clignements et sourcils, export ARKit 52 pour Blender, Unity, Unreal.",
+    "summary_en": "Version 0.5.0 on Oct 26 (MIT, runs locally): tracks a real face on video (52 blendshapes, head, gaze) to replay it on a rig, or turns a voice alone into mouth, blink and brow curves, exported as ARKit 52 for Blender, Unity, Unreal.",
+    "url": "https://github.com/thriftshoppin/lipscan",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "facial",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lipsync » (repos créés depuis le 24 oct)",
+      "label_en": "GitHub — search “lipsync” (repos created since Oct 24)",
+      "url": "https://github.com/search?q=lipsync+created%3A%3E%3D2026-10-24&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-26",
+    "name": "OrthoRig 0.2.0 (rigs 2D Blender → PixiJS)",
+    "name_en": "OrthoRig 0.2.0 (2D rigs from Blender to PixiJS)",
+    "summary": "Version 0.2.0 le 25 oct (MIT) : tu montes un squelette 2D orthographique dans Blender, il le compile pour PixiJS v8 avec IK 2 os, look-at, sockets, événements de timeline depuis les marqueurs, couches additives et baker de spritesheet.",
+    "summary_en": "Version 0.2.0 on Oct 25 (MIT): build an orthographic 2D skeleton in Blender and it compiles it for PixiJS v8 with 2-bone IK, look-at, sockets, timeline events from markers, additive layers and a spritesheet baker.",
+    "url": "https://github.com/CReNET-Games/OrthoRig",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "blender",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (repos créés depuis le 24 oct)",
+      "label_en": "GitHub — search “skeletal animation” (repos created since Oct 24)",
+      "url": "https://github.com/search?q=%22skeletal+animation%22+created%3A%3E%3D2026-10-24&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-26",
+    "name": "spine-mcp 0.2.0 (Spine piloté par une IA)",
+    "name_en": "spine-mcp 0.2.0 (Spine driven by an AI)",
+    "summary": "Première version le 25 oct (MIT) : un serveur MCP qui laisse ton assistant IA créer et animer des squelettes Spine 4.x sans l’éditeur (os, slots, skins, contraintes IK et physique, clés), avec fichiers vérifiés par le runtime officiel. Spine reste payant.",
+    "summary_en": "First release Oct 25 (MIT): an MCP server that lets your AI assistant build and animate Spine 4.x skeletons without the editor (bones, slots, skins, IK and physics constraints, keys), with output checked against the official runtime. Spine itself is paid.",
+    "url": "https://github.com/UmutFarukDilli/spine-mcp",
+    "tags": [
+      "open-source",
+      "2d",
+      "spine",
+      "ia",
+      "mcp",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « spine 2d » (repos créés depuis le 24 oct)",
+      "label_en": "GitHub — search “spine 2d” (repos created since Oct 24)",
+      "url": "https://github.com/search?q=spine+2d+created%3A%3E%3D2026-10-24&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-26",
+    "name": "MetaHuman ARKit Export (blendshapes ARKit depuis le DNA)",
+    "name_en": "MetaHuman ARKit Export (ARKit blendshapes from DNA)",
+    "summary": "Publié le 24 oct, sous MIT depuis le 26 : un plugin Unreal 5.7 et un CLI autonome qui « bakent » les 52 blendshapes ARKit sur un MetaHuman exporté, en glTF depuis UE ou directement dans les fichiers .dna, ce que UE ne fait pas tout seul.",
+    "summary_en": "Published Oct 24, MIT since Oct 26: an Unreal 5.7 plugin and a standalone CLI that bake the 52 ARKit blendshapes onto an exported MetaHuman, as glTF from UE or straight into the .dna files, which UE doesn't do on its own.",
+    "url": "https://github.com/HolotypePteLtd/metahuman_arkit_export",
+    "tags": [
+      "open-source",
+      "facial",
+      "blendshapes",
+      "metahuman",
+      "unreal",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blendshape » (repos créés depuis le 24 oct)",
+      "label_en": "GitHub — search “blendshape” (repos created since Oct 24)",
+      "url": "https://github.com/search?q=blendshape+created%3A%3E%3D2026-10-24&type=repositories"
+    }
   }
 ]

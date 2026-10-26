@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LipScan 0.5.0 (voice → lip-sync and face curves)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage</guid>
+      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Version 0.5.0 on Oct 26 (MIT, runs locally): tracks a real face on video (52 blendshapes, head, gaze) to replay it on a rig, or turns a voice alone into mouth, blink and brow curves, exported as ARKit 52 for Blender, Unity, Unreal.</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>OrthoRig 0.2.0 (2D rigs from Blender to PixiJS)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs</guid>
+      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Version 0.2.0 on Oct 25 (MIT): build an orthographic 2D skeleton in Blender and it compiles it for PixiJS v8 with 2-bone IK, look-at, sockets, timeline events from markers, additive layers and a spritesheet baker.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>blender</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>spine-mcp 0.2.0 (Spine driven by an AI)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-26-spine-mcp-0-2-0-spine-pilote-par-une-ia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-26-spine-mcp-0-2-0-spine-pilote-par-une-ia</guid>
+      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
+      <description>First release Oct 25 (MIT): an MCP server that lets your AI assistant build and animate Spine 4.x skeletons without the editor (bones, slots, skins, IK and physics constraints, keys), with output checked against the official runtime. Spine itself is paid.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>spine</category>
+      <category>ia</category>
+      <category>mcp</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MetaHuman ARKit Export (ARKit blendshapes from DNA)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-26-metahuman-arkit-export-blendshapes-arkit-depuis-le-dna</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-26-metahuman-arkit-export-blendshapes-arkit-depuis-le-dna</guid>
+      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Published Oct 24, MIT since Oct 26: an Unreal 5.7 plugin and a standalone CLI that bake the 52 ARKit blendshapes onto an exported MetaHuman, as glTF from UE or straight into the .dna files, which UE doesn't do on its own.</description>
+      <category>open-source</category>
+      <category>facial</category>
+      <category>blendshapes</category>
+      <category>metahuman</category>
+      <category>unreal</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>OSATURA 0.1.0-alpha.4 (2D vector rigging and animation in Rust)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-25-osatura-0-1-0-alpha-4-rigging-et-animation-2d-vectoriels-en-rust</link>

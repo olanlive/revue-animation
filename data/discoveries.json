@@ -1659,5 +1659,67 @@
       "label_en": "GitHub — search “blendshape” (repos created since Oct 24)",
       "url": "https://github.com/search?q=blendshape+created%3A%3E%3D2026-10-24&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-27",
+    "name": "Dynamic Skinning 0.1.1 (effets cartoon sur un rig Blender)",
+    "name_en": "Dynamic Skinning 0.1.1 (cartoon effects on a Blender rig)",
+    "summary": "Sorti les 25 et 26 oct : l’extension Blender du papier IEEE TVCG 2026 ajoute en temps réel du retard, des oscillations et de la propagation à un perso skinné, pilotés par la vitesse de ses os. Prototype, Blender 4.4+, GPL (code C++ sous MIT).",
+    "summary_en": "Released Oct 25–26: the Blender extension of the IEEE TVCG 2026 paper adds real-time lag, oscillation and propagation to a skinned character, driven by its bones' velocity. Prototype, Blender 4.4+, GPL (C++ code under MIT).",
+    "url": "https://github.com/drohmer/dynamic_skinning",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "skinning",
+      "secondary-motion"
+    ],
+    "source": {
+      "label": "GitHub — topic « character-animation » (tri par mise à jour)",
+      "label_en": "GitHub — topic “character-animation” (sorted by update)",
+      "url": "https://github.com/topics/character-animation?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-27",
+    "name": "anymove (mocap de n’importe quelle créature depuis une vidéo IA)",
+    "name_en": "anymove (mocap for any creature from an AI video)",
+    "summary": "Publié le 27 oct sous Apache-2.0 : une vidéo IA filme la créature de face et de profil dans la même image, un lecteur DINOv2 retrouve chaque articulation et le rig (ailes, queue, huit pattes) est calé image par image puis exporté en GLB. GPU NVIDIA et API fal payante requis.",
+    "summary_en": "Published Oct 27 under Apache-2.0: an AI video shows the creature front and side in one frame, a DINOv2 reader finds every joint and the rig (wings, tails, eight legs) is fitted frame by frame, then exported as GLB. Needs an NVIDIA GPU and the paid fal API.",
+    "url": "https://github.com/patch-gg/anymove",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "ia",
+      "creature",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic « motion-capture » (tri par mise à jour)",
+      "label_en": "GitHub — topic “motion-capture” (sorted by update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-10-27",
+    "name": "mmdance 0.1.0 (danses MMD sur un perso Mixamo dans Blender)",
+    "name_en": "mmdance 0.1.0 (MMD dances on a Mixamo character in Blender)",
+    "summary": "Sorti le 26 oct sous MIT : un pipeline Python headless pour Blender 5.2 qui retargete un VMD MikuMikuDance sur un perso Mixamo, Tripo, Meshy ou AccuRig, avec caméra, visage (clignements, lip-sync) et physique jupe et cheveux, puis rend la vidéo.",
+    "summary_en": "Released Oct 26 under MIT: a headless Python pipeline for Blender 5.2 that retargets a MikuMikuDance VMD onto a Mixamo, Tripo, Meshy or AccuRig character, with camera, face (blinks, lip-sync) and skirt and hair physics, then renders the video.",
+    "url": "https://github.com/starryark/mmdance",
+    "tags": [
+      "open-source",
+      "blender",
+      "retargeting",
+      "mmd",
+      "mixamo",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic « character-animation » (tri par mise à jour)",
+      "label_en": "GitHub — topic “character-animation” (sorted by update)",
+      "url": "https://github.com/topics/character-animation?o=desc&s=updated"
+    }
   }
 ]

@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-27 | Dynamic Skinning 0.1.1 (effets cartoon sur un rig Blender) | open-source, blender-addon, rigging, skinning, secondary-motion | https://github.com/drohmer/dynamic_skinning | https://olanlive.github.io/revue-animation/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender |
+| 2026-10-27 | anymove (mocap de n’importe quelle créature depuis une vidéo IA) | open-source, mocap, capture-video, ia, creature, emerging | https://github.com/patch-gg/anymove | https://olanlive.github.io/revue-animation/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia |
+| 2026-10-27 | mmdance 0.1.0 (danses MMD sur un perso Mixamo dans Blender) | open-source, blender, retargeting, mmd, mixamo, emerging | https://github.com/starryark/mmdance | https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender |
 | 2026-10-26 | LipScan 0.5.0 (voix → courbes de lip-sync et de visage) | open-source, lip-sync, facial, ia, emerging | https://github.com/thriftshoppin/lipscan | https://olanlive.github.io/revue-animation/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage |
 | 2026-10-26 | OrthoRig 0.2.0 (rigs 2D Blender → PixiJS) | open-source, 2d, rigging, blender, web, emerging | https://github.com/CReNET-Games/OrthoRig | https://olanlive.github.io/revue-animation/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs |
 | 2026-10-26 | spine-mcp 0.2.0 (Spine piloté par une IA) | open-source, 2d, spine, ia, mcp, emerging | https://github.com/UmutFarukDilli/spine-mcp | https://olanlive.github.io/revue-animation/#2026-10-26-spine-mcp-0-2-0-spine-pilote-par-une-ia |

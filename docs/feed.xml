@@ -5,8 +5,46 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dynamic Skinning 0.1.1 (effets cartoon sur un rig Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender</guid>
+      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Sorti les 25 et 26 oct : l’extension Blender du papier IEEE TVCG 2026 ajoute en temps réel du retard, des oscillations et de la propagation à un perso skinné, pilotés par la vitesse de ses os. Prototype, Blender 4.4+, GPL (code C++ sous MIT).</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>secondary-motion</category>
+    </item>
+    <item>
+      <title>anymove (mocap de n’importe quelle créature depuis une vidéo IA)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia</guid>
+      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 27 oct sous Apache-2.0 : une vidéo IA filme la créature de face et de profil dans la même image, un lecteur DINOv2 retrouve chaque articulation et le rig (ailes, queue, huit pattes) est calé image par image puis exporté en GLB. GPU NVIDIA et API fal payante requis.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>creature</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>mmdance 0.1.0 (danses MMD sur un perso Mixamo dans Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender</guid>
+      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 26 oct sous MIT : un pipeline Python headless pour Blender 5.2 qui retargete un VMD MikuMikuDance sur un perso Mixamo, Tripo, Meshy ou AccuRig, avec caméra, visage (clignements, lip-sync) et physique jupe et cheveux, puis rend la vidéo.</description>
+      <category>open-source</category>
+      <category>blender</category>
+      <category>retargeting</category>
+      <category>mmd</category>
+      <category>mixamo</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>LipScan 0.5.0 (voix → courbes de lip-sync et de visage)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage</link>

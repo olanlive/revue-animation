@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RGB MoCap (local video mocap, Windows)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-rgb-mocap-mocap-video-locale-windows</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-rgb-mocap-mocap-video-locale-windows</guid>
+      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Released Oct 26 under MIT by toyxyz: a Windows app that turns video into 3D animation with ExMR, FlowHMR or GVHMR running locally (NVIDIA GPU), fixes foot sliding and retargets to Mixamo, VRM or PMX, with FBX or VMD export.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Animatica Marionette (drag-to-pose in Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender</guid>
+      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
+      <description>New Blender 5.0+ add-on ($59, perpetual indie licence): drag a hand or foot and an offline pose model places the rest of the body, then editable motion trails, a smoothing brush and foot-slide detection, as FK keys on Rigify, ARP, CloudRig or Mixamo rigs.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>posing</category>
+      <category>animation</category>
+      <category>rigging</category>
+    </item>
+    <item>
+      <title>Puppet (webcam VTuber, VRM and ARKit)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit</guid>
+      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Released Oct 28 under MIT: a desktop app (macOS, Windows, Linux) that drives a VRM avatar from a plain webcam via MediaPipe (52 ARKit blendshapes, head, gaze, upper body and hands), with calibration, per-blendshape gain and VMC output.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>facial</category>
+      <category>vrm</category>
+      <category>webcam</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>BoneStudio (2D skeletal animation editor)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-bonestudio-editeur-danimation-squelettique-2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-bonestudio-editeur-danimation-squelettique-2d</guid>
+      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Released Oct 28 under MIT: a web and Electron 2D bone animation editor that reads and writes DragonBones 5.x projects and imports Spine 4.1/4.2, with IK, skinning, FFD mesh deformation, weight painting, curves and an MCP server for AI.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>skeletal</category>
+      <category>dragonbones</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Dynamic Skinning 0.1.1 (cartoon effects on a Blender rig)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender</link>

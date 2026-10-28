@@ -1721,5 +1721,87 @@
       "label_en": "GitHub — topic “character-animation” (sorted by update)",
       "url": "https://github.com/topics/character-animation?o=desc&s=updated"
     }
+  },
+  {
+    "date": "2026-10-28",
+    "name": "RGB MoCap (mocap vidéo locale, Windows)",
+    "name_en": "RGB MoCap (local video mocap, Windows)",
+    "summary": "Publiée le 26 oct sous MIT par toyxyz : une appli Windows qui transforme une vidéo en animation 3D avec ExMR, FlowHMR ou GVHMR en local (GPU NVIDIA), corrige le glissement des pieds et retargete sur Mixamo, VRM ou PMX, export FBX ou VMD.",
+    "summary_en": "Released Oct 26 under MIT by toyxyz: a Windows app that turns video into 3D animation with ExMR, FlowHMR or GVHMR running locally (NVIDIA GPU), fixes foot sliding and retargets to Mixamo, VRM or PMX, with FBX or VMD export.",
+    "url": "https://github.com/toyxyz/toyxyz_RGBMocap",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "retargeting",
+      "local"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion-capture » (repos créés depuis le 26 oct)",
+      "label_en": "GitHub — search “motion-capture” (repos created since Oct 26)",
+      "url": "https://github.com/search?q=motion-capture+created%3A%3E%3D2026-10-26&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-28",
+    "name": "Animatica Marionette (poser au doigt dans Blender)",
+    "name_en": "Animatica Marionette (drag-to-pose in Blender)",
+    "summary": "Nouvel add-on Blender 5.0+ (59 $, licence perpétuelle indé) : tu tires une main ou un pied et un modèle de pose local place le reste du corps, puis trajectoires éditables, pinceau de lissage et détection des pieds qui glissent, en clés FK sur Rigify, ARP, CloudRig ou Mixamo.",
+    "summary_en": "New Blender 5.0+ add-on ($59, perpetual indie licence): drag a hand or foot and an offline pose model places the rest of the body, then editable motion trails, a smoothing brush and foot-slide detection, as FK keys on Rigify, ARP, CloudRig or Mixamo rigs.",
+    "url": "https://animatica.ai/marionette",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "posing",
+      "animation",
+      "rigging"
+    ],
+    "source": {
+      "label": "CG Channel — « New CG software you may have missed: 25 October 2026 »",
+      "label_en": "CG Channel — “New CG software you may have missed: 25 October 2026”",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/"
+    }
+  },
+  {
+    "date": "2026-10-28",
+    "name": "Puppet (VTuber webcam, VRM et ARKit)",
+    "name_en": "Puppet (webcam VTuber, VRM and ARKit)",
+    "summary": "Sortie le 28 oct sous MIT : une appli de bureau (macOS, Windows, Linux) qui anime un avatar VRM depuis une simple webcam via MediaPipe (52 blendshapes ARKit, tête, regard, buste et mains), avec calibration, gain par blendshape et envoi en VMC.",
+    "summary_en": "Released Oct 28 under MIT: a desktop app (macOS, Windows, Linux) that drives a VRM avatar from a plain webcam via MediaPipe (52 ARKit blendshapes, head, gaze, upper body and hands), with calibration, per-blendshape gain and VMC output.",
+    "url": "https://github.com/Spartan-Game-Studios/puppet",
+    "tags": [
+      "open-source",
+      "mocap",
+      "facial",
+      "vrm",
+      "webcam",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blendshape » (repos créés depuis le 26 oct)",
+      "label_en": "GitHub — search “blendshape” (repos created since Oct 26)",
+      "url": "https://github.com/search?q=blendshape+created%3A%3E%3D2026-10-26&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-28",
+    "name": "BoneStudio (éditeur d’animation squelettique 2D)",
+    "name_en": "BoneStudio (2D skeletal animation editor)",
+    "summary": "Publié le 28 oct sous MIT : un éditeur web et Electron d’animation 2D par os qui lit et écrit les projets DragonBones 5.x et importe Spine 4.1/4.2, avec IK, skinning, déformation FFD, peinture de poids, courbes et un serveur MCP pour l’IA.",
+    "summary_en": "Released Oct 28 under MIT: a web and Electron 2D bone animation editor that reads and writes DragonBones 5.x projects and imports Spine 4.1/4.2, with IK, skinning, FFD mesh deformation, weight painting, curves and an MCP server for AI.",
+    "url": "https://github.com/ahao0150/bone-studio",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "skeletal",
+      "dragonbones",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (repos créés depuis le 26 oct)",
+      "label_en": "GitHub — search “skeletal animation” (repos created since Oct 26)",
+      "url": "https://github.com/search?q=%22skeletal+animation%22+created%3A%3E%3D2026-10-26&type=repositories"
+    }
   }
 ]

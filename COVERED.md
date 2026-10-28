@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-28 | RGB MoCap (mocap vidéo locale, Windows) | open-source, mocap, capture-video, retargeting, local | https://github.com/toyxyz/toyxyz_RGBMocap | https://olanlive.github.io/revue-animation/#2026-10-28-rgb-mocap-mocap-video-locale-windows |
+| 2026-10-28 | Animatica Marionette (poser au doigt dans Blender) | payant, blender-addon, posing, animation, rigging | https://animatica.ai/marionette | https://olanlive.github.io/revue-animation/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender |
+| 2026-10-28 | Puppet (VTuber webcam, VRM et ARKit) | open-source, mocap, facial, vrm, webcam, emerging | https://github.com/Spartan-Game-Studios/puppet | https://olanlive.github.io/revue-animation/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit |
+| 2026-10-28 | BoneStudio (éditeur d’animation squelettique 2D) | open-source, 2d, rigging, skeletal, dragonbones, emerging | https://github.com/ahao0150/bone-studio | https://olanlive.github.io/revue-animation/#2026-10-28-bonestudio-editeur-danimation-squelettique-2d |
 | 2026-10-27 | Dynamic Skinning 0.1.1 (effets cartoon sur un rig Blender) | open-source, blender-addon, rigging, skinning, secondary-motion | https://github.com/drohmer/dynamic_skinning | https://olanlive.github.io/revue-animation/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender |
 | 2026-10-27 | anymove (mocap de n’importe quelle créature depuis une vidéo IA) | open-source, mocap, capture-video, ia, creature, emerging | https://github.com/patch-gg/anymove | https://olanlive.github.io/revue-animation/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia |
 | 2026-10-27 | mmdance 0.1.0 (danses MMD sur un perso Mixamo dans Blender) | open-source, blender, retargeting, mmd, mixamo, emerging | https://github.com/starryark/mmdance | https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender |

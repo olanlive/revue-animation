@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-29 | SHAPES pour Blender (éditeur de shape keys) | payant, blender-addon, rigging, shape-keys, facial | https://www.braverabbit.com/shapes-blender/ | https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys |
+| 2026-10-29 | ExMR 0.1.5 (mocap vidéo monoculaire) | non-commercial, mocap, capture-video, smpl-x, ia | https://github.com/twehrbein/ExMR | https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire |
+| 2026-10-29 | Tracking Toolkit 3.0 RC (mocap VR dans Blender) | open-source, blender-addon, mocap, vr, openxr | https://github.com/varrett-llc/tracking-toolkit | https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender |
+| 2026-10-29 | VideoIntoBlenderModel (vidéo vers perso .glb) | open-source, mocap, blender-addon, facial, retargeting, emerging | https://github.com/s0ck3t/VideoIntoBlenderModel | https://olanlive.github.io/revue-animation/#2026-10-29-videointoblendermodel-video-vers-perso-glb |
 | 2026-10-28 | RGB MoCap (mocap vidéo locale, Windows) | open-source, mocap, capture-video, retargeting, local | https://github.com/toyxyz/toyxyz_RGBMocap | https://olanlive.github.io/revue-animation/#2026-10-28-rgb-mocap-mocap-video-locale-windows |
 | 2026-10-28 | Animatica Marionette (poser au doigt dans Blender) | payant, blender-addon, posing, animation, rigging | https://animatica.ai/marionette | https://olanlive.github.io/revue-animation/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender |
 | 2026-10-28 | Puppet (VTuber webcam, VRM et ARKit) | open-source, mocap, facial, vrm, webcam, emerging | https://github.com/Spartan-Game-Studios/puppet | https://olanlive.github.io/revue-animation/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit |

@@ -1803,5 +1803,86 @@
       "label_en": "GitHub — search “skeletal animation” (repos created since Oct 26)",
       "url": "https://github.com/search?q=%22skeletal+animation%22+created%3A%3E%3D2026-10-26&type=repositories"
     }
+  },
+  {
+    "date": "2026-10-29",
+    "name": "SHAPES pour Blender (éditeur de shape keys)",
+    "name_en": "SHAPES for Blender (shape key editor)",
+    "summary": "Sorti le 27 oct : l’éditeur de shapes de brave rabbit (réf. sous Maya) arrive dans Blender 4.2+ pour créer en pose, miroir, découpe, combos, drivers et correctifs faciaux. Sous GPL sans vérif de licence ; 20 € perso, 60 € pro avec RBF Nodes.",
+    "summary_en": "Released Oct 27: brave rabbit’s shape editor (a Maya reference) comes to Blender 4.2+ to create in pose, mirror, split, combine, drive and build facial correctives. GPL with no licence check; €20 personal, €60 commercial with RBF Nodes.",
+    "url": "https://www.braverabbit.com/shapes-blender/",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "rigging",
+      "shape-keys",
+      "facial"
+    ],
+    "source": {
+      "label": "Mastodon — annonce de @braverabbit@mastodon.art (27 oct)",
+      "label_en": "Mastodon — announcement by @braverabbit@mastodon.art (Oct 27)",
+      "url": "https://mastodon.art/@braverabbit/117513290539158439"
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "name": "ExMR 0.1.5 (mocap vidéo monoculaire)",
+    "name_en": "ExMR 0.1.5 (monocular video mocap)",
+    "summary": "v0.1.5 du 29 oct : ExMR tire d’une seule vidéo un corps SMPL-X (mains, pieds) ancré dans le monde, corrige les vidéos de téléphone en portrait, ajoute les contacts au sol ; export BVH, FBX et Blender depuis le 26 oct. Licence recherche/non commerciale.",
+    "summary_en": "v0.1.5 on Oct 29: ExMR turns a single video into a world-grounded SMPL-X body (hands, feet), fixes upright phone videos and adds foot contacts; BVH, FBX and Blender export since Oct 26. Research/non-commercial licence.",
+    "url": "https://github.com/twehrbein/ExMR",
+    "tags": [
+      "non-commercial",
+      "mocap",
+      "capture-video",
+      "smpl-x",
+      "ia"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "name": "Tracking Toolkit 3.0 RC (mocap VR dans Blender)",
+    "name_en": "Tracking Toolkit 3.0 RC (VR mocap in Blender)",
+    "summary": "3.0.0-rc.2 publiée le 26 oct (GPL-3.0) : l’add-on enregistre casques et trackers OpenXR directement dans Blender, désormais via le XR natif de Blender 5.2+, avec pistes NLA et timecode SMPTE ; les trackers Vive demandent Blender 5.3.",
+    "summary_en": "3.0.0-rc.2 released Oct 26 (GPL-3.0): the add-on records OpenXR headsets and trackers straight into Blender, now through Blender 5.2+’s native XR, with NLA tracks and SMPTE timecode; Vive trackers need Blender 5.3.",
+    "url": "https://github.com/varrett-llc/tracking-toolkit",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "vr",
+      "openxr"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "name": "VideoIntoBlenderModel (vidéo vers perso .glb)",
+    "name_en": "VideoIntoBlenderModel (video to .glb character)",
+    "summary": "Repo Apache-2.0 lancé le 16 oct, mis à jour le 25 : depuis une vidéo ou une photo, il capte corps, mains (30 os) et 52 expressions ARKit puis les retargete sur un humanoïde .glb, en extension Blender 4.2+ (CUDA optionnel).",
+    "summary_en": "Apache-2.0 repo started Oct 16, updated Oct 25: from a video or photo it captures body, hands (30 bones) and 52 ARKit expressions, then retargets them onto a humanoid .glb, as a Blender 4.2+ extension (CUDA optional).",
+    "url": "https://github.com/s0ck3t/VideoIntoBlenderModel",
+    "tags": [
+      "open-source",
+      "mocap",
+      "blender-addon",
+      "facial",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
   }
 ]

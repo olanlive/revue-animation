@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SHAPES pour Blender (éditeur de shape keys)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys</guid>
+      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 27 oct : l’éditeur de shapes de brave rabbit (réf. sous Maya) arrive dans Blender 4.2+ pour créer en pose, miroir, découpe, combos, drivers et correctifs faciaux. Sous GPL sans vérif de licence ; 20 € perso, 60 € pro avec RBF Nodes.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>shape-keys</category>
+      <category>facial</category>
+    </item>
+    <item>
+      <title>ExMR 0.1.5 (mocap vidéo monoculaire)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire</guid>
+      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
+      <description>v0.1.5 du 29 oct : ExMR tire d’une seule vidéo un corps SMPL-X (mains, pieds) ancré dans le monde, corrige les vidéos de téléphone en portrait, ajoute les contacts au sol ; export BVH, FBX et Blender depuis le 26 oct. Licence recherche/non commerciale.</description>
+      <category>non-commercial</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>smpl-x</category>
+      <category>ia</category>
+    </item>
+    <item>
+      <title>Tracking Toolkit 3.0 RC (mocap VR dans Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender</guid>
+      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
+      <description>3.0.0-rc.2 publiée le 26 oct (GPL-3.0) : l’add-on enregistre casques et trackers OpenXR directement dans Blender, désormais via le XR natif de Blender 5.2+, avec pistes NLA et timecode SMPTE ; les trackers Vive demandent Blender 5.3.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>vr</category>
+      <category>openxr</category>
+    </item>
+    <item>
+      <title>VideoIntoBlenderModel (vidéo vers perso .glb)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-10-29-videointoblendermodel-video-vers-perso-glb</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-videointoblendermodel-video-vers-perso-glb</guid>
+      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Repo Apache-2.0 lancé le 16 oct, mis à jour le 25 : depuis une vidéo ou une photo, il capte corps, mains (30 os) et 52 expressions ARKit puis les retargete sur un humanoïde .glb, en extension Blender 4.2+ (CUDA optionnel).</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>blender-addon</category>
+      <category>facial</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>RGB MoCap (mocap vidéo locale, Windows)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-10-28-rgb-mocap-mocap-video-locale-windows</link>

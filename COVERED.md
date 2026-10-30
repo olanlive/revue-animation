@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-10-30 | LAK 2.0.0 (inspecter un clip de mocap dans le navigateur) | open-source, mocap, web, animation, cleanup, emerging | https://github.com/wisessing/lak | https://olanlive.github.io/revue-animation/#2026-10-30-lak-2-0-0-inspecter-un-clip-de-mocap-dans-le-navigateur |
+| 2026-10-30 | Tsukumoe (alternative ouverte à Live2D Cubism) | open-source, 2d, rigging, live2d, puppet, emerging | https://github.com/narusenia/tsukumoe | https://olanlive.github.io/revue-animation/#2026-10-30-tsukumoe-alternative-ouverte-a-live2d-cubism |
+| 2026-10-30 | Sekiro Animation Bridge 0.14.2 (animations FromSoftware dans Blender) | open-source, blender, retargeting, animation, game-modding | https://github.com/Beertraps/SekiroAnimationBridge | https://olanlive.github.io/revue-animation/#2026-10-30-sekiro-animation-bridge-0-14-2-animations-fromsoftware-dans-blender |
+| 2026-10-30 | Maul Anim 0.7.0 (bibliothèque d’animation squelettique en C) | open-source, runtime, ik, retargeting, motion-matching, emerging | https://github.com/Rawframe-Project/maul-anim | https://olanlive.github.io/revue-animation/#2026-10-30-maul-anim-0-7-0-bibliotheque-danimation-squelettique-en-c |
 | 2026-10-29 | SHAPES pour Blender (éditeur de shape keys) | payant, blender-addon, rigging, shape-keys, facial | https://www.braverabbit.com/shapes-blender/ | https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys |
 | 2026-10-29 | ExMR 0.1.5 (mocap vidéo monoculaire) | non-commercial, mocap, capture-video, smpl-x, ia | https://github.com/twehrbein/ExMR | https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire |
 | 2026-10-29 | Tracking Toolkit 3.0 RC (mocap VR dans Blender) | open-source, blender-addon, mocap, vr, openxr | https://github.com/varrett-llc/tracking-toolkit | https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender |

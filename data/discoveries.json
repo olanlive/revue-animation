@@ -1884,5 +1884,88 @@
       "label_en": "GitHub — motion-capture topic (sorted by recent update)",
       "url": "https://github.com/topics/motion-capture"
     }
+  },
+  {
+    "date": "2026-10-30",
+    "name": "LAK 2.0.0 (inspecter un clip de mocap dans le navigateur)",
+    "name_en": "LAK 2.0.0 (inspect a mocap clip in the browser)",
+    "summary": "Première version publique (29 oct), sous Apache-2.0 : tu ouvres un clip FBX ou GLB (mocap, keyframe ou IA), tu le lis image par image avec trajectoires d’articulations, il repère pops, jitter et flips, puis tu le coupes et le réexportes. Tout reste en local.",
+    "summary_en": "First public release (Oct 29), Apache-2.0: open an FBX or GLB clip (mocap, keyframed or AI), step through it with joint trails, let it flag pops, jitter and rotation flips, then trim and re-export it. Everything stays on your device.",
+    "url": "https://github.com/wisessing/lak",
+    "tags": [
+      "open-source",
+      "mocap",
+      "web",
+      "animation",
+      "cleanup",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-10-30",
+    "name": "Tsukumoe (alternative ouverte à Live2D Cubism)",
+    "name_en": "Tsukumoe (open alternative to Live2D Cubism)",
+    "summary": "Repo lancé le 30 oct, sous Apache-2.0 ou MIT : une plateforme de rigging et d’animation 2D qui vise à charger les modèles Live2D (.moc3) et Inochi2D, avec CLI, rendu wgpu et lip-sync prévu. Encore au tout début, pas utilisable comme appli.",
+    "summary_en": "Repo started Oct 30, Apache-2.0 or MIT: a 2D rigging and animation platform aiming to load Live2D (.moc3) and Inochi2D models, with a CLI, a wgpu renderer and planned lip-sync. Very early stage, not usable as an app yet.",
+    "url": "https://github.com/narusenia/tsukumoe",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "live2d",
+      "puppet",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-10-30",
+    "name": "Sekiro Animation Bridge 0.14.2 (animations FromSoftware dans Blender)",
+    "name_en": "Sekiro Animation Bridge 0.14.2 (FromSoftware animations in Blender)",
+    "summary": "Version du 29 oct, sous GPL-3.0 : importe une anim HKX de Sekiro, Dark Souls ou Elden Ring avec son perso skinné dans Blender 4.5, tu l’édites comme une action, puis tu réexportes en HKX. Un add-on optionnel retargete entre persos. Windows, prototype.",
+    "summary_en": "Oct 29 release, GPL-3.0: imports an HKX animation from Sekiro, Dark Souls or Elden Ring with its skinned character into Blender 4.5, you edit it as an action and export HKX again. An optional add-on retargets between characters. Windows, prototype.",
+    "url": "https://github.com/Beertraps/SekiroAnimationBridge",
+    "tags": [
+      "open-source",
+      "blender",
+      "retargeting",
+      "animation",
+      "game-modding"
+    ],
+    "source": {
+      "label": "GitHub — topic retargeting (tri par mise à jour)",
+      "label_en": "GitHub — retargeting topic (sorted by recent update)",
+      "url": "https://github.com/topics/retargeting"
+    }
+  },
+  {
+    "date": "2026-10-30",
+    "name": "Maul Anim 0.7.0 (bibliothèque d’animation squelettique en C)",
+    "name_en": "Maul Anim 0.7.0 (skeletal animation library in C)",
+    "summary": "Version du 29 oct, sous MIT : une lib C sans dépendance pour blend spaces, state machines, motion matching, IK (FABRIK, full-body), spring bones VRM et retargeting entre rigs, avec import glTF et FBX. La 0.7.0 renomme toute l’API (changement cassant).",
+    "summary_en": "Oct 29 release, MIT: a dependency-free C library for blend spaces, state machines, motion matching, IK (FABRIK, full-body), VRM spring bones and retargeting between rigs, with glTF and FBX import. 0.7.0 renames the whole API (breaking change).",
+    "url": "https://github.com/Rawframe-Project/maul-anim",
+    "tags": [
+      "open-source",
+      "runtime",
+      "ik",
+      "retargeting",
+      "motion-matching",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic retargeting (tri par mise à jour)",
+      "label_en": "GitHub — retargeting topic (sorted by recent update)",
+      "url": "https://github.com/topics/retargeting"
+    }
   }
 ]

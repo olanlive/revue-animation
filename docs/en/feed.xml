@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LAK 2.0.0 (inspect a mocap clip in the browser)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-30-lak-2-0-0-inspecter-un-clip-de-mocap-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-30-lak-2-0-0-inspecter-un-clip-de-mocap-dans-le-navigateur</guid>
+      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
+      <description>First public release (Oct 29), Apache-2.0: open an FBX or GLB clip (mocap, keyframed or AI), step through it with joint trails, let it flag pops, jitter and rotation flips, then trim and re-export it. Everything stays on your device.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>web</category>
+      <category>animation</category>
+      <category>cleanup</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Tsukumoe (open alternative to Live2D Cubism)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-30-tsukumoe-alternative-ouverte-a-live2d-cubism</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-30-tsukumoe-alternative-ouverte-a-live2d-cubism</guid>
+      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Repo started Oct 30, Apache-2.0 or MIT: a 2D rigging and animation platform aiming to load Live2D (.moc3) and Inochi2D models, with a CLI, a wgpu renderer and planned lip-sync. Very early stage, not usable as an app yet.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>live2d</category>
+      <category>puppet</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Sekiro Animation Bridge 0.14.2 (FromSoftware animations in Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-30-sekiro-animation-bridge-0-14-2-animations-fromsoftware-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-30-sekiro-animation-bridge-0-14-2-animations-fromsoftware-dans-blender</guid>
+      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Oct 29 release, GPL-3.0: imports an HKX animation from Sekiro, Dark Souls or Elden Ring with its skinned character into Blender 4.5, you edit it as an action and export HKX again. An optional add-on retargets between characters. Windows, prototype.</description>
+      <category>open-source</category>
+      <category>blender</category>
+      <category>retargeting</category>
+      <category>animation</category>
+      <category>game-modding</category>
+    </item>
+    <item>
+      <title>Maul Anim 0.7.0 (skeletal animation library in C)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-30-maul-anim-0-7-0-bibliotheque-danimation-squelettique-en-c</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-30-maul-anim-0-7-0-bibliotheque-danimation-squelettique-en-c</guid>
+      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Oct 29 release, MIT: a dependency-free C library for blend spaces, state machines, motion matching, IK (FABRIK, full-body), VRM spring bones and retargeting between rigs, with glTF and FBX import. 0.7.0 renames the whole API (breaking change).</description>
+      <category>open-source</category>
+      <category>runtime</category>
+      <category>ik</category>
+      <category>retargeting</category>
+      <category>motion-matching</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>SHAPES for Blender (shape key editor)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys</link>

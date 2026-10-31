@@ -1967,5 +1967,107 @@
       "label_en": "GitHub — retargeting topic (sorted by recent update)",
       "url": "https://github.com/topics/retargeting"
     }
+  },
+  {
+    "date": "2026-10-31",
+    "name": "MotionBridge (vidéo IA → mocap sur ton propre rig)",
+    "name_en": "MotionBridge (AI video → mocap on your own rig)",
+    "summary": "Pack de nœuds ComfyUI publié le 30 oct (Apache-2.0) : une vidéo MiniMax H3 ou un prompt texte (Kimodo) devient un squelette 77 joints, nettoyé puis retargeté sur n’importe quel rig humanoïde, export BLEND/FBX/GLB. En local sur 8 Go de VRAM ; les modèles gardent leurs licences.",
+    "summary_en": "ComfyUI node pack released Oct 30 (Apache-2.0): a MiniMax H3 video or a text prompt (Kimodo) becomes a 77-joint skeleton, cleaned up and retargeted onto any humanoid rig, exported as BLEND/FBX/GLB. Runs locally on 8 GB VRAM; models keep their own licenses.",
+    "url": "https://github.com/powerhouse90/motionbridge",
+    "tags": [
+      "open-source",
+      "mocap",
+      "ia",
+      "retargeting",
+      "comfyui",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (repos créés depuis le 29 oct)",
+      "label_en": "GitHub — “skeletal animation” search (repos created since Oct 29)",
+      "url": "https://github.com/search?q=skeletal+animation+created%3A%3E%3D2026-10-29&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Golden Pose v1 (vidéo de référence → poses dans Blender)",
+    "name_en": "Golden Pose v1 (reference video → poses in Blender)",
+    "summary": "Sorti le 30 oct : cet add-on Blender repère les poses clés d’une vidéo de référence et les pose sur ton perso, doigts compris, en FK/IK sur rigs Auto-Rig Pro, Rigify ou Mixamo, en local sur ton PC. Payant : 10 $ au lancement sur Gumroad.",
+    "summary_en": "Out Oct 30: this Blender add-on finds the key poses in a reference video and poses your character with them, fingers included, in FK/IK on Auto-Rig Pro, Rigify or Mixamo rigs, locally on your PC. Paid: $10 launch price on Gumroad.",
+    "url": "https://nrs1403.gumroad.com/l/goldenpose",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "mocap",
+      "capture-video",
+      "posing"
+    ],
+    "source": {
+      "label": "X — annonce de @Free1403dom (30 oct)",
+      "label_en": "X — announcement by @Free1403dom (Oct 30)",
+      "url": "https://x.com/Free1403dom/status/2116273278759391631"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "name": "ActionForge (auto-rig et animation dans le navigateur)",
+    "name_en": "ActionForge (auto-rig and animation in the browser)",
+    "summary": "Bêta gratuite repérée le 29 oct, sans installation ni compte : tu charges un perso GLB/FBX non riggé, il l’auto-rigge, tu superposes des clips CC0 de Quaternius par partie du corps, corriges en IK et exportes avec presets UE5, Unity, Godot ou Blender. Code propriétaire.",
+    "summary_en": "Free beta spotted Oct 29, no install or account: load an unrigged GLB/FBX character, it auto-rigs it, you layer Quaternius CC0 clips per body part, fix with IK and export with UE5, Unity, Godot or Blender presets. Proprietary code.",
+    "url": "https://actionforge.app/",
+    "tags": [
+      "gratuit",
+      "auto-rig",
+      "animation",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "X — post de @gamedevunchaind (29 oct)",
+      "label_en": "X — post by @gamedevunchaind (Oct 29)",
+      "url": "https://x.com/gamedevunchaind/status/2115920652419072390"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Chimera (prompt texte → animation sur ton squelette)",
+    "name_en": "Chimera (text prompt → animation on your skeleton)",
+    "summary": "Publié le 30 oct sous MIT : à partir d’un modèle 3D et d’un prompt, LTX-2.5 génère une vidéo de mouvement, puis Chimera y ajuste le rig d’origine (même une créature à 35 os) et exporte GLB, FBX et BVH. Modèles open-weight via ComfyUI en local, 16 Go de VRAM testés.",
+    "summary_en": "Released Oct 30 under MIT: from a 3D model and a prompt, LTX-2.5 generates a motion video, then Chimera fits the original rig to it (even a 35-bone creature) and exports GLB, FBX and BVH. Open-weight models via local ComfyUI, tested on 16 GB VRAM.",
+    "url": "https://github.com/0xC4LL3/chimera",
+    "tags": [
+      "open-source",
+      "ia",
+      "mocap",
+      "creature",
+      "comfyui",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (repos créés depuis le 29 oct)",
+      "label_en": "GitHub — “skeletal animation” search (repos created since Oct 29)",
+      "url": "https://github.com/search?q=skeletal+animation+created%3A%3E%3D2026-10-29&type=repositories"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Stick Figure Studio (animation 2D riggée dans le navigateur)",
+    "name_en": "Stick Figure Studio (rigged 2D animation in the browser)",
+    "summary": "Créé le 30 oct, sous MIT : un studio d’animation 2D qui tient dans un index.html, hors ligne et sans dépendance. Un bonhomme bâton sert de rig caché sous tes dessins, avec IK, timeline, caméra, son et export MP4, plus un serveur MCP pour qu’un agent IA pilote les scènes.",
+    "summary_en": "Created Oct 30, MIT: a 2D animation studio in a single index.html, offline and dependency-free. A stick figure acts as the hidden rig under your artwork, with IK, timeline, camera, sound and MP4 export, plus an MCP server so an AI agent can drive scenes.",
+    "url": "https://github.com/mariobilly/stick-figure-studio",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
   }
 ]

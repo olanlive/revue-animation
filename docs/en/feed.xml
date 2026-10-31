@@ -5,8 +5,70 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MotionBridge (AI video → mocap on your own rig)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-motionbridge-video-ia-mocap-sur-ton-propre-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-31-motionbridge-video-ia-mocap-sur-ton-propre-rig</guid>
+      <pubDate>Sat, 31 Oct 2026 09:51:00 +0100</pubDate>
+      <description>ComfyUI node pack released Oct 30 (Apache-2.0): a MiniMax H3 video or a text prompt (Kimodo) becomes a 77-joint skeleton, cleaned up and retargeted onto any humanoid rig, exported as BLEND/FBX/GLB. Runs locally on 8 GB VRAM; models keep their own licenses.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>ia</category>
+      <category>retargeting</category>
+      <category>comfyui</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Golden Pose v1 (reference video → poses in Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-golden-pose-v1-video-de-reference-poses-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-31-golden-pose-v1-video-de-reference-poses-dans-blender</guid>
+      <pubDate>Sat, 31 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Out Oct 30: this Blender add-on finds the key poses in a reference video and poses your character with them, fingers included, in FK/IK on Auto-Rig Pro, Rigify or Mixamo rigs, locally on your PC. Paid: $10 launch price on Gumroad.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>posing</category>
+    </item>
+    <item>
+      <title>ActionForge (auto-rig and animation in the browser)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-actionforge-auto-rig-et-animation-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-31-actionforge-auto-rig-et-animation-dans-le-navigateur</guid>
+      <pubDate>Sat, 31 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Free beta spotted Oct 29, no install or account: load an unrigged GLB/FBX character, it auto-rigs it, you layer Quaternius CC0 clips per body part, fix with IK and export with UE5, Unity, Godot or Blender presets. Proprietary code.</description>
+      <category>gratuit</category>
+      <category>auto-rig</category>
+      <category>animation</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Chimera (text prompt → animation on your skeleton)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-chimera-prompt-texte-animation-sur-ton-squelette</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-31-chimera-prompt-texte-animation-sur-ton-squelette</guid>
+      <pubDate>Sat, 31 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Released Oct 30 under MIT: from a 3D model and a prompt, LTX-2.5 generates a motion video, then Chimera fits the original rig to it (even a 35-bone creature) and exports GLB, FBX and BVH. Open-weight models via local ComfyUI, tested on 16 GB VRAM.</description>
+      <category>open-source</category>
+      <category>ia</category>
+      <category>mocap</category>
+      <category>creature</category>
+      <category>comfyui</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Stick Figure Studio (rigged 2D animation in the browser)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-stick-figure-studio-animation-2d-riggee-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-31-stick-figure-studio-animation-2d-riggee-dans-le-navigateur</guid>
+      <pubDate>Sat, 31 Oct 2026 09:51:00 +0100</pubDate>
+      <description>Created Oct 30, MIT: a 2D animation studio in a single index.html, offline and dependency-free. A stick figure acts as the hidden rig under your artwork, with IK, timeline, camera, sound and MP4 export, plus an MCP server so an AI agent can drive scenes.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>LAK 2.0.0 (inspect a mocap clip in the browser)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-30-lak-2-0-0-inspecter-un-clip-de-mocap-dans-le-navigateur</link>
@@ -1143,46 +1205,6 @@
       <category>blender-addon</category>
       <category>rigging</category>
       <category>open-source</category>
-    </item>
-    <item>
-      <title>RBF Nodes 4</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-rbf-nodes-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-rbf-nodes-4</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Paid add-on ($17.99 on Superhive) by Brave Rabbit: a node-based RBF solver to drive several values from several inputs (shoulder correctives, facial rigs). v4 rebuilds the solver, handles rotations better and adds a free runtime. v3 rigs must be rebuilt.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>LibreSprite 1.3</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-libresprite-1-3</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-libresprite-1-3</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Free animated sprite and pixel art editor (GPLv2, Aseprite fork): 1.3 (Oct 2) is the first release since March 2025. Brushes up to 256 px, extended symmetry, tiled mode shortcut, better hi-DPI handling and security fixes (zip-slip, script sandbox).</description>
-      <category>2d</category>
-      <category>pixel-art</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>FreeMoCap 2.0.0-alpha.25</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-freemocap-2-0-0-alpha-25</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-freemocap-2-0-0-alpha-25</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Free markerless mocap (AGPL) from webcams: alpha 25 (Sept 24) adds Blender export options in the interface, improves hand detection and fixes use on machines without a GPU. Windows/macOS/Linux installers, but it’s an alpha: be careful.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>Auto-Rig Pro 3.78.62</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-auto-rig-pro-3-78-62</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-auto-rig-pro-3-78-62</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender’s reference paid rigging add-on keeps updating in late Sept/early Oct: the Smart facial rig detects the face surface and eye shape on its own, new “Auto-Rig Pro Skeleton” Remap preset and more reliable FBX export to Unreal (bind pose).</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>payant</category>
     </item>
   </channel>
 </rss>

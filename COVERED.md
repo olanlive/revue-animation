@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-01 | BonePilot v5.2.26 (navigation de contrôleurs pour animer dans Blender) | open-source, blender-addon, rigging, ik-fk, emerging | https://github.com/dazuoge/yugu-bonepilot | https://olanlive.github.io/revue-animation/#2026-11-01-bonepilot-v5-2-26-navigation-de-controleurs-pour-animer-dans-blender |
+| 2026-11-01 | FBones 0.9.4 bêta (éditeur 2D squelettal hors ligne) | open-source, 2d, rigging, skeletal, emerging | https://github.com/Malasuerte94/FBones | https://olanlive.github.io/revue-animation/#2026-11-01-fbones-0-9-4-beta-editeur-2d-squelettal-hors-ligne |
+| 2026-11-01 | Mamulengo 0.2.0 (animation 2D squelettale pour Godot, pilotable par IA) | open-source, 2d, rigging, godot, ia, emerging | https://github.com/zednaked/mamulengo | https://olanlive.github.io/revue-animation/#2026-11-01-mamulengo-0-2-0-animation-2d-squelettale-pour-godot-pilotable-par-ia |
 | 2026-10-31 | MotionBridge (vidéo IA → mocap sur ton propre rig) | open-source, mocap, ia, retargeting, comfyui, emerging | https://github.com/powerhouse90/motionbridge | https://olanlive.github.io/revue-animation/#2026-10-31-motionbridge-video-ia-mocap-sur-ton-propre-rig |
 | 2026-10-31 | Golden Pose v1 (vidéo de référence → poses dans Blender) | payant, blender-addon, mocap, capture-video, posing | https://nrs1403.gumroad.com/l/goldenpose | https://olanlive.github.io/revue-animation/#2026-10-31-golden-pose-v1-video-de-reference-poses-dans-blender |
 | 2026-10-31 | ActionForge (auto-rig et animation dans le navigateur) | gratuit, auto-rig, animation, web, emerging | https://actionforge.app/ | https://olanlive.github.io/revue-animation/#2026-10-31-actionforge-auto-rig-et-animation-dans-le-navigateur |

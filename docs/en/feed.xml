@@ -5,8 +5,45 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BonePilot v5.2.26 (controller navigation for animating in Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-01-bonepilot-v5-2-26-navigation-de-controleurs-pour-animer-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-01-bonepilot-v5-2-26-navigation-de-controleurs-pour-animer-dans-blender</guid>
+      <pubDate>Sun, 01 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 1 under MIT: a Blender 5.2+ add-on for faster posing in Pose Mode. One-key IK/FK switch (native snap on Rigify), three pie menus filled from the rig's bone collections, fully rebindable keys and step-by-step undo.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>ik-fk</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FBones 0.9.4 beta (offline 2D skeletal editor)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-01-fbones-0-9-4-beta-editeur-2d-squelettal-hors-ligne</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-01-fbones-0-9-4-beta-editeur-2d-squelettal-hors-ligne</guid>
+      <pubDate>Sun, 01 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Oct 31 under MIT: a 2D skeletal animation editor for Windows, macOS and Linux, no account or cloud. Bones, meshes, weights, constraints, dopesheet and graph editor; aims for Spine 4.3 compatibility, still partial (early beta).</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>skeletal</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Mamulengo 0.2.0 (2D skeletal animation for Godot, AI-drivable)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-01-mamulengo-0-2-0-animation-2d-squelettale-pour-godot-pilotable-par-ia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-01-mamulengo-0-2-0-animation-2d-squelettale-pour-godot-pilotable-par-ia</guid>
+      <pubDate>Sun, 01 Nov 2026 09:51:00 +0100</pubDate>
+      <description>v0.2.0 from Oct 30, MIT: rig from a layered PSD, animate on a timeline, and an MCP server lets an AI agent move bones live. A C++ core plays characters in Godot 4.5+ and the browser (WebAssembly), and reads and writes Spine 4.3 projects.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>godot</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>MotionBridge (AI video → mocap on your own rig)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-10-31-motionbridge-video-ia-mocap-sur-ton-propre-rig</link>
@@ -1175,36 +1212,6 @@
       <category>2d</category>
       <category>open-source</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>FlowHMR</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-flowhmr</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-flowhmr</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Mocap from a single video: FlowHMR (code and weights released late Sept, arXiv paper in Oct) generates physically plausible global 3D body + hand motion, with a web demo and FBX export. Research licence: commercial use prohibited.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Krita 5.3.4 / 6.0.4</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-krita-5-3-4-6-0-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-krita-5-3-4-6-0-4</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Krita 5.3.4 (Qt 5) and 6.0.4 (Qt 6, Wayland and HDR on Linux), released Sept 15: the Android version can finally export frame-by-frame animations and timelapses to video, plus a batch of fixes. GIMP XCF import is removed (unmaintained dependency).</description>
-      <category>2d</category>
-      <category>krita</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>CloudRig 2.2.31</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-cloudrig-2-2-31</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-cloudrig-2-2-31</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender Studio’s rig generator (free, GPL) reaches 2.2.31 on Oct 5: generation 2 to 5× faster (the gain depends on file complexity, especially with Blender 5.3) and a “Chain: Layered” component polished on the film Cowboi. For Blender 5.0 to 5.x.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>open-source</category>
     </item>
   </channel>
 </rss>

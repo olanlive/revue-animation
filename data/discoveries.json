@@ -2069,5 +2069,66 @@
       "label_en": "GitHub — rigging topic (sorted by recent update)",
       "url": "https://github.com/topics/rigging"
     }
+  },
+  {
+    "date": "2026-11-01",
+    "name": "BonePilot v5.2.26 (navigation de contrôleurs pour animer dans Blender)",
+    "name_en": "BonePilot v5.2.26 (controller navigation for animating in Blender)",
+    "summary": "Sorti le 1er nov sous MIT : un add-on Blender 5.2+ pour animer plus vite en Pose Mode. Bascule IK/FK en une touche (snap natif sur Rigify), trois menus circulaires remplis depuis les collections du rig, raccourcis personnalisables et annulation pas à pas.",
+    "summary_en": "Released Nov 1 under MIT: a Blender 5.2+ add-on for faster posing in Pose Mode. One-key IK/FK switch (native snap on Rigify), three pie menus filled from the rig's bone collections, fully rebindable keys and step-by-step undo.",
+    "url": "https://github.com/dazuoge/yugu-bonepilot",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "ik-fk",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-01",
+    "name": "FBones 0.9.4 bêta (éditeur 2D squelettal hors ligne)",
+    "name_en": "FBones 0.9.4 beta (offline 2D skeletal editor)",
+    "summary": "Publié le 31 oct sous MIT : un éditeur d’animation 2D squelettale pour Windows, macOS et Linux, sans compte ni cloud. Os, maillages, poids, contraintes, dopesheet et éditeur de courbes ; vise la compatibilité Spine 4.3, encore partielle (bêta précoce).",
+    "summary_en": "Published Oct 31 under MIT: a 2D skeletal animation editor for Windows, macOS and Linux, no account or cloud. Bones, meshes, weights, constraints, dopesheet and graph editor; aims for Spine 4.3 compatibility, still partial (early beta).",
+    "url": "https://github.com/Malasuerte94/FBones",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "skeletal",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (tri par mise à jour)",
+      "label_en": "GitHub — “skeletal animation” search (sorted by recent update)",
+      "url": "https://github.com/search?q=skeletal+animation&type=repositories&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Mamulengo 0.2.0 (animation 2D squelettale pour Godot, pilotable par IA)",
+    "name_en": "Mamulengo 0.2.0 (2D skeletal animation for Godot, AI-drivable)",
+    "summary": "v0.2.0 du 30 oct, sous MIT : rig depuis un PSD en calques, timeline, et un serveur MCP pour qu’un agent IA anime les os en direct. Un cœur C++ lit les persos dans Godot 4.5+ et le navigateur (WebAssembly), et ouvre et écrit les projets Spine 4.3.",
+    "summary_en": "v0.2.0 from Oct 30, MIT: rig from a layered PSD, animate on a timeline, and an MCP server lets an AI agent move bones live. A C++ core plays characters in Godot 4.5+ and the browser (WebAssembly), and reads and writes Spine 4.3 projects.",
+    "url": "https://github.com/zednaked/mamulengo",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "godot",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (tri par mise à jour)",
+      "label_en": "GitHub — “skeletal animation” search (sorted by recent update)",
+      "url": "https://github.com/search?q=skeletal+animation&type=repositories&s=updated"
+    }
   }
 ]

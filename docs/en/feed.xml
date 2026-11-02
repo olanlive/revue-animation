@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>StableGen 0.4.0 (SkinTokens auto-rig in Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-02-stablegen-0-4-0-auto-rig-skintokens-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-02-stablegen-0-4-0-auto-rig-skintokens-dans-blender</guid>
+      <pubDate>Mon, 02 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Oct 28: the StableGen Blender add-on adds “Auto-rig selected character”, skeleton + weights via SkinTokens locally (ComfyUI), then FBX/BVH animation retargeting onto the rig. GPL-3.0 code; some image models are non-commercial.</description>
+      <category>open-source</category>
+      <category>blender</category>
+      <category>rigging</category>
+      <category>ia</category>
+      <category>retargeting</category>
+    </item>
+    <item>
+      <title>bonewright (Rigify auto-rig from a GLB)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-02-bonewright-auto-rig-rigify-depuis-un-glb</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-02-bonewright-auto-rig-rigify-depuis-un-glb</guid>
+      <pubDate>Mon, 02 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Feed it a .glb, get back a skinned Rigify rig, with a gate that rejects bad meshes; humans, quadrupeds, BVH retargeting. MIT + GPL-3.0, Blender 5.2; joint placement via an LLM (~$1/rig) or a free mock mode. Commits up to Nov 2.</description>
+      <category>open-source</category>
+      <category>blender</category>
+      <category>rigging</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Humanoid Retargeter 1.2.0 (s&amp;box)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-02-humanoid-retargeter-1-2-0-s-box</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-02-humanoid-retargeter-1-2-0-s-box</guid>
+      <pubDate>Mon, 02 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Nov 1 release: this C# retargeter for the s&amp;box editor (FBX, BVH, glTF, VRM, MMD from Mixamo, Rigify, UE Mannequin…) adds 2D retargeting to sprites, frame baking and twist helpers. Free for non-commercial use, no formal license.</description>
+      <category>gratuit</category>
+      <category>retargeting</category>
+      <category>mocap</category>
+      <category>2d</category>
+      <category>sbox</category>
+    </item>
+    <item>
+      <title>MetaWrap (Blender character → rigged MetaHuman)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-02-metawrap-perso-blender-metahuman-rigge</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-02-metawrap-perso-blender-metahuman-rigge</guid>
+      <pubDate>Mon, 02 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Announced Oct 29: a Blender add-on that wraps an AI character, scan or sculpt onto MetaHuman topology with the real facial rig, transfers textures and sends to Unreal in one click. Paid, $158 (Founder), Windows, Blender 5.0–5.2.</description>
+      <category>payant</category>
+      <category>blender</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>unreal</category>
+    </item>
     <item>
       <title>BonePilot v5.2.26 (controller navigation for animating in Blender)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-01-bonepilot-v5-2-26-navigation-de-controleurs-pour-animer-dans-blender</link>
@@ -1172,46 +1220,6 @@
       <category>2d</category>
       <category>pixel-art</category>
       <category>payant</category>
-    </item>
-    <item>
-      <title>Blender 5.3 — Grease Pencil: Carver tool and selection in Draw mode</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-grease-pencil-outil-carver-et-selection-en-mode-draw</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender 5.3 (beta imminent, release planned for Nov 10) beefs up Grease Pencil: lasso/box selection and copy-paste without leaving Draw mode, a Carver tool that cuts strokes and fills as a true boolean, multi-region fill in a single gesture and cyclic strokes.</description>
-      <category>blender</category>
-      <category>grease-pencil</category>
-      <category>2d</category>
-    </item>
-    <item>
-      <title>Blender 5.3 — Animation &amp; Rigging: rotation mode conversion</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-blender-5-3-animation-rigging-conversion-des-modes-de-rotation</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>On the animation side, Blender 5.3 finally converts animation natively from one rotation mode to another (Ctrl+R in Pose mode, replacing Rigify’s operator), adds an influence slider to pose pasting, extends Fix to Camera to focal length and pauses playback while scrubbing.</description>
-      <category>blender</category>
-      <category>rigging</category>
-      <category>keyframing</category>
-    </item>
-    <item>
-      <title>FreePicker 4.7.0</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-freepicker-4-7-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-freepicker-4-7-0</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender add-on (GPL) adding a floating picker to select bones and objects through buttons you place and resize freely, independent of native selection sets, with JSON export/import of layouts. 4.7.0 (Oct 4) adds button duplication. Blender 5.0+.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>picker</category>
-    </item>
-    <item>
-      <title>OPEN-TOON 0.2.0-experimental</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-08-open-toon-0-2-0-experimental</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-08-open-toon-0-2-0-experimental</guid>
-      <pubDate>Thu, 08 Oct 2026 09:51:00 +0200</pubDate>
-      <description>New open source 2D animation app (GPL, C++/Qt 6) launched Sept 20: vector drawing and MyPaint brushes, timeline/Xsheet, onion skinning, animation curves and an editable character rig. Experimental pre-releases for macOS and Linux (AppImage); a very young project.</description>
-      <category>2d</category>
-      <category>open-source</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

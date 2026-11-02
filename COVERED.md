@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-02 | StableGen 0.4.0 (auto-rig SkinTokens dans Blender) | open-source, blender, rigging, ia, retargeting | https://github.com/sakalond/StableGen/releases/tag/v0.4.0 | https://olanlive.github.io/revue-animation/#2026-11-02-stablegen-0-4-0-auto-rig-skintokens-dans-blender |
+| 2026-11-02 | bonewright (auto-rig Rigify depuis un GLB) | open-source, blender, rigging, ia, emerging | https://github.com/choisam4u-creator/bonewright | https://olanlive.github.io/revue-animation/#2026-11-02-bonewright-auto-rig-rigify-depuis-un-glb |
+| 2026-11-02 | Humanoid Retargeter 1.2.0 (s&box) | gratuit, retargeting, mocap, 2d, sbox | https://github.com/zeljkovranjes/humanoid-retargeter | https://olanlive.github.io/revue-animation/#2026-11-02-humanoid-retargeter-1-2-0-s-box |
+| 2026-11-02 | MetaWrap (perso Blender → MetaHuman riggé) | payant, blender, rigging, facial, unreal | https://www.metawrap.ai/ | https://olanlive.github.io/revue-animation/#2026-11-02-metawrap-perso-blender-metahuman-rigge |
 | 2026-11-01 | BonePilot v5.2.26 (navigation de contrôleurs pour animer dans Blender) | open-source, blender-addon, rigging, ik-fk, emerging | https://github.com/dazuoge/yugu-bonepilot | https://olanlive.github.io/revue-animation/#2026-11-01-bonepilot-v5-2-26-navigation-de-controleurs-pour-animer-dans-blender |
 | 2026-11-01 | FBones 0.9.4 bêta (éditeur 2D squelettal hors ligne) | open-source, 2d, rigging, skeletal, emerging | https://github.com/Malasuerte94/FBones | https://olanlive.github.io/revue-animation/#2026-11-01-fbones-0-9-4-beta-editeur-2d-squelettal-hors-ligne |
 | 2026-11-01 | Mamulengo 0.2.0 (animation 2D squelettale pour Godot, pilotable par IA) | open-source, 2d, rigging, godot, ia, emerging | https://github.com/zednaked/mamulengo | https://olanlive.github.io/revue-animation/#2026-11-01-mamulengo-0-2-0-animation-2d-squelettale-pour-godot-pilotable-par-ia |

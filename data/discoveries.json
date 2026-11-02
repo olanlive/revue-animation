@@ -2130,5 +2130,85 @@
       "label_en": "GitHub — “skeletal animation” search (sorted by recent update)",
       "url": "https://github.com/search?q=skeletal+animation&type=repositories&s=updated"
     }
+  },
+  {
+    "date": "2026-11-02",
+    "name": "StableGen 0.4.0 (auto-rig SkinTokens dans Blender)",
+    "name_en": "StableGen 0.4.0 (SkinTokens auto-rig in Blender)",
+    "summary": "Sortie le 28 oct. : l'add-on Blender StableGen gagne « Auto-rig selected character », squelette + poids via SkinTokens en local (ComfyUI), puis retarget d'anims FBX/BVH sur le rig. Code GPL-3.0 ; certains modèles d'image sont non commerciaux.",
+    "summary_en": "Released Oct 28: the StableGen Blender add-on adds “Auto-rig selected character”, skeleton + weights via SkinTokens locally (ComfyUI), then FBX/BVH animation retargeting onto the rig. GPL-3.0 code; some image models are non-commercial.",
+    "url": "https://github.com/sakalond/StableGen/releases/tag/v0.4.0",
+    "tags": [
+      "open-source",
+      "blender",
+      "rigging",
+      "ia",
+      "retargeting"
+    ],
+    "source": {
+      "label": "X — post de @hasantoxr (31 oct.)",
+      "label_en": "X — post by @hasantoxr (Oct 31)",
+      "url": "https://x.com/hasantoxr/status/2116457666403029040"
+    }
+  },
+  {
+    "date": "2026-11-02",
+    "name": "bonewright (auto-rig Rigify depuis un GLB)",
+    "name_en": "bonewright (Rigify auto-rig from a GLB)",
+    "summary": "Tu donnes un .glb, tu récupères un rig Rigify skinné, avec un contrôle qui refuse les maillages ratés ; humains, quadrupèdes, retarget BVH. MIT + GPL-3.0, Blender 5.2 ; placement des joints via un LLM (~1 $/rig) ou mode mock gratuit. Commits jusqu'au 2 nov.",
+    "summary_en": "Feed it a .glb, get back a skinned Rigify rig, with a gate that rejects bad meshes; humans, quadrupeds, BVH retargeting. MIT + GPL-3.0, Blender 5.2; joint placement via an LLM (~$1/rig) or a free mock mode. Commits up to Nov 2.",
+    "url": "https://github.com/choisam4u-creator/bonewright",
+    "tags": [
+      "open-source",
+      "blender",
+      "rigging",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « auto rig » (tri par mise à jour)",
+      "label_en": "GitHub — “auto rig” search (sorted by recent update)",
+      "url": "https://github.com/search?q=auto+rig&type=repositories&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Humanoid Retargeter 1.2.0 (s&box)",
+    "name_en": "Humanoid Retargeter 1.2.0 (s&box)",
+    "summary": "Version du 1er nov. : ce retargeter en C# pour l'éditeur s&box (FBX, BVH, glTF, VRM, MMD depuis Mixamo, Rigify, UE Mannequin…) ajoute le retarget 2D vers des sprites, le bake de frames et des aides de twist. Gratuit non commercial, sans licence formelle.",
+    "summary_en": "Nov 1 release: this C# retargeter for the s&box editor (FBX, BVH, glTF, VRM, MMD from Mixamo, Rigify, UE Mannequin…) adds 2D retargeting to sprites, frame baking and twist helpers. Free for non-commercial use, no formal license.",
+    "url": "https://github.com/zeljkovranjes/humanoid-retargeter",
+    "tags": [
+      "gratuit",
+      "retargeting",
+      "mocap",
+      "2d",
+      "sbox"
+    ],
+    "source": {
+      "label": "GitHub — recherche « skeletal animation » (tri par mise à jour)",
+      "label_en": "GitHub — “skeletal animation” search (sorted by recent update)",
+      "url": "https://github.com/search?q=skeletal+animation&type=repositories&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-02",
+    "name": "MetaWrap (perso Blender → MetaHuman riggé)",
+    "name_en": "MetaWrap (Blender character → rigged MetaHuman)",
+    "summary": "Annoncé le 29 oct. : add-on Blender qui wrappe un perso IA, un scan ou un sculpt sur la topologie MetaHuman avec le vrai rig facial, transfère les textures et envoie dans Unreal en un clic. Payant, 158 $ (Founder), Windows, Blender 5.0–5.2.",
+    "summary_en": "Announced Oct 29: a Blender add-on that wraps an AI character, scan or sculpt onto MetaHuman topology with the real facial rig, transfers textures and sends to Unreal in one click. Paid, $158 (Founder), Windows, Blender 5.0–5.2.",
+    "url": "https://www.metawrap.ai/",
+    "tags": [
+      "payant",
+      "blender",
+      "rigging",
+      "facial",
+      "unreal"
+    ],
+    "source": {
+      "label": "CG Channel — article du 29 oct. 2026",
+      "label_en": "CG Channel — Oct 29, 2026 article",
+      "url": "https://www.cgchannel.com/2026/10/metawrap-turns-your-3d-characters-into-metahumans-in-blender/"
+    }
   }
 ]

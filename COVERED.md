@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-03 | NK Auto IK 1.0.0 (IK bras et jambes en un clic) | open-source, blender-addon, rigging, ik-fk, emerging | https://extensions.blender.org/add-ons/nk-auto-ik/ | https://olanlive.github.io/revue-animation/#2026-11-03-nk-auto-ik-1-0-0-ik-bras-et-jambes-en-un-clic |
+| 2026-11-03 | BBone to Bones 0.1.0 (bendy bones → vraies chaînes d’os) | open-source, blender-addon, rigging, bendy-bones, export | https://github.com/PieroFra/bbone-to-bones/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-03-bbone-to-bones-0-1-0-bendy-bones-vraies-chaines-dos |
+| 2026-11-03 | MoCapGate 0.3.3 bêta 9 (mocap vidéo locale) | open-source, mocap, capture-video, local, emerging | https://github.com/MaverickGH/mocapgate/releases/tag/v0.3.3-beta.9 | https://olanlive.github.io/revue-animation/#2026-11-03-mocapgate-0-3-3-beta-9-mocap-video-locale |
+| 2026-11-03 | JustRigIt (auto-rig + mocap vidéo en local) | open-source, mocap, auto-rig, capture-video, local, emerging | https://github.com/SuddleMercury/justrigit | https://olanlive.github.io/revue-animation/#2026-11-03-justrigit-auto-rig-mocap-video-en-local |
+| 2026-11-03 | HairDeck (cheveux stylisés + spring bones depuis une image) | open-source, ia, rigging, spring-bones, vrm | https://github.com/hyz317/HairDeck | https://olanlive.github.io/revue-animation/#2026-11-03-hairdeck-cheveux-stylises-spring-bones-depuis-une-image |
 | 2026-11-02 | StableGen 0.4.0 (auto-rig SkinTokens dans Blender) | open-source, blender, rigging, ia, retargeting | https://github.com/sakalond/StableGen/releases/tag/v0.4.0 | https://olanlive.github.io/revue-animation/#2026-11-02-stablegen-0-4-0-auto-rig-skintokens-dans-blender |
 | 2026-11-02 | bonewright (auto-rig Rigify depuis un GLB) | open-source, blender, rigging, ia, emerging | https://github.com/choisam4u-creator/bonewright | https://olanlive.github.io/revue-animation/#2026-11-02-bonewright-auto-rig-rigify-depuis-un-glb |
 | 2026-11-02 | Humanoid Retargeter 1.2.0 (s&box) | gratuit, retargeting, mocap, 2d, sbox | https://github.com/zeljkovranjes/humanoid-retargeter | https://olanlive.github.io/revue-animation/#2026-11-02-humanoid-retargeter-1-2-0-s-box |

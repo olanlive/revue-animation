@@ -2210,5 +2210,106 @@
       "label_en": "CG Channel — Oct 29, 2026 article",
       "url": "https://www.cgchannel.com/2026/10/metawrap-turns-your-3d-characters-into-metahumans-in-blender/"
     }
+  },
+  {
+    "date": "2026-11-03",
+    "name": "NK Auto IK 1.0.0 (IK bras et jambes en un clic)",
+    "name_en": "NK Auto IK 1.0.0 (one-click arm and leg IK)",
+    "summary": "Publié le 29 oct. sur Blender Extensions : sur une armature humanoïde, il détecte bras et jambes et pose des contrôles IK qui plient genoux et coudes dans le bon sens, fini les genoux à l’envers. GPL-3.0, Blender 4.5 LTS et plus.",
+    "summary_en": "Published Oct 29 on Blender Extensions: on a humanoid armature it detects arms and legs and sets up IK controls that bend knees and elbows the right way, no more reversed knees. GPL-3.0, Blender 4.5 LTS and up.",
+    "url": "https://extensions.blender.org/add-ons/nk-auto-ik/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "ik-fk",
+      "emerging"
+    ],
+    "source": {
+      "label": "Blender Extensions — derniers add-ons mis à jour",
+      "label_en": "Blender Extensions — latest updated add-ons",
+      "url": "https://extensions.blender.org/add-ons/"
+    }
+  },
+  {
+    "date": "2026-11-03",
+    "name": "BBone to Bones 0.1.0 (bendy bones → vraies chaînes d’os)",
+    "name_en": "BBone to Bones 0.1.0 (bendy bones → real bone chains)",
+    "summary": "Première version le 2 nov. : l’add-on convertit tes bendy bones en chaînes d’os classiques avec transfert des poids, bake des actions (Slotted Actions incluses) et presets d’export Unity, Unreal et Godot ; retour aux B-Bones possible. GPL-3.0.",
+    "summary_en": "First release on Nov 2: the add-on converts your bendy bones into standard bone chains with weight transfer, action baking (Slotted Actions included) and Unity, Unreal and Godot export presets; you can revert to B-Bones. GPL-3.0.",
+    "url": "https://github.com/PieroFra/bbone-to-bones/releases/tag/v0.1.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "bendy-bones",
+      "export"
+    ],
+    "source": {
+      "label": "GitHub — topic « rigging » (tri par mise à jour)",
+      "label_en": "GitHub — “rigging” topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-03",
+    "name": "MoCapGate 0.3.3 bêta 9 (mocap vidéo locale)",
+    "name_en": "MoCapGate 0.3.3 beta 9 (local video mocap)",
+    "summary": "Sortie le 3 nov. (Windows) : l’appli transforme une vidéo en squelette animé (GEM-X ou GVHMR), avec nettoyage, contacts de pieds, export BVH/Maya ou FBX/GLB via Blender, et ajoute les sessions multi-caméras calibrées. Code Apache-2.0 ; GVHMR/SMPL-X restrictifs.",
+    "summary_en": "Released Nov 3 (Windows): the app turns a video into an animated skeleton (GEM-X or GVHMR), with cleanup, foot contacts, BVH/Maya or FBX/GLB export via Blender, and adds calibrated multi-camera sessions. Apache-2.0 code; GVHMR/SMPL-X restrictive.",
+    "url": "https://github.com/MaverickGH/mocapgate/releases/tag/v0.3.3-beta.9",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic « motion-capture » (tri par mise à jour)",
+      "label_en": "GitHub — “motion-capture” topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-03",
+    "name": "JustRigIt (auto-rig + mocap vidéo en local)",
+    "name_en": "JustRigIt (auto-rig + local video mocap)",
+    "summary": "Publié le 3 nov. : tu filmes un geste au téléphone, il le capte en local avec GEM-X de NVIDIA (doigts compris), plante les pieds, rigge ton perso si besoin et exporte pour Unreal, Unity, Godot ou Blender. AGPL-3.0 ; capture sous Windows avec GPU RTX 8 Go+.",
+    "summary_en": "Published Nov 3: film a move on your phone, it captures it locally with NVIDIA’s GEM-X (fingers included), plants the feet, rigs your character if needed and exports for Unreal, Unity, Godot or Blender. AGPL-3.0; capture on Windows with an 8 GB+ RTX GPU.",
+    "url": "https://github.com/SuddleMercury/justrigit",
+    "tags": [
+      "open-source",
+      "mocap",
+      "auto-rig",
+      "capture-video",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "X — post de @SuddleMercury (3 nov.)",
+      "label_en": "X — post by @SuddleMercury (Nov 3)",
+      "url": "https://x.com/SuddleMercury/status/2117460100239749470"
+    }
+  },
+  {
+    "date": "2026-11-03",
+    "name": "HairDeck (cheveux stylisés + spring bones depuis une image)",
+    "name_en": "HairDeck (stylized hair + spring bones from one image)",
+    "summary": "Code et poids publiés le 30 oct. : à partir d’une seule image, HairDeck génère des cartes de cheveux stylisées et les chaînes de spring bones qui les animent, skinning compris, export GLB ou VRM. Apache-2.0, Windows depuis le 2 nov. et Mac depuis le 3.",
+    "summary_en": "Code and weights released Oct 30: from a single image, HairDeck generates stylized hair cards and the spring-bone chains that animate them, skinning included, GLB or VRM export. Apache-2.0, Windows since Nov 2 and Mac since Nov 3.",
+    "url": "https://github.com/hyz317/HairDeck",
+    "tags": [
+      "open-source",
+      "ia",
+      "rigging",
+      "spring-bones",
+      "vrm"
+    ],
+    "source": {
+      "label": "X — post de @cutetoxicguy (1er nov.)",
+      "label_en": "X — post by @cutetoxicguy (Nov 1)",
+      "url": "https://x.com/cutetoxicguy/status/2116923225573839167"
+    }
   }
 ]

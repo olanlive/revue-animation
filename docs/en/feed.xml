@@ -5,8 +5,69 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NK Auto IK 1.0.0 (one-click arm and leg IK)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-03-nk-auto-ik-1-0-0-ik-bras-et-jambes-en-un-clic</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-03-nk-auto-ik-1-0-0-ik-bras-et-jambes-en-un-clic</guid>
+      <pubDate>Tue, 03 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Oct 29 on Blender Extensions: on a humanoid armature it detects arms and legs and sets up IK controls that bend knees and elbows the right way, no more reversed knees. GPL-3.0, Blender 4.5 LTS and up.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>ik-fk</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>BBone to Bones 0.1.0 (bendy bones → real bone chains)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-03-bbone-to-bones-0-1-0-bendy-bones-vraies-chaines-dos</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-03-bbone-to-bones-0-1-0-bendy-bones-vraies-chaines-dos</guid>
+      <pubDate>Tue, 03 Nov 2026 09:51:00 +0100</pubDate>
+      <description>First release on Nov 2: the add-on converts your bendy bones into standard bone chains with weight transfer, action baking (Slotted Actions included) and Unity, Unreal and Godot export presets; you can revert to B-Bones. GPL-3.0.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>bendy-bones</category>
+      <category>export</category>
+    </item>
+    <item>
+      <title>MoCapGate 0.3.3 beta 9 (local video mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-03-mocapgate-0-3-3-beta-9-mocap-video-locale</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-03-mocapgate-0-3-3-beta-9-mocap-video-locale</guid>
+      <pubDate>Tue, 03 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 3 (Windows): the app turns a video into an animated skeleton (GEM-X or GVHMR), with cleanup, foot contacts, BVH/Maya or FBX/GLB export via Blender, and adds calibrated multi-camera sessions. Apache-2.0 code; GVHMR/SMPL-X restrictive.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>JustRigIt (auto-rig + local video mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-03-justrigit-auto-rig-mocap-video-en-local</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-03-justrigit-auto-rig-mocap-video-en-local</guid>
+      <pubDate>Tue, 03 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Nov 3: film a move on your phone, it captures it locally with NVIDIA’s GEM-X (fingers included), plants the feet, rigs your character if needed and exports for Unreal, Unity, Godot or Blender. AGPL-3.0; capture on Windows with an 8 GB+ RTX GPU.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>auto-rig</category>
+      <category>capture-video</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>HairDeck (stylized hair + spring bones from one image)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-03-hairdeck-cheveux-stylises-spring-bones-depuis-une-image</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-03-hairdeck-cheveux-stylises-spring-bones-depuis-une-image</guid>
+      <pubDate>Tue, 03 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Code and weights released Oct 30: from a single image, HairDeck generates stylized hair cards and the spring-bone chains that animate them, skinning included, GLB or VRM export. Apache-2.0, Windows since Nov 2 and Mac since Nov 3.</description>
+      <category>open-source</category>
+      <category>ia</category>
+      <category>rigging</category>
+      <category>spring-bones</category>
+      <category>vrm</category>
+    </item>
     <item>
       <title>StableGen 0.4.0 (SkinTokens auto-rig in Blender)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-02-stablegen-0-4-0-auto-rig-skintokens-dans-blender</link>
@@ -1168,58 +1229,6 @@
       <category>blender-addon</category>
       <category>simulation</category>
       <category>open-source</category>
-    </item>
-    <item>
-      <title>Blender Animations Plugin 3.1.1 (Roblox)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-10-blender-animations-plugin-3-1-1-roblox</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-10-blender-animations-plugin-3-1-1-roblox</guid>
-      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Open source Blender add-on (GPL-3.0) for importing and exporting Roblox animations from Blender. 3.1.1 (October 9) fixes easings and a Blender crash. Useful for animating Roblox rigs with Blender’s tools.</description>
-      <category>blender-addon</category>
-      <category>animation</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>RealMotion Pro 2.0.1</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-10-realmotion-pro-2-0-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-10-realmotion-pro-2-0-1</guid>
-      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Paid Blender add-on: a library of ready-to-use animations with retargeting to Auto-Rig Pro, Rigify, Mixamo and Daz. v2 switches to the Extension format; 2.0.1 adds customisable thumbnails and better HumanGen integration. Uninstall versions &lt; 2.0 first.</description>
-      <category>blender-addon</category>
-      <category>retargeting</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>cvELD Edit Paint</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-cveld-edit-paint</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-cveld-edit-paint</guid>
-      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender add-on ($9.99, paid but GPL) for painting the weights of several bones directly in Edit mode: half brush, directional gradients (including Ribbon), per-vertex weight editor, strict normalisation and protected locks. Blender 4.5 to 5.2.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>weight-paint</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>Riginsec</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-riginsec</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-riginsec</guid>
-      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
-      <description>New free Blender add-on (Gumroad, pay what you want) released October 5: it rigs a surface and generates its weights in seconds so you can animate it right away. A very young project, little documented and with no stated licence: test it on a working copy.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>gratuit</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Aseprite 1.3.18.6</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-09-aseprite-1-3-18-6</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-09-aseprite-1-3-18-6</guid>
-      <pubDate>Fri, 09 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Update of the pixel art and sprite animation editor: crash when pasting tilemaps fixed, sprite sheet JSON export fixed, X11 improvements on Linux. Source code available but non-free licence; paid binaries (compiling it yourself is allowed).</description>
-      <category>2d</category>
-      <category>pixel-art</category>
-      <category>payant</category>
     </item>
   </channel>
 </rss>

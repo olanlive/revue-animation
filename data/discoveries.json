@@ -2311,5 +2311,67 @@
       "label_en": "X — post by @cutetoxicguy (Nov 1)",
       "url": "https://x.com/cutetoxicguy/status/2116923225573839167"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "name": "BVH Motion Retargeter 4.0.0 (BVH, VMD → Mixamo, UE5, VRM)",
+    "name_en": "BVH Motion Retargeter 4.0.0 (BVH, VMD → Mixamo, UE5, VRM)",
+    "summary": "Sortie le 4 nov. : cet add-on Blender 4.2+ qui retargete de la mocap BVH vers des rigs Mixamo, UE5 ou VRM sait maintenant importer, retoucher et réexporter du VMD (MMD), lisser les rotations et réparer le root. MIT, interface FR absente mais EN/中文.",
+    "summary_en": "Released Nov 4: this Blender 4.2+ add-on that retargets BVH mocap to Mixamo, UE5 or VRM rigs can now import, edit and re-export VMD (MMD) motion, denoise rotations and repair root motion. MIT, English and Chinese UI.",
+    "url": "https://github.com/BacteriaJun/BVH-Motion-Retargeter/releases/tag/V4.0.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "retargeting",
+      "mocap",
+      "vmd"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-11-04",
+    "name": "Yorishiro 0.1.5 (VTubing Live2D sous Linux)",
+    "name_en": "Yorishiro 0.1.5 (Live2D VTubing on Linux)",
+    "summary": "Appli de VTubing Live2D pour Linux, lancée le 31 oct., avec son propre suivi du visage (52 expressions ARKit) et des mains sur GPU via Vulkan, sortie OBS transparente par PipeWire. La 0.1.5 du 4 nov. s’auto-met à jour. Gratuit, code public mais sans licence.",
+    "summary_en": "A Live2D VTubing app for Linux, launched Oct 31, with its own GPU face (52 ARKit expressions) and hand tracking via Vulkan and a transparent OBS output over PipeWire. 0.1.5 (Nov 4) self-updates. Free, public code but no license.",
+    "url": "https://github.com/koshizuow/yorishiro",
+    "tags": [
+      "gratuit",
+      "2d",
+      "live2d",
+      "mocap",
+      "facial",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-11-04",
+    "name": "Ara 3D Gen (humains riggés et animés, auto-hébergé)",
+    "name_en": "Ara 3D Gen (rigged, animated humans, self-hosted)",
+    "summary": "Générateur de personnages humains sur base MakeHuman (CC0) qui tourne dans ton navigateur ou en CLI : auto-rig aux noms Mixamo, 77 animations dont de la mocap, visèmes de lip-sync, export GLB/FBX. Mode « Quick build » ajouté le 2 nov. MIT, sans compte.",
+    "summary_en": "A human character generator built on MakeHuman (CC0) that runs in your browser or from the CLI: Mixamo-named auto-rig, 77 animations including mocap, lip-sync visemes, GLB/FBX export. Quick build mode added Nov 2. MIT, no account.",
+    "url": "https://github.com/olatunde85/3d-gen",
+    "tags": [
+      "open-source",
+      "rigging",
+      "animation",
+      "lip-sync",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "X — post de @_joctave (2 nov.)",
+      "label_en": "X — post by @_joctave (Nov 2)",
+      "url": "https://x.com/_joctave/status/2117275851154677861"
+    }
   }
 ]

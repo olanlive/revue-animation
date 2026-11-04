@@ -5,8 +5,46 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BVH Motion Retargeter 4.0.0 (BVH, VMD → Mixamo, UE5, VRM)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-04-bvh-motion-retargeter-4-0-0-bvh-vmd-mixamo-ue5-vrm</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-04-bvh-motion-retargeter-4-0-0-bvh-vmd-mixamo-ue5-vrm</guid>
+      <pubDate>Wed, 04 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sortie le 4 nov. : cet add-on Blender 4.2+ qui retargete de la mocap BVH vers des rigs Mixamo, UE5 ou VRM sait maintenant importer, retoucher et réexporter du VMD (MMD), lisser les rotations et réparer le root. MIT, interface FR absente mais EN/中文.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>mocap</category>
+      <category>vmd</category>
+    </item>
+    <item>
+      <title>Yorishiro 0.1.5 (VTubing Live2D sous Linux)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-04-yorishiro-0-1-5-vtubing-live2d-sous-linux</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-04-yorishiro-0-1-5-vtubing-live2d-sous-linux</guid>
+      <pubDate>Wed, 04 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Appli de VTubing Live2D pour Linux, lancée le 31 oct., avec son propre suivi du visage (52 expressions ARKit) et des mains sur GPU via Vulkan, sortie OBS transparente par PipeWire. La 0.1.5 du 4 nov. s’auto-met à jour. Gratuit, code public mais sans licence.</description>
+      <category>gratuit</category>
+      <category>2d</category>
+      <category>live2d</category>
+      <category>mocap</category>
+      <category>facial</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Ara 3D Gen (humains riggés et animés, auto-hébergé)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-04-ara-3d-gen-humains-rigges-et-animes-auto-heberge</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-04-ara-3d-gen-humains-rigges-et-animes-auto-heberge</guid>
+      <pubDate>Wed, 04 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Générateur de personnages humains sur base MakeHuman (CC0) qui tourne dans ton navigateur ou en CLI : auto-rig aux noms Mixamo, 77 animations dont de la mocap, visèmes de lip-sync, export GLB/FBX. Mode « Quick build » ajouté le 2 nov. MIT, sans compte.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>lip-sync</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>NK Auto IK 1.0.0 (IK bras et jambes en un clic)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-03-nk-auto-ik-1-0-0-ik-bras-et-jambes-en-un-clic</link>
@@ -1196,38 +1234,6 @@
       <category>blender-addon</category>
       <category>vrm</category>
       <category>spring-bones</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>CV Auto Track 1.0.4</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-12-cv-auto-track-1-0-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-cv-auto-track-1-0-4</guid>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender libre (GPL-3.0) : auto-tracking OpenCV dans le Movie Clip Editor, presets Fast/Dynamic/High Motion, track + solve + raffinage en un clic, filtrage des pistes instables et prise en compte des masques. La 1.0.4 (12 oct) corrige le suivi des masques parentés.</description>
-      <category>blender-addon</category>
-      <category>tracking</category>
-      <category>capture-video</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>B-Bone Gizmos 1.0.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-12-b-bone-gizmos-1-0-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-b-bone-gizmos-1-0-0</guid>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Nouvelle extension Blender gratuite (GPL-3.0) de Tal Hershko, extraite d’AnimToolbox : un outil de la barre d’outils en mode Pose qui façonne les bendy bones avec des gizmos type poignées de Bézier (position, rotation, échelle). Blender 4.2 LTS et plus.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>bendy-bones</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>Zeeks Hair 1.0.1</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-10-zeeks-hair-1-0-1</guid>
-      <pubDate>Sat, 10 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender gratuit (GPL-3.0) qui simplifie la mise en place et le réglage de la dynamique soft body pour cheveux en cartes, strands ou meshes. La 1.0.1 (6 octobre) corrige des erreurs et des bugs de bake. Blender 4.2 LTS et plus.</description>
-      <category>blender-addon</category>
-      <category>simulation</category>
       <category>open-source</category>
     </item>
   </channel>

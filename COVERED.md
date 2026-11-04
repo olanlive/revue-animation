@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-04 | BVH Motion Retargeter 4.0.0 (BVH, VMD → Mixamo, UE5, VRM) | open-source, blender-addon, retargeting, mocap, vmd | https://github.com/BacteriaJun/BVH-Motion-Retargeter/releases/tag/V4.0.0 | https://olanlive.github.io/revue-animation/#2026-11-04-bvh-motion-retargeter-4-0-0-bvh-vmd-mixamo-ue5-vrm |
+| 2026-11-04 | Yorishiro 0.1.5 (VTubing Live2D sous Linux) | gratuit, 2d, live2d, mocap, facial, emerging | https://github.com/koshizuow/yorishiro | https://olanlive.github.io/revue-animation/#2026-11-04-yorishiro-0-1-5-vtubing-live2d-sous-linux |
+| 2026-11-04 | Ara 3D Gen (humains riggés et animés, auto-hébergé) | open-source, rigging, animation, lip-sync, web, emerging | https://github.com/olatunde85/3d-gen | https://olanlive.github.io/revue-animation/#2026-11-04-ara-3d-gen-humains-rigges-et-animes-auto-heberge |
 | 2026-11-03 | NK Auto IK 1.0.0 (IK bras et jambes en un clic) | open-source, blender-addon, rigging, ik-fk, emerging | https://extensions.blender.org/add-ons/nk-auto-ik/ | https://olanlive.github.io/revue-animation/#2026-11-03-nk-auto-ik-1-0-0-ik-bras-et-jambes-en-un-clic |
 | 2026-11-03 | BBone to Bones 0.1.0 (bendy bones → vraies chaînes d’os) | open-source, blender-addon, rigging, bendy-bones, export | https://github.com/PieroFra/bbone-to-bones/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-03-bbone-to-bones-0-1-0-bendy-bones-vraies-chaines-dos |
 | 2026-11-03 | MoCapGate 0.3.3 bêta 9 (mocap vidéo locale) | open-source, mocap, capture-video, local, emerging | https://github.com/MaverickGH/mocapgate/releases/tag/v0.3.3-beta.9 | https://olanlive.github.io/revue-animation/#2026-11-03-mocapgate-0-3-3-beta-9-mocap-video-locale |

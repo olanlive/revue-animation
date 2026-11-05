@@ -5,8 +5,82 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rig Bridge 0.4.1 (control rigs modulaires Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-rig-bridge-0-4-1-control-rigs-modulaires-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-rig-bridge-0-4-1-control-rigs-modulaires-blender</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 4 nov. (GPL-3.0, Blender 4.2+) : add-on façon Modular Control Rig d’Unreal — détecte Mixamo, UE5, Daz, CC/AccuRIG et 16 autres standards, pose des modules sur les sockets et compile un control rig sans toucher aux os d’origine.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>control-rig</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Bulletproof Retarget 1.3.2</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-bulletproof-retarget-1-3-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-bulletproof-retarget-1-3-2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 4 nov. (Blender 5.0+, zip gratuit) : retarget one-click entre P2M, Mixamo, Rigify, UE5, OptiTrack, ARP, Daz, VRM, CC et plus — détection auto jusqu’à 58 joints, root motion Full/In Place, bake FK/IK. Attention : aucune licence publiée sur le dépôt.</description>
+      <category>gratuit</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>mocap</category>
+      <category>licence-absente</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Video-to-3D-Mocap Studio (mocap multi-personnes locale)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-video-to-3d-mocap-studio-mocap-multi-personnes-locale</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-video-to-3d-mocap-studio-mocap-multi-personnes-locale</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 4 nov. (MIT) : studio local vidéo → mocap 3D multi-personnes (YOLO11-pose), complète les jambes hors cadre, exporte FBX/BVH/blend avec mannequins blancs Mixamo et un script de retarget Blender. Web UI locale, CPU/CUDA/Apple Silicon.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>multi-person</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>CTRL_DEF 0.3.0 (Auto Rig Layers DEF/MCH/ORG/CTRL)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-ctrl-def-0-3-0-auto-rig-layers-def-mch-org-ctrl</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-ctrl-def-0-3-0-auto-rig-layers-def-mch-org-ctrl</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Déjà vu le 25 oct. en 0.1.2 ; le 2 nov. passe en 0.3.0 (GPL-3.0, Blender 4.2+) : vraie pipeline Auto Rig Layers DEF/MCH/ORG/CTRL avec presets type Rigify, génération chaînée sans cycles, cibles IK +Y monde et poles optionnels.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>ik-fk</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>rigfx 0.3.0 (retarget d’anim pixel-art 2D)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-rigfx-0-3-0-retarget-danim-pixel-art-2d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-rigfx-0-3-0-retarget-danim-pixel-art-2d</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 5 nov. (MIT) : retargete une bibliothèque d’anim pixel-art 2D sur des corps aux proportions différentes (pas de GPU) — 12 moves × 17 personnages, export spritesheets Aseprite JSON. Démo live sur le site.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>retargeting</category>
+      <category>pixel-art</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Weight Paint Box — Auto Weights (màJ 2 nov.)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-05-weight-paint-box-auto-weights-maj-2-nov</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-05-weight-paint-box-auto-weights-maj-2-nov</guid>
+      <pubDate>Thu, 05 Nov 2026 09:51:00 +0100</pubDate>
+      <description>MàJ du 2 nov. (payant ~30 $, GPL, Blender 5.0–5.2) : l’add-on de weight paint par boîtes/cylindres ajoute Auto Weights (vêtements, doigts, cheveux), Ebb &amp; Flow pour remodeler un groupe sans repeindre, et le mode Draw Bone/Rigify.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>weight-paint</category>
+      <category>skinning</category>
+      <category>rigging</category>
+    </item>
     <item>
       <title>BVH Motion Retargeter 4.0.0 (BVH, VMD → Mixamo, UE5, VRM)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-04-bvh-motion-retargeter-4-0-0-bvh-vmd-mixamo-ue5-vrm</link>
@@ -1165,76 +1239,6 @@
       <category>capture-video</category>
       <category>open-source</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>MeshRig 0.2.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-meshrig-0-2-0</guid>
-      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Nouvelle appli autonome gratuite (GPL-3.0, Windows/macOS/Linux) qui rigge un mesh de .blend : squelette humanoïde, quadrupède ou chaîne calé dans le volume, poids calculés à travers le volume, brosse de poids, IK auto et test de pose. Pilote Blender (testé 5.2) en tâche de fond.</description>
-      <category>rigging</category>
-      <category>skinning</category>
-      <category>blender</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Ayatsuri2D 0.5.3</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-13-ayatsuri2d-0-5-3</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-ayatsuri2d-0-5-3</guid>
-      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Alternative ouverte à Live2D Cubism (GPL-3.0, Rust) pour la marionnette 2D temps réel : import et export moc3 v3 à v6 (compatible VTube Studio), format ouvert .aom, runtime embarquable via une API C. Très jeune : préversions, éditeur encore en chantier.</description>
-      <category>2d</category>
-      <category>puppet</category>
-      <category>rigging</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Iki (moteur de marionnette 2D web)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-13-iki-moteur-de-marionnette-2d-web</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-13-iki-moteur-de-marionnette-2d-web</guid>
-      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Moteur de marionnette 2D pour le web sous MIT, alternative à Live2D et Inochi2D : format JSON ouvert .iki, warp mesh, masques, physique des cheveux, éditeur et auto-rig depuis des calques PNG/PSD, plus un serveur MCP pour faire générer les pièces par une IA. Démo en ligne.</description>
-      <category>2d</category>
-      <category>puppet</category>
-      <category>rigging</category>
-      <category>web</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Auto Face Mocap Pro</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-auto-face-mocap-pro</guid>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Nouvel add-on Blender payant (dès 99 $ perso, 129 $ commercial, sous GPL) sorti le 11 octobre : il applique une capture faciale tirée d’une simple vidéo webcam ou téléphone sur un personnage doté des shape keys ARKit. Blender 5.2. Offre de lancement −30 %.</description>
-      <category>blender-addon</category>
-      <category>mocap</category>
-      <category>facial</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>Rig-GNS Pro 4.6.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-rig-gns-pro-4-6-0</guid>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender payant (dès 80 $) de rigging Rigify et retargeting (Mixamo, Rokoko, ActorCore…) pour figures Daz Genesis et humanoïdes perso. La 4.6.0 du 11 oct ajoute des repères de landmarks déplaçables avec symétrie et un aperçu éditable des articulations avant génération.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>retargeting</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>VRM Add-on for Blender 4.10.2</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-12-vrm-add-on-for-blender-4-10-2</guid>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Import/export et édition d’avatars VRM dans Blender (GPL-3.0 / MIT). La 4.10.0 du 10 oct ajoute un support expérimental des limites de spring bones ; les 4.10.1 et 4.10.2 corrigent des expressions/blend shapes détachées à l’import VRM0/VRM1. Blender 4.2 à 5.2.</description>
-      <category>blender-addon</category>
-      <category>vrm</category>
-      <category>spring-bones</category>
-      <category>open-source</category>
     </item>
   </channel>
 </rss>

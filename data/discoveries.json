@@ -2373,5 +2373,127 @@
       "label_en": "X — post by @_joctave (Nov 2)",
       "url": "https://x.com/_joctave/status/2117275851154677861"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Rig Bridge 0.4.1 (control rigs modulaires Blender)",
+    "name_en": "Rig Bridge 0.4.1 (modular Blender control rigs)",
+    "summary": "Sorti le 4 nov. (GPL-3.0, Blender 4.2+) : add-on façon Modular Control Rig d’Unreal — détecte Mixamo, UE5, Daz, CC/AccuRIG et 16 autres standards, pose des modules sur les sockets et compile un control rig sans toucher aux os d’origine.",
+    "summary_en": "Released Nov 4 (GPL-3.0, Blender 4.2+): Unreal-style Modular Control Rig add-on — detects Mixamo, UE5, Daz, CC/AccuRIG and 16 other standards, drops modules on sockets and compiles a control rig without changing the original bones.",
+    "url": "https://github.com/MondRubberduck/Rig-Bridge/releases/tag/v0.4.1",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "control-rig",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Bulletproof Retarget 1.3.2",
+    "name_en": "Bulletproof Retarget 1.3.2",
+    "summary": "Sorti le 4 nov. (Blender 5.0+, zip gratuit) : retarget one-click entre P2M, Mixamo, Rigify, UE5, OptiTrack, ARP, Daz, VRM, CC et plus — détection auto jusqu’à 58 joints, root motion Full/In Place, bake FK/IK. Attention : aucune licence publiée sur le dépôt.",
+    "summary_en": "Released Nov 4 (Blender 5.0+, free zip): one-click retarget across P2M, Mixamo, Rigify, UE5, OptiTrack, ARP, Daz, VRM, CC and more — auto-detects up to 58 joints, Full/In Place root motion, FK/IK bake. Warning: no license file on the repo.",
+    "url": "https://github.com/MondRubberduck/Bulletproof-Retarget/releases/tag/v1.3.2",
+    "tags": [
+      "gratuit",
+      "blender-addon",
+      "retargeting",
+      "mocap",
+      "licence-absente",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — README Rig Bridge (lien compagnon)",
+      "label_en": "GitHub — Rig Bridge README (companion link)",
+      "url": "https://github.com/MondRubberduck/Rig-Bridge"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Video-to-3D-Mocap Studio (mocap multi-personnes locale)",
+    "name_en": "Video-to-3D-Mocap Studio (local multi-person mocap)",
+    "summary": "Publié le 4 nov. (MIT) : studio local vidéo → mocap 3D multi-personnes (YOLO11-pose), complète les jambes hors cadre, exporte FBX/BVH/blend avec mannequins blancs Mixamo et un script de retarget Blender. Web UI locale, CPU/CUDA/Apple Silicon.",
+    "summary_en": "Published Nov 4 (MIT): local multi-person video→3D mocap studio (YOLO11-pose), fills in out-of-frame legs, exports FBX/BVH/blend with Mixamo white mannequins plus a Blender retarget script. Local web UI, CPU/CUDA/Apple Silicon.",
+    "url": "https://github.com/cg960/video-to-3d-mocap",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "multi-person",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "CTRL_DEF 0.3.0 (Auto Rig Layers DEF/MCH/ORG/CTRL)",
+    "name_en": "CTRL_DEF 0.3.0 (Auto Rig Layers DEF/MCH/ORG/CTRL)",
+    "summary": "Déjà vu le 25 oct. en 0.1.2 ; le 2 nov. passe en 0.3.0 (GPL-3.0, Blender 4.2+) : vraie pipeline Auto Rig Layers DEF/MCH/ORG/CTRL avec presets type Rigify, génération chaînée sans cycles, cibles IK +Y monde et poles optionnels.",
+    "summary_en": "First covered Oct 25 as 0.1.2; Nov 2 ships 0.3.0 (GPL-3.0, Blender 4.2+): a real Auto Rig Layers DEF/MCH/ORG/CTRL pipeline with Rigify-style presets, cycle-safe chained generation, world +Y IK targets and optional poles.",
+    "url": "https://github.com/PieroFra/def-controller-auto/releases/tag/v0.3.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "ik-fk",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "rigfx 0.3.0 (retarget d’anim pixel-art 2D)",
+    "name_en": "rigfx 0.3.0 (2D pixel-art animation retarget)",
+    "summary": "Sorti le 5 nov. (MIT) : retargete une bibliothèque d’anim pixel-art 2D sur des corps aux proportions différentes (pas de GPU) — 12 moves × 17 personnages, export spritesheets Aseprite JSON. Démo live sur le site.",
+    "summary_en": "Released Nov 5 (MIT): retargets a 2D pixel-art animation library onto bodies of any proportions (no GPU) — 12 moves × 17 characters, Aseprite JSON sprite-sheet export. Live demo on the site.",
+    "url": "https://github.com/balmacefa/rigfx/releases/tag/v0.3.0",
+    "tags": [
+      "open-source",
+      "2d",
+      "retargeting",
+      "pixel-art",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Weight Paint Box — Auto Weights (màJ 2 nov.)",
+    "name_en": "Weight Paint Box — Auto Weights (Nov 2 update)",
+    "summary": "MàJ du 2 nov. (payant ~30 $, GPL, Blender 5.0–5.2) : l’add-on de weight paint par boîtes/cylindres ajoute Auto Weights (vêtements, doigts, cheveux), Ebb & Flow pour remodeler un groupe sans repeindre, et le mode Draw Bone/Rigify.",
+    "summary_en": "Nov 2 update (paid ~$30, GPL, Blender 5.0–5.2): the box/cylinder weight-paint add-on adds Auto Weights (clothes, fingers, hair), Ebb & Flow to reshape a group without repainting, plus Draw Bone/Rigify mode.",
+    "url": "https://superhivemarket.com/products/weight-paint-box",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "weight-paint",
+      "skinning",
+      "rigging"
+    ],
+    "source": {
+      "label": "Signets X — post @HamdiAmer16",
+      "label_en": "X bookmarks — @HamdiAmer16 post",
+      "url": "https://x.com/HamdiAmer16/status/2117632255933759515"
+    }
   }
 ]

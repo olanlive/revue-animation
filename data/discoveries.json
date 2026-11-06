@@ -2495,5 +2495,85 @@
       "label_en": "X bookmarks — @HamdiAmer16 post",
       "url": "https://x.com/HamdiAmer16/status/2117632255933759515"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Editable Motion Paths 2.0.0 (arcs éditables dans la vue 3D)",
+    "name_en": "Editable Motion Paths 2.0.0 (editable arcs in the 3D View)",
+    "summary": "Sorti le 5 nov. (GPL-3.0, Blender 4.4+) : les motion paths deviennent un maillage éditable — clés, poignées Bézier, sculpt, timing chart, dissolve pour nettoyer la mocap. Location/rotation/échelle/value, plusieurs os, espace Global/Local/Caméra ; tout part en F-Curves ordinaires.",
+    "summary_en": "Released Nov 5 (GPL-3.0, Blender 4.4+): motion paths become an editable mesh — keys, Bézier handles, sculpt, timing chart, dissolve for mocap cleanup. Location/rotation/scale/value, several bones, Global/Local/Camera space; every edit lands as ordinary F-Curves.",
+    "url": "https://github.com/J4m1ns/Editable-Motion-Paths/releases/tag/v2.0.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "motion-paths",
+      "mocap",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "name": "UniView 2.1.0 (visualiseur d’assets et de rigs)",
+    "name_en": "UniView 2.1.0 (asset & rig visualizer)",
+    "summary": "Sorti aujourd’hui (MIT, Python/PyQt6/ModernGL) : visualiseur léger pour inspecter un asset et son squelette — gimbal FK interactif, overlay wireframe, bbox live, orientation façon Blender. Utile pour revue de rigs hors DCC.",
+    "summary_en": "Released today (MIT, Python/PyQt6/ModernGL): a lightweight viewer to inspect an asset and its skeleton — interactive FK gimbal, wireframe overlay, live bbox, Blender-style orientation. Handy for rig review outside a DCC.",
+    "url": "https://github.com/Plesnamdwa/UniView/releases/tag/v2.1.0",
+    "tags": [
+      "open-source",
+      "rigging",
+      "viewer",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "name": "face-builder (photos → avatar GLB riggé, sans IA générative)",
+    "name_en": "face-builder (photos → rigged GLB avatar, no generative AI)",
+    "summary": "Mis à jour le 5 nov. (Apache-2.0) : pipeline 100 % local (Blender + MPFB) qui construit un corps MakeHuman, projette ta photo, habille en CC0 et retargete walk/idle/type/sit vers un .glb animé. Pas de gen AI ; likeness ~6/10 selon l’auteur.",
+    "summary_en": "Updated Nov 5 (Apache-2.0): 100% local pipeline (Blender + MPFB) that builds a MakeHuman body, projects your photo, dresses from CC0 and retargets walk/idle/type/sit into an animated .glb. No generative AI; author quotes ~6/10 likeness.",
+    "url": "https://github.com/iGitScor/face-builder",
+    "tags": [
+      "open-source",
+      "rigging",
+      "animation",
+      "retargeting",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Hand & Body Rigs 1.1.0 (mains et Sentinel GLB prêts à poser)",
+    "name_en": "Hand & Body Rigs 1.1.0 (pose-ready hand and Sentinel GLBs)",
+    "summary": "Publié le 5 nov. : pack de rigs GLB réutilisables (mains G/D + Armored Sentinel V2) avec mappings JSON et previews motion. MIT sur le Sentinel ; le package hands/ garde sa propre licence — à vérifier avant usage commercial.",
+    "summary_en": "Published Nov 5: reusable GLB rig pack (L/R hands + Armored Sentinel V2) with JSON joint mappings and motion previews. MIT on the Sentinel; the hands/ package keeps its own license — check before commercial use.",
+    "url": "https://github.com/heyfoz/hand-and-body-rigs/releases/tag/v1.1.0",
+    "tags": [
+      "open-source",
+      "rigging",
+      "glb",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging (tri par mise à jour)",
+      "label_en": "GitHub — rigging topic (sorted by recent update)",
+      "url": "https://github.com/topics/rigging"
+    }
   }
 ]

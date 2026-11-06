@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Editable Motion Paths 2.0.0 (editable arcs in the 3D View)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-06-editable-motion-paths-2-0-0-arcs-editables-dans-la-vue-3d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-06-editable-motion-paths-2-0-0-arcs-editables-dans-la-vue-3d</guid>
+      <pubDate>Fri, 06 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 5 (GPL-3.0, Blender 4.4+): motion paths become an editable mesh — keys, Bézier handles, sculpt, timing chart, dissolve for mocap cleanup. Location/rotation/scale/value, several bones, Global/Local/Camera space; every edit lands as ordinary F-Curves.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>motion-paths</category>
+      <category>mocap</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>UniView 2.1.0 (asset &amp; rig visualizer)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-06-uniview-2-1-0-visualiseur-dassets-et-de-rigs</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-06-uniview-2-1-0-visualiseur-dassets-et-de-rigs</guid>
+      <pubDate>Fri, 06 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released today (MIT, Python/PyQt6/ModernGL): a lightweight viewer to inspect an asset and its skeleton — interactive FK gimbal, wireframe overlay, live bbox, Blender-style orientation. Handy for rig review outside a DCC.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>viewer</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>face-builder (photos → rigged GLB avatar, no generative AI)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-06-face-builder-photos-avatar-glb-rigge-sans-ia-generative</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-06-face-builder-photos-avatar-glb-rigge-sans-ia-generative</guid>
+      <pubDate>Fri, 06 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Updated Nov 5 (Apache-2.0): 100% local pipeline (Blender + MPFB) that builds a MakeHuman body, projects your photo, dresses from CC0 and retargets walk/idle/type/sit into an animated .glb. No generative AI; author quotes ~6/10 likeness.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>animation</category>
+      <category>retargeting</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Hand &amp; Body Rigs 1.1.0 (pose-ready hand and Sentinel GLBs)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-06-hand-body-rigs-1-1-0-mains-et-sentinel-glb-prets-a-poser</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-06-hand-body-rigs-1-1-0-mains-et-sentinel-glb-prets-a-poser</guid>
+      <pubDate>Fri, 06 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Nov 5: reusable GLB rig pack (L/R hands + Armored Sentinel V2) with JSON joint mappings and motion previews. MIT on the Sentinel; the hands/ package keeps its own license — check before commercial use.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>glb</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Rig Bridge 0.4.1 (modular Blender control rigs)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-05-rig-bridge-0-4-1-control-rigs-modulaires-blender</link>
@@ -1195,50 +1243,6 @@
       <category>rigging</category>
       <category>animation</category>
       <category>open-source</category>
-    </item>
-    <item>
-      <title>Instant Rigger and Animator</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-14-instant-rigger-and-animator</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-14-instant-rigger-and-animator</guid>
-      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Paid Blender add-on ($39, GPL) released Oct 1: guided humanoid auto-rig (clothing, separate parts, robots), a library of 2,300+ clips, IK corrections and FBX/GLB export without leaving Blender. Blender 3.3–5.2.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>animation</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>Grease Pencil Auto Interpolate</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-14-grease-pencil-auto-interpolate</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-14-grease-pencil-auto-interpolate</guid>
-      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Paid Blender add-on ($15, MIT licence) updated Oct 2: automatically interpolates Grease Pencil in-betweens via Geometry Nodes, in real time and non-destructively, plus line-art import and a Link Strokes mode. Blender 4.3–5.2.</description>
-      <category>blender-addon</category>
-      <category>grease-pencil</category>
-      <category>2d</category>
-      <category>payant</category>
-    </item>
-    <item>
-      <title>SAM3DBody-cpp</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-sam3dbody-cpp</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-sam3dbody-cpp</guid>
-      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Python-free C++ engine for SAM 3D Body: real-time 3D mocap from a single camera, multi-person, per-actor BVH export ready for Blender (script provided). MIT code; weights from Meta’s SAM 3D Body model, check its licence before commercial use.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>PhoneRig for Blender 1.1.0</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-13-phonerig-for-blender-1-1-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-13-phonerig-for-blender-1-1-0</guid>
-      <pubDate>Tue, 13 Oct 2026 09:51:00 +0200</pubDate>
-      <description>New (Oct 11), free and GPL-3.0: an Android phone becomes a 6DoF virtual camera for Blender via ARCore, with video feedback, take recording as keyframes, baking to clean F-curves and presets (shoulder, dolly, crane). Local Wi-Fi, Blender 4.2+.</description>
-      <category>blender-addon</category>
-      <category>camera</category>
-      <category>capture-video</category>
-      <category>open-source</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

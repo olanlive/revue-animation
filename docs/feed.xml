@@ -5,8 +5,70 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BlenderBiped 0.8.9 (Rigify façon Biped 3ds Max)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-07-blenderbiped-0-8-9-rigify-facon-biped-3ds-max</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-07-blenderbiped-0-8-9-rigify-facon-biped-3ds-max</guid>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 5 nov. (GPL-2.0+, Blender 5.2+ Rigify) : feature set Biped pour animer comme dans 3ds Max — FK en tournant le bras/cuisse, IK en bougeant la main/pied, sync auto, clés Planted/Sliding, import FBX Mixamo/Biped/Humanoid.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>ik-fk</category>
+      <category>rigify</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Moveset 1.3.8 (bibliothèque d’anims pour tout rig humain)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-07-moveset-1-3-8-bibliotheque-danims-pour-tout-rig-humain</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-07-moveset-1-3-8-bibliotheque-danims-pour-tout-rig-humain</guid>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 +0100</pubDate>
+      <description>MàJ du 6 nov. (GPL, Blender 4.2–5.2) : 893 clips retargetables sur Rigify/Mixamo/UE/VRoid — kits Miner/épée-bouclier, 13 « manners », freemium (55 clips gratuits sur itch, pack complet ~30 $).</description>
+      <category>freemium</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>retargeting</category>
+      <category>game</category>
+    </item>
+    <item>
+      <title>OpenAnimEasy 0.2.0 (alternative libre à AnimEasy)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-07-openanimeasy-0-2-0-alternative-libre-a-animeasy</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-07-openanimeasy-0-2-0-alternative-libre-a-animeasy</guid>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 6 nov. (GPL-3.0, Blender 4.4+/5.2) : alternative libre à AnimEasy — 36+ opérateurs timing/courbes/spacing/posing, biblio de poses JSON, et en 0.2.0 des motion paths éditables dans la vue 3D.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>motion-paths</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Kimodo Motion Importer 1.0.0 (NPZ Kimodo → ton rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-07-kimodo-motion-importer-1-0-0-npz-kimodo-ton-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-07-kimodo-motion-importer-1-0-0-npz-kimodo-ton-rig</guid>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 4 nov. (Apache-2.0) : importe les motions Kimodo (.npz, SOMA/SMPL-X/G1) et les retarget sur ton rig Mixamo, Rigify, UE, VRM… mapping auto, root motion scalé, action Blender prête à éditer.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>mocap</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Rigby2D 0.5.0 (Defold, sprite sheets, mesh auto)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-07-rigby2d-0-5-0-defold-sprite-sheets-mesh-auto</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-07-rigby2d-0-5-0-defold-sprite-sheets-mesh-auto</guid>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Déjà vu le 15 oct. ; le 6 nov. passe en 0.5.0 (MIT) : runtime Defold natif C++ (frame-perfect), export sprite sheet/atlas, mesh généré d’un clic depuis l’alpha, Godot hors preview, installers Win/Mac/Linux.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>skeletal</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Editable Motion Paths 2.0.0 (arcs éditables dans la vue 3D)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-06-editable-motion-paths-2-0-0-arcs-editables-dans-la-vue-3d</link>
@@ -1187,62 +1249,6 @@
       <category>skeletal</category>
       <category>open-source</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>Character DNA Addon 0.14.4 (MetaHuman → Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-character-dna-addon-0-14-4-metahuman-blender</guid>
-      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender GPL-3.0 (base gratuite, version Pro payante) qui importe les fichiers DNA MetaHuman avec face board et correctifs via OpenRigLogic, puis les renvoie vers Unreal. La 0.14.x (9–14 oct) passe RigLogic en Z-up et corrige yeux/bouche. Blender 4.5/5.2.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>facial</category>
-      <category>metahuman</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>Kinesia</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-15-kinesia</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-kinesia</guid>
-      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Mocap 3D multi-personnes depuis une seule vidéo (code CC0) : SAM 3.1 + SAM 3D Body + DINOv3, suivi et ré-identification, pieds ancrés au sol, viewer web. Lourd (Linux, GPU NVIDIA ~32 Go), modèles Meta sous licence SAM restrictive, export CSV/JSON (pas de BVH/FBX annoncé).</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Driver Espresso Lite 1.6.6</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-15-driver-espresso-lite-1-6-6</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-driver-espresso-lite-1-6-6</guid>
-      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender gratuit (GPL-3.0) : 18 « recettes » de drivers prêtes à l’emploi (oscillation, clignotement, rotation en boucle, fondus, ease/spring, néons RGB) avec aperçu de courbe live et décalage sur plusieurs objets ou os. Drivers natifs : l’anim survit à la désinstallation.</description>
-      <category>blender-addon</category>
-      <category>animation</category>
-      <category>drivers</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>KeyCraft MIDI 1.4.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-15-keycraft-midi-1-4-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-keycraft-midi-1-4-0</guid>
-      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender gratuit (GPL-3.0) qui génère un clavier piano/synthé et l’anime depuis un contrôleur MIDI, enregistré en keyframes éditables. La 1.4.0 (14 oct) gère claviers existants, multi-canaux, orgue et lecture de MIDI/MusicXML/PDF. MIDI live sous Windows uniquement.</description>
-      <category>blender-addon</category>
-      <category>animation</category>
-      <category>midi</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>mGear 5.4.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-14-mgear-5-4-0</guid>
-      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Framework de rig Maya gratuit (MIT) : la 5.4 du 14 oct ajoute Facial Rigger 3.0 (yeux/lèvres/sourcils unifiés), Anim Picker 2.0 (SVG, widgets), Blocking Ghosts (pelure d’oignon 3D), Spring Manager 2.0 et builds Shifter ~2× plus rapides. Maya 2022–2027.</description>
-      <category>maya</category>
-      <category>rigging</category>
-      <category>animation</category>
-      <category>open-source</category>
     </item>
   </channel>
 </rss>

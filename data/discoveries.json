@@ -2677,5 +2677,130 @@
       "label_en": "GitHub — Rigby2D release v0.5.0 (Nov 6, 2026)",
       "url": "https://github.com/jaisurya-dev-art/rigby2d/releases/tag/v0.5.0"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Webcam Avatar Studio 1.2.0 (mocap webcam jusqu’aux doigts, export BVH)",
+    "name_en": "Webcam Avatar Studio 1.2.0 (webcam mocap down to the fingers, BVH export)",
+    "summary": "Sortie le 7 nov. : une simple webcam capte visage, corps, mains et chaque doigt, pilote VSeeFace/Warudo via VMC et exporte du BVH pour Blender. La 1.2.0 affiche ton VRM dans OBS sans appli VTuber. Code MIT, mais modèles non commerciaux.",
+    "summary_en": "Released Nov 7: a plain webcam captures face, body, hands and every finger, drives VSeeFace/Warudo over VMC and exports BVH for Blender. 1.2.0 shows your VRM in OBS without a VTuber app. MIT code, but non-commercial models.",
+    "url": "https://github.com/JackLongman12/vtuber-tracker-with-fingers/releases/tag/v1.2.0",
+    "tags": [
+      "non-commercial",
+      "mocap",
+      "webcam",
+      "vrm",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » (repos créés depuis le 5 nov.)",
+      "label_en": "GitHub — search “mocap” (repos created since Nov 5)",
+      "url": "https://github.com/search?q=mocap+created%3A%3E%3D2026-11-05&type=repositories"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "reanimate-motion (vidéo → BVH sur n’importe quel perso)",
+    "name_en": "reanimate-motion (video → BVH on any character)",
+    "summary": "Publié le 7 nov. (MIT) : ce kit en ligne de commande suit le corps image par image dans une vidéo, nettoie, résout et sort un BVH aux noms Mixamo, puis anime ton rig Blender ou un perso three.js. Tout tourne en local, avec des contrôles qui prouvent chaque règle.",
+    "summary_en": "Published Nov 7 (MIT): this command-line kit tracks the body frame by frame in a video, cleans and solves it into a BVH with Mixamo bone names, then keys your Blender rig or a three.js character. Runs locally, with checks proving each rule.",
+    "url": "https://github.com/starrandy123/reanimate-motion",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "retargeting",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by recent update)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "RuiC-2D (une illustration → avatar 2D riggé et lip-syncé)",
+    "name_en": "RuiC-2D (one illustration → rigged, lip-synced 2D avatar)",
+    "summary": "Publié le 6 nov. (MIT) : à partir d’une seule illustration de face, cet éditeur local découpe les parties, pose un maillage déformable, cale la bouche sur ta voix, anime clignements et queue sur une timeline et se pilote à la webcam (MediaPipe) jusque dans OBS.",
+    "summary_en": "Published Nov 6 (MIT): from a single front-facing illustration, this local editor splits the parts, adds a deformable mesh, syncs the mouth to your voice, animates blinks and tail on a timeline and runs from your webcam (MediaPipe) into OBS.",
+    "url": "https://github.com/HRuiCcc/RuiC-2D",
+    "tags": [
+      "open-source",
+      "2d",
+      "rigging",
+      "lip-sync",
+      "puppet",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « live2d » (repos créés depuis le 5 nov.)",
+      "label_en": "GitHub — search “live2d” (repos created since Nov 5)",
+      "url": "https://github.com/search?q=live2d+created%3A%3E%3D2026-11-05&type=repositories"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "LivLiv Player 0.3.0 (perso 2.5D pour le web avec lip-sync)",
+    "name_en": "LivLiv Player 0.3.0 (2.5D web character with lip sync)",
+    "summary": "Libéré le 5 nov. (Apache-2.0), sur npm depuis la 0.3.0 du 6 nov. : un lecteur WebGL2 d’environ 30 Ko qui fait parler un perso 2.5D (lip-sync micro, audio ou vidéo), suit ton visage à la webcam et lit aussi VRM et PNGTuber. 21 persos fournis, sous leurs propres licences.",
+    "summary_en": "Open-sourced Nov 5 (Apache-2.0), on npm since 0.3.0 on Nov 6: a ~30 KB WebGL2 player that makes a 2.5D character talk (lip sync from mic, audio or video), follows your face via webcam and also plays VRM and PNGTuber. 21 characters, own licences.",
+    "url": "https://github.com/livliv-dev/player/releases/tag/v0.3.0",
+    "tags": [
+      "open-source",
+      "2d",
+      "lip-sync",
+      "web",
+      "vrm",
+      "facial"
+    ],
+    "source": {
+      "label": "X — annonce @yeko_L (5 nov. 2026)",
+      "label_en": "X — @yeko_L announcement (Nov 5, 2026)",
+      "url": "https://x.com/yeko_L/status/2118290984924856713"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Annex Labeler 1.0 (labellisation de marqueurs mocap C3D sur Mac)",
+    "name_en": "Annex Labeler 1.0 (C3D mocap marker labeling on Mac)",
+    "summary": "Sorti le 6 nov. sur le Mac App Store : ouvre les C3D de n’importe quel système mocap, labellise les marqueurs au clic, comble les trous par spline et réexporte en C3D, gratuitement. L’abonnement Pro ajoute auto-label par modèle (.vsk lus) et comblement par corps rigide.",
+    "summary_en": "Released Nov 6 on the Mac App Store: opens C3D files from any mocap system, labels markers by click, fills gaps with splines and re-exports C3D, for free. The Pro subscription adds model-based auto-labeling (reads .vsk) and rigid-body gap filling.",
+    "url": "https://apps.apple.com/us/app/annex-labeler/id6828659098",
+    "tags": [
+      "freemium",
+      "mocap",
+      "c3d",
+      "cleanup",
+      "macos"
+    ],
+    "source": {
+      "label": "X — @KeitaroSeki (7 nov. 2026)",
+      "label_en": "X — @KeitaroSeki (Nov 7, 2026)",
+      "url": "https://x.com/KeitaroSeki/status/2118896912149680183"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Tr_overlap (overlap et follow-through cuits en clés, Blender et Maya)",
+    "name_en": "Tr_overlap (overlap and follow-through baked to keys, Blender and Maya)",
+    "summary": "Repéré le 7 nov. : sélectionne tes contrôleurs ou tes os, clique, et Tr_overlap cuit en clés l’overlap, le ressort ou le flottement de tissu des cheveux et vêtements, avec colliders, vent et mode boucle, sans toucher ton action. Version gratuite, Pro à 11,99 $.",
+    "summary_en": "Spotted Nov 7: select your controls or bones, click, and Tr_overlap bakes overlap, spring or cloth-like motion for hair and clothes into keys, with colliders, wind and loop mode, leaving your action intact. Free edition, Pro at $11.99.",
+    "url": "https://vietanh778.gumroad.com/l/tr-overlap-blender-free",
+    "tags": [
+      "freemium",
+      "blender-addon",
+      "maya",
+      "animation",
+      "secondary-motion"
+    ],
+    "source": {
+      "label": "ModelingTechNote — Tr_overlap (7 nov. 2026)",
+      "label_en": "ModelingTechNote — Tr_overlap (Nov 7, 2026)",
+      "url": "https://modelingtechnote.com/2026/11/07/tr-overlap-maya-blender/"
+    }
   }
 ]

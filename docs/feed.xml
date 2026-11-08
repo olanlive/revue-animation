@@ -5,8 +5,85 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Webcam Avatar Studio 1.2.0 (mocap webcam jusqu’aux doigts, export BVH)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-webcam-avatar-studio-1-2-0-mocap-webcam-jusquaux-doigts-export-bvh</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-webcam-avatar-studio-1-2-0-mocap-webcam-jusquaux-doigts-export-bvh</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sortie le 7 nov. : une simple webcam capte visage, corps, mains et chaque doigt, pilote VSeeFace/Warudo via VMC et exporte du BVH pour Blender. La 1.2.0 affiche ton VRM dans OBS sans appli VTuber. Code MIT, mais modèles non commerciaux.</description>
+      <category>non-commercial</category>
+      <category>mocap</category>
+      <category>webcam</category>
+      <category>vrm</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>reanimate-motion (vidéo → BVH sur n’importe quel perso)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-reanimate-motion-video-bvh-sur-nimporte-quel-perso</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-reanimate-motion-video-bvh-sur-nimporte-quel-perso</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 7 nov. (MIT) : ce kit en ligne de commande suit le corps image par image dans une vidéo, nettoie, résout et sort un BVH aux noms Mixamo, puis anime ton rig Blender ou un perso three.js. Tout tourne en local, avec des contrôles qui prouvent chaque règle.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>retargeting</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>RuiC-2D (une illustration → avatar 2D riggé et lip-syncé)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-ruic-2d-une-illustration-avatar-2d-rigge-et-lip-synce</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-ruic-2d-une-illustration-avatar-2d-rigge-et-lip-synce</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 6 nov. (MIT) : à partir d’une seule illustration de face, cet éditeur local découpe les parties, pose un maillage déformable, cale la bouche sur ta voix, anime clignements et queue sur une timeline et se pilote à la webcam (MediaPipe) jusque dans OBS.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>rigging</category>
+      <category>lip-sync</category>
+      <category>puppet</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>LivLiv Player 0.3.0 (perso 2.5D pour le web avec lip-sync)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-livliv-player-0-3-0-perso-2-5d-pour-le-web-avec-lip-sync</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-livliv-player-0-3-0-perso-2-5d-pour-le-web-avec-lip-sync</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Libéré le 5 nov. (Apache-2.0), sur npm depuis la 0.3.0 du 6 nov. : un lecteur WebGL2 d’environ 30 Ko qui fait parler un perso 2.5D (lip-sync micro, audio ou vidéo), suit ton visage à la webcam et lit aussi VRM et PNGTuber. 21 persos fournis, sous leurs propres licences.</description>
+      <category>open-source</category>
+      <category>2d</category>
+      <category>lip-sync</category>
+      <category>web</category>
+      <category>vrm</category>
+      <category>facial</category>
+    </item>
+    <item>
+      <title>Annex Labeler 1.0 (labellisation de marqueurs mocap C3D sur Mac)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-annex-labeler-1-0-labellisation-de-marqueurs-mocap-c3d-sur-mac</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-annex-labeler-1-0-labellisation-de-marqueurs-mocap-c3d-sur-mac</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 6 nov. sur le Mac App Store : ouvre les C3D de n’importe quel système mocap, labellise les marqueurs au clic, comble les trous par spline et réexporte en C3D, gratuitement. L’abonnement Pro ajoute auto-label par modèle (.vsk lus) et comblement par corps rigide.</description>
+      <category>freemium</category>
+      <category>mocap</category>
+      <category>c3d</category>
+      <category>cleanup</category>
+      <category>macos</category>
+    </item>
+    <item>
+      <title>Tr_overlap (overlap et follow-through cuits en clés, Blender et Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-08-tr-overlap-overlap-et-follow-through-cuits-en-cles-blender-et-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-08-tr-overlap-overlap-et-follow-through-cuits-en-cles-blender-et-maya</guid>
+      <pubDate>Sun, 08 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Repéré le 7 nov. : sélectionne tes contrôleurs ou tes os, clique, et Tr_overlap cuit en clés l’overlap, le ressort ou le flottement de tissu des cheveux et vêtements, avec colliders, vent et mode boucle, sans toucher ton action. Version gratuite, Pro à 11,99 $.</description>
+      <category>freemium</category>
+      <category>blender-addon</category>
+      <category>maya</category>
+      <category>animation</category>
+      <category>secondary-motion</category>
+    </item>
     <item>
       <title>BlenderBiped 0.8.9 (Rigify façon Biped 3ds Max)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-07-blenderbiped-0-8-9-rigify-facon-biped-3ds-max</link>
@@ -1176,77 +1253,6 @@
       <category>grease-pencil</category>
       <category>2d</category>
       <category>svg</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Moho 14.5 SHOWTIME</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-moho-14-5-showtime</guid>
-      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Logiciel d’anim 2D payant : la 14.5 (12 oct, gratuite pour les possesseurs de Moho 14) ajoute un mode Live Playback qui pilote tes persos à la webcam (visage) ou à la manette via Smart Bones/Actions, enregistrable en keyframes. Plus Paint Bucket refait et onion skins magnétiques.</description>
-      <category>payant</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>live</category>
-    </item>
-    <item>
-      <title>ParaRig 1.2.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-pararig-1-2-0</guid>
-      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender gratuit (GPL-3.0) qui génère un panneau de sliders à glisser dans le viewport et câble tout seul les drivers vers shape keys, os ou propriétés, sans écrire d’expression. La 1.2.0 (14 oct) pilote X/Y/Z d’un même os depuis un seul slider.</description>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>drivers</category>
-      <category>open-source</category>
-    </item>
-    <item>
-      <title>rig-c (rigging 2D compilé, sortie Spine)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-rig-c-rigging-2d-compile-sortie-spine</guid>
-      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Compilateur de rigs 2D (MIT) pensé pour les agents IA : PNG de parties + spec JSON → squelette Spine 4.3 (éditeur payant), vérifié par assertions avant écriture. Le module pose (v0.22.1, 16 oct) transfère une pose issue d’une vidéo sur le rig. Prototype en v0.x.</description>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>ia</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>aimocap 0.5.0 (vidéo → mocap MetaHuman, UE 5.8)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-aimocap-0-5-0-video-mocap-metahuman-ue-5-8</guid>
-      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Plugin UE 5.8 + CLI (MIT, 15 oct) : vidéo → mocap à deux via GVHMR (licence non commerciale), nettoyage du glissement des pieds, retarget MetaHuman, séquence et rapport QC auto. Génération vidéo Seedance payante en crédits ; testé seulement Win 11/RTX 3090, doc en chinois.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>unreal</category>
-      <category>metahuman</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>@three-ws/retarget</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-16-three-ws-retarget</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-16-three-ws-retarget</guid>
-      <pubDate>Fri, 16 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Lib Three.js (Apache-2.0, publiée le 10 oct) qui renomme les os de n’importe quel humanoïde GLB (Mixamo, VRM, Daz, UE, HumanIK, Blender .L/.R…) vers un squelette canonique et y retargete tes clips avec correction de rest pose, plus un runtime de fondus.</description>
-      <category>retargeting</category>
-      <category>web</category>
-      <category>three-js</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Rigby2D</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-15-rigby2d</guid>
-      <pubDate>Thu, 15 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Éditeur d’animation squelettale 2D gratuit (MIT), né le 13 oct : import PSD/PNG, os dessinés dans le viewport, dopesheet + graph editor, IK, export JSON/.skel + atlas compatible des formats runtime courants. Appli Tauri Win/Mac/Linux, à compiler (pas encore de binaire).</description>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>skeletal</category>
       <category>open-source</category>
       <category>emerging</category>
     </item>

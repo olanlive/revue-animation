@@ -2726,7 +2726,7 @@
     "name_en": "RuiC-2D (one illustration → rigged, lip-synced 2D avatar)",
     "summary": "Publié le 6 nov. (MIT) : à partir d’une seule illustration de face, cet éditeur local découpe les parties, pose un maillage déformable, cale la bouche sur ta voix, anime clignements et queue sur une timeline et se pilote à la webcam (MediaPipe) jusque dans OBS.",
     "summary_en": "Published Nov 6 (MIT): from a single front-facing illustration, this local editor splits the parts, adds a deformable mesh, syncs the mouth to your voice, animates blinks and tail on a timeline and runs from your webcam (MediaPipe) into OBS.",
-    "url": "https://github.com/HRuiCcc/RuiC-2D",
+    "url": "https://hruiccc.github.io/RuiC-2D/demo/",
     "tags": [
       "open-source",
       "2d",

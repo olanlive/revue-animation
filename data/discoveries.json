@@ -2802,5 +2802,86 @@
       "label_en": "ModelingTechNote — Tr_overlap (Nov 7, 2026)",
       "url": "https://modelingtechnote.com/2026/11/07/tr-overlap-maya-blender/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "name": "BVH Motion Retargeter 5.0.0 (nettoyage de mocap : contacts et bras)",
+    "name_en": "BVH Motion Retargeter 5.0.0 (mocap cleanup: contacts and arms)",
+    "summary": "Sortie le 9 nov., déjà vue le 4 nov. en 4.0 : la V5 devient un atelier de nettoyage de mocap dans Blender. Tu marques talons, orteils ou mains en contact, l’addon corrige racine et chaînes dans le temps et répare les rotations de bras ratées (jusqu’à 3 s). MIT.",
+    "summary_en": "Released Nov 9, already seen Nov 4 as 4.0: V5 turns into a mocap cleanup bench inside Blender. Mark heel, toe or palm contacts, the add-on corrects root and chains over time and repairs broken arm spins (up to 3 s). MIT.",
+    "url": "https://github.com/BacteriaJun/BVH-Motion-Retargeter/releases/tag/V5.0.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "retargeting",
+      "cleanup",
+      "vmd"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture, recherche gh triée par mise à jour (release V5.0.0 du 9 nov.)",
+      "label_en": "GitHub — motion-capture topic, gh search sorted by update (V5.0.0 release, Nov 9)",
+      "url": "https://github.com/topics/motion-capture"
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "name": "RigSwitch (changement de tenue ou d’accessoire en un clic sur n’importe quel rig)",
+    "name_en": "RigSwitch (one-click outfit or prop switch on any rig)",
+    "summary": "Publié le 8 nov. : RigSwitch crée en un clic un slider qui permute tenues et accessoires sur ton rig, avec des drivers natifs, donc le rig marche chez n’importe qui sans l’addon. Blender 4.2 à 5.2. Version Lite gratuite, complète à 12 $ sur BlendKit.",
+    "summary_en": "Published Nov 8: RigSwitch builds, in one click, a slider that swaps outfits and props on your rig using native drivers, so the rig works for anyone without the add-on. Blender 4.2 to 5.2. Free Lite edition, full version $12 on BlendKit.",
+    "url": "https://www.blendkit.com/asset-gallery-detail/05fdf5f2-7796-4edb-8b43-6f90cb412625/",
+    "tags": [
+      "freemium",
+      "blender-addon",
+      "rigging",
+      "drivers",
+      "emerging"
+    ],
+    "source": {
+      "label": "Fil X — @nikitstores (post du 8 nov., repéré via la recherche X « rigging / mocap »)",
+      "label_en": "X feed — @nikitstores (Nov 8 post, found via X search “rigging / mocap”)",
+      "url": "https://x.com/nikitstores/status/2119339096619491731"
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Loop Noise 1.0.0 (bruit de F-curve qui boucle sans saut)",
+    "name_en": "Loop Noise 1.0.0 (F-curve noise that loops seamlessly)",
+    "summary": "Publié le 1er nov. : le même bruit que le modificateur Noise de Blender, mais cyclique sur la plage de frames choisie, sans saut de position ni de vitesse au raccord. Idéal pour idles, respiration et camera shake en boucle. GPL-3.0.",
+    "summary_en": "Published Nov 1: the same noise as Blender’s Noise modifier, but cyclic over a frame range you pick, with no jump in position or speed at the seam. Ideal for looping idles, breathing and camera shake. GPL-3.0.",
+    "url": "https://extensions.blender.org/add-ons/loop-noise/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "f-curves",
+      "emerging"
+    ],
+    "source": {
+      "label": "Blender Extensions — derniers add-ons approuvés",
+      "label_en": "Blender Extensions — latest approved add-ons",
+      "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Faster Scrubbing 1.6.2 (scrub fluide sur les grosses mocap)",
+    "name_en": "Faster Scrubbing 1.6.2 (smooth scrubbing on heavy mocap)",
+    "summary": "Mis à jour le 5 nov. : cache automatiquement les clés dans le Dope Sheet et le Graph Editor pendant la lecture ou le scrub, pour que la timeline ne rame plus sur des mocap de milliers de frames. La 1.6.2 détecte le scrub via les handlers de frame. GPL-3.0.",
+    "summary_en": "Updated Nov 5: automatically hides keyframes in the Dope Sheet and Graph Editor during playback or scrubbing, so the timeline stops lagging on mocap files with thousands of frames. 1.6.2 detects scrubbing through frame handlers. GPL-3.0.",
+    "url": "https://extensions.blender.org/add-ons/faster-scrubbing/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "performance",
+      "emerging"
+    ],
+    "source": {
+      "label": "Blender Extensions — derniers add-ons approuvés",
+      "label_en": "Blender Extensions — latest approved add-ons",
+      "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
+    }
   }
 ]

@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BVH Motion Retargeter 5.0.0 (nettoyage de mocap : contacts et bras)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-09-bvh-motion-retargeter-5-0-0-nettoyage-de-mocap-contacts-et-bras</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-09-bvh-motion-retargeter-5-0-0-nettoyage-de-mocap-contacts-et-bras</guid>
+      <pubDate>Mon, 09 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sortie le 9 nov., déjà vue le 4 nov. en 4.0 : la V5 devient un atelier de nettoyage de mocap dans Blender. Tu marques talons, orteils ou mains en contact, l’addon corrige racine et chaînes dans le temps et répare les rotations de bras ratées (jusqu’à 3 s). MIT.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>retargeting</category>
+      <category>cleanup</category>
+      <category>vmd</category>
+    </item>
+    <item>
+      <title>RigSwitch (changement de tenue ou d’accessoire en un clic sur n’importe quel rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-09-rigswitch-changement-de-tenue-ou-daccessoire-en-un-clic-sur-nimporte-quel-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-09-rigswitch-changement-de-tenue-ou-daccessoire-en-un-clic-sur-nimporte-quel-rig</guid>
+      <pubDate>Mon, 09 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 8 nov. : RigSwitch crée en un clic un slider qui permute tenues et accessoires sur ton rig, avec des drivers natifs, donc le rig marche chez n’importe qui sans l’addon. Blender 4.2 à 5.2. Version Lite gratuite, complète à 12 $ sur BlendKit.</description>
+      <category>freemium</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>drivers</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Loop Noise 1.0.0 (bruit de F-curve qui boucle sans saut)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-09-loop-noise-1-0-0-bruit-de-f-curve-qui-boucle-sans-saut</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-09-loop-noise-1-0-0-bruit-de-f-curve-qui-boucle-sans-saut</guid>
+      <pubDate>Mon, 09 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 1er nov. : le même bruit que le modificateur Noise de Blender, mais cyclique sur la plage de frames choisie, sans saut de position ni de vitesse au raccord. Idéal pour idles, respiration et camera shake en boucle. GPL-3.0.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>f-curves</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Faster Scrubbing 1.6.2 (scrub fluide sur les grosses mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-09-faster-scrubbing-1-6-2-scrub-fluide-sur-les-grosses-mocap</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-09-faster-scrubbing-1-6-2-scrub-fluide-sur-les-grosses-mocap</guid>
+      <pubDate>Mon, 09 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Mis à jour le 5 nov. : cache automatiquement les clés dans le Dope Sheet et le Graph Editor pendant la lecture ou le scrub, pour que la timeline ne rame plus sur des mocap de milliers de frames. La 1.6.2 détecte le scrub via les handlers de frame. GPL-3.0.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>performance</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Webcam Avatar Studio 1.2.0 (mocap webcam jusqu’aux doigts, export BVH)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-08-webcam-avatar-studio-1-2-0-mocap-webcam-jusquaux-doigts-export-bvh</link>
@@ -1201,58 +1250,6 @@
       <category>blender-addon</category>
       <category>retargeting</category>
       <category>ia</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>ComfyUI-GEM-X (mocap vidéo NVIDIA GEM-X → FBX)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-comfyui-gem-x-mocap-video-nvidia-gem-x-fbx</guid>
-      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Nœuds ComfyUI (Apache-2.0, 15 oct) : mocap corps entier (77 joints, mains et visage) depuis une seule vidéo avec NVIDIA GEM-X, puis retarget sur des FBX Mixamo, Unreal ou Unity avec aperçu 3D intégré. Poids sous NVIDIA Open Model License, ~10 Go de modèles, GPU NVIDIA requis.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>comfyui</category>
-      <category>ia</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>anny-maya 1.2.1 (humain paramétrique Anny dans Maya)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-anny-maya-1-2-1-humain-parametrique-anny-dans-maya</guid>
-      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Module Maya 2022–2027 (Apache-2.0, v1.2.1 du 16 oct) qui amène le modèle humain Anny de NAVER (données CC0) : sliders d’âge et de morpho, 52 formes ARKit, tête Google GNM en option, puis bake en rig Maya classique (joints, skinCluster, blendShapes) prêt pour l’anim et le FBX.</description>
-      <category>maya</category>
-      <category>rigging</category>
-      <category>facial</category>
-      <category>arkit</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>RigFlow (transfert d’animation pour Maya)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-17-rigflow-transfert-danimation-pour-maya</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-rigflow-transfert-danimation-pour-maya</guid>
-      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Outil Maya (MIT, en ligne le 16 oct) qui transfère l’anim du corps entre persos aux proportions et nommages différents : appariement auto des joints avec score de confiance, retouche manuelle, aperçu HumanIK avant bake, visage intact. Alpha, Maya 2023–2024, sans release.</description>
-      <category>maya</category>
-      <category>retargeting</category>
-      <category>animation</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>ToothPaste for Blender 1.1.6 (SVG → Grease Pencil)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-toothpaste-for-blender-1-1-6-svg-grease-pencil</guid>
-      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Extension Blender 5.0+ (mise en ligne le 15 oct) qui colle ou importe le SVG d’Illustrator, Figma, Affinity ou Inkscape en Grease Pencil v3 : matériaux éditables, masques multi-niveaux, découpe en calques, dégradés partiels. Licence CC-BY-4.0, inhabituelle pour du code.</description>
-      <category>blender-addon</category>
-      <category>grease-pencil</category>
-      <category>2d</category>
-      <category>svg</category>
       <category>open-source</category>
       <category>emerging</category>
     </item>

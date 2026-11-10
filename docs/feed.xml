@@ -5,8 +5,46 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Face Shape Key Rig 1.0.234 (contrôleurs de shape keys, mocap iPhone et lip-sync)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-10-face-shape-key-rig-1-0-234-controleurs-de-shape-keys-mocap-iphone-et-lip-sync</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-10-face-shape-key-rig-1-0-234-controleurs-de-shape-keys-mocap-iphone-et-lip-sync</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on visage : sliders et pads 2D dans la vue 3D pour piloter tes shape keys (simples os + drivers), capture faciale iFacialMocap, lip-sync auto depuis une voix, et un mode visage en sprites 2D sur perso 3D. 1.0.234 publiée le 3 nov. sur Extensions. GPL-3.0.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>facial</category>
+      <category>shape-keys</category>
+      <category>lip-sync</category>
+      <category>mocap</category>
+    </item>
+    <item>
+      <title>OZO Tools 0.10.6 (Tweak/FK, bras IK/FK et sockets MCH en quelques clics)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-10-ozo-tools-0-10-6-tweak-fk-bras-ik-fk-et-sockets-mch-en-quelques-clics</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-10-ozo-tools-0-10-6-tweak-fk-bras-ik-fk-et-sockets-mch-en-quelques-clics</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Première version publique (9 nov.) d’une boîte à outils de rig Blender : contrôleurs Tweak/FK depuis une chaîne d’os, bras avec switch IK/FK et pole, sockets MCH, rotation follow, Copy Transforms par préfixe et scale d’anim. Blender 5.2+, GPL-3.0, doc surtout en chinois.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>ik-fk</category>
+      <category>control-rig</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>zh-lipsync 0.1.0 (lip-sync phonétique pour le mandarin)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-10-zh-lipsync-0-1-0-lip-sync-phonetique-pour-le-mandarin</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-10-zh-lipsync-0-1-0-lip-sync-phonetique-pour-le-mandarin</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 10 nov. : transforme une voix en mandarin (avec sous-titres si tu en as) en timeline JSON de formes de bouche a/i/u/e/o/n calées sur chaque syllabe, pas sur le volume. Local via faster-whisper, export au format Rhubarb. MIT, pensé pour avatars 2D.</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>visemes</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>BVH Motion Retargeter 5.0.0 (nettoyage de mocap : contacts et bras)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-09-bvh-motion-retargeter-5-0-0-nettoyage-de-mocap-contacts-et-bras</link>
@@ -1211,45 +1249,6 @@
       <category>mocap</category>
       <category>capture-video</category>
       <category>facial</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>PaperDoll 1.0.0 (marionnettes Inochi2D en C#)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-18-paperdoll-1-0-0-marionnettes-inochi2d-en-c</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-18-paperdoll-1-0-0-marionnettes-inochi2d-en-c</guid>
-      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Runtime .NET (BSD-2) sorti en 1.0.0 le 17 oct qui charge, anime et affiche les marionnettes 2D Inochi2D (.inp, .inx) dans FNA ou MonoGame : paramètres, déformation de mesh, masques, physique, plusieurs pantins à l’écran. Port C# réécrit d’Inochi2D et nijilive.</description>
-      <category>2d</category>
-      <category>puppet</category>
-      <category>rigging</category>
-      <category>runtime</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Stop Motion Pancake (studio de stop-motion)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-18-stop-motion-pancake-studio-de-stop-motion</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-18-stop-motion-pancake-studio-de-stop-motion</guid>
-      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Studio de stop-motion de bureau (MIT, macOS, Windows, Linux) mis en ligne le 15 oct : capture webcam ou iPhone, pelure d’oignon, rotoscopie vectorielle, expositions sur 1, 2 ou 3 images, scrub audio image par image pour le lip-sync et feuille d’expo.</description>
-      <category>2d</category>
-      <category>stop-motion</category>
-      <category>lip-sync</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>CAST (mocap vidéo pour n’importe quel squelette)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-17-cast-mocap-video-pour-nimporte-quel-squelette</guid>
-      <pubDate>Sat, 17 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Code MIT + add-on Blender CAST Live publiés le 16 oct : capture le mouvement d’une vidéo RGB et le transfère en temps réel sur des squelettes de topologie différente (crabe, quadrupède…). Poids MIT ; backbone DINOv3 (licence Meta) et SAM2 à fournir à part, GPU CUDA requis.</description>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>blender-addon</category>
-      <category>retargeting</category>
-      <category>ia</category>
       <category>open-source</category>
       <category>emerging</category>
     </item>

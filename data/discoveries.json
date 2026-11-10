@@ -2883,5 +2883,67 @@
       "label_en": "Blender Extensions — latest approved add-ons",
       "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Face Shape Key Rig 1.0.234 (contrôleurs de shape keys, mocap iPhone et lip-sync)",
+    "name_en": "Face Shape Key Rig 1.0.234 (shape key controllers, iPhone mocap and lip-sync)",
+    "summary": "Add-on visage : sliders et pads 2D dans la vue 3D pour piloter tes shape keys (simples os + drivers), capture faciale iFacialMocap, lip-sync auto depuis une voix, et un mode visage en sprites 2D sur perso 3D. 1.0.234 publiée le 3 nov. sur Extensions. GPL-3.0.",
+    "summary_en": "Face add-on: in-viewport sliders and 2D pads to drive your shape keys (plain bones + drivers), iFacialMocap face capture, automatic lip-sync from a voice track, and a 2D sprite-face mode on 3D characters. 1.0.234 published Nov 3 on Extensions. GPL-3.0.",
+    "url": "https://extensions.blender.org/add-ons/face-shapekey-rig/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "facial",
+      "shape-keys",
+      "lip-sync",
+      "mocap"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour (dépôt Fragid/face-shapekey-rig)",
+      "label_en": "GitHub — “blender rig” search sorted by update (Fragid/face-shapekey-rig repo)",
+      "url": "https://github.com/Fragid/face-shapekey-rig"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "name": "OZO Tools 0.10.6 (Tweak/FK, bras IK/FK et sockets MCH en quelques clics)",
+    "name_en": "OZO Tools 0.10.6 (Tweak/FK, IK/FK arms and MCH sockets in a few clicks)",
+    "summary": "Première version publique (9 nov.) d’une boîte à outils de rig Blender : contrôleurs Tweak/FK depuis une chaîne d’os, bras avec switch IK/FK et pole, sockets MCH, rotation follow, Copy Transforms par préfixe et scale d’anim. Blender 5.2+, GPL-3.0, doc surtout en chinois.",
+    "summary_en": "First public release (Nov 9) of a Blender rigging toolkit: Tweak/FK controls from a bone chain, arms with IK/FK switch and pole, MCH sockets, rotation follow, prefix-based Copy Transforms and animation scaling. Blender 5.2+, GPL-3.0, docs mostly in Chinese.",
+    "url": "https://github.com/ozoshanniao/ozo-tools/releases/tag/v0.10.6",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "ik-fk",
+      "control-rig",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "name": "zh-lipsync 0.1.0 (lip-sync phonétique pour le mandarin)",
+    "name_en": "zh-lipsync 0.1.0 (phonetic lip-sync for Mandarin)",
+    "summary": "Sorti le 10 nov. : transforme une voix en mandarin (avec sous-titres si tu en as) en timeline JSON de formes de bouche a/i/u/e/o/n calées sur chaque syllabe, pas sur le volume. Local via faster-whisper, export au format Rhubarb. MIT, pensé pour avatars 2D.",
+    "summary_en": "Released Nov 10: turns a Mandarin voice track (plus subtitles if you have them) into a JSON timeline of a/i/u/e/o/n mouth shapes matched to each syllable, not to volume. Runs locally via faster-whisper, exports Rhubarb format. MIT, built for 2D avatars.",
+    "url": "https://github.com/Gigi0116/zh-lipsync",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "visemes",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic lip-sync (tri par mise à jour)",
+      "label_en": "GitHub — lip-sync topic (sorted by update)",
+      "url": "https://github.com/topics/lip-sync"
+    }
   }
 ]

@@ -2945,5 +2945,67 @@
       "label_en": "GitHub — lip-sync topic (sorted by update)",
       "url": "https://github.com/topics/lip-sync"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Audio to Viseme Sync 0.2.0 (lip-sync Blender via MFA ou Rhubarb)",
+    "name_en": "Audio to Viseme Sync 0.2.0 (Blender lip-sync via MFA or Rhubarb)",
+    "summary": "Publié le 11 nov. sous MIT : un add-on Blender 5.0 qui passe ton dialogue enregistré dans Montreal Forced Aligner ou Rhubarb, en local, et pose des clés éditables sur les visèmes de ton armature (contrôles DAZ ou tes propres propriétés viseme_*).",
+    "summary_en": "Released Nov 11 under MIT: a Blender 5.0 add-on that runs your recorded dialogue through Montreal Forced Aligner or Rhubarb locally and keys editable visemes on your armature (DAZ controls or your own viseme_* properties).",
+    "url": "https://github.com/ghoziaw/audio_viseme_sync",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "lip-sync",
+      "visemes",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-11",
+    "name": "RGB MoCap Bone Stream (mocap vidéo en direct dans Blender)",
+    "name_en": "RGB MoCap Bone Stream (live video mocap into Blender)",
+    "summary": "Déjà vu le 28 oct., RGB MoCap (MIT) gagne le 10 nov. un add-on Blender 4.5+ qui reçoit en local les os captés, root motion compris, pendant que tu lis ou scrubbes la vidéo, puis cuit tout le mouvement en Action Blender.",
+    "summary_en": "Already featured Oct 28, RGB MoCap (MIT) gained on Nov 10 a Blender 4.5+ add-on that receives the captured bones locally, root motion included, while you play or scrub the video, then bakes the full motion into a Blender Action.",
+    "url": "https://github.com/toyxyz/toyxyz_RGBMocap/blob/main/docs/USER_GUIDE.md",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "blender-addon",
+      "local"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retargeting » triée par mise à jour",
+      "label_en": "GitHub — “retargeting” search sorted by update",
+      "url": "https://github.com/search?q=retargeting&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-11",
+    "name": "SourceStage 0.4 (import SFM, Rigify et Face Poser)",
+    "name_en": "SourceStage 0.4 (SFM import, Rigify and Face Poser)",
+    "summary": "Pré-version 0.4 du 10 nov., GPL-3.0 : un add-on Blender 5.2 qui importe les persos Source Engine via SourceIO, garde le squelette SFM ou génère un rig Rigify, et prépare les shape keys faciales avec des contrôles gauche/droite séparés.",
+    "summary_en": "Pre-release 0.4 from Nov 10, GPL-3.0: a Blender 5.2 add-on that imports Source Engine characters via SourceIO, keeps the SFM skeleton or generates a Rigify rig, and prepares facial shape keys with separate left/right controls.",
+    "url": "https://github.com/SerWikiKing/SourceStage-SFM-Model-Importer-Face-Poser",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "facial",
+      "shape-keys",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
   }
 ]

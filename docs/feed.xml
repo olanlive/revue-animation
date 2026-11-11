@@ -5,8 +5,46 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Audio to Viseme Sync 0.2.0 (lip-sync Blender via MFA ou Rhubarb)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-11-audio-to-viseme-sync-0-2-0-lip-sync-blender-via-mfa-ou-rhubarb</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-11-audio-to-viseme-sync-0-2-0-lip-sync-blender-via-mfa-ou-rhubarb</guid>
+      <pubDate>Wed, 11 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 11 nov. sous MIT : un add-on Blender 5.0 qui passe ton dialogue enregistré dans Montreal Forced Aligner ou Rhubarb, en local, et pose des clés éditables sur les visèmes de ton armature (contrôles DAZ ou tes propres propriétés viseme_*).</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>lip-sync</category>
+      <category>visemes</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>RGB MoCap Bone Stream (mocap vidéo en direct dans Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-11-rgb-mocap-bone-stream-mocap-video-en-direct-dans-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-11-rgb-mocap-bone-stream-mocap-video-en-direct-dans-blender</guid>
+      <pubDate>Wed, 11 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Déjà vu le 28 oct., RGB MoCap (MIT) gagne le 10 nov. un add-on Blender 4.5+ qui reçoit en local les os captés, root motion compris, pendant que tu lis ou scrubbes la vidéo, puis cuit tout le mouvement en Action Blender.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>blender-addon</category>
+      <category>local</category>
+    </item>
+    <item>
+      <title>SourceStage 0.4 (import SFM, Rigify et Face Poser)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-11-sourcestage-0-4-import-sfm-rigify-et-face-poser</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-11-sourcestage-0-4-import-sfm-rigify-et-face-poser</guid>
+      <pubDate>Wed, 11 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Pré-version 0.4 du 10 nov., GPL-3.0 : un add-on Blender 5.2 qui importe les persos Source Engine via SourceIO, garde le squelette SFM ou génère un rig Rigify, et prépare les shape keys faciales avec des contrôles gauche/droite séparés.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>shape-keys</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Face Shape Key Rig 1.0.234 (contrôleurs de shape keys, mocap iPhone et lip-sync)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-10-face-shape-key-rig-1-0-234-controleurs-de-shape-keys-mocap-iphone-et-lip-sync</link>
@@ -1210,46 +1248,6 @@
       <category>facial</category>
       <category>unity</category>
       <category>vrchat</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>CEB SAM 3D Body Loader (mocap IA dans Blender, devenu gratuit)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-18-ceb-sam-3d-body-loader-mocap-ia-dans-blender-devenu-gratuit</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-18-ceb-sam-3d-body-loader-mocap-ia-dans-blender-devenu-gratuit</guid>
-      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Depuis le 17 oct, l’add-on de Carlos Barreto est gratuit : mocap vidéo (GEM-X, SAM 3D Body) dans Blender 4.0 à 5.2, retarget vers Auto-Rig Pro, anti-glissement des pieds, marche sur courbe. Windows seulement ; certains modèles sous-jacents sont limités au non-commercial.</description>
-      <category>gratuit</category>
-      <category>blender-addon</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>ia</category>
-    </item>
-    <item>
-      <title>Viewport Avatar Toolset 0.4.1 (animation Bento pour Second Life)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-18-viewport-avatar-toolset-0-4-1-animation-bento-pour-second-life</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-18-viewport-avatar-toolset-0-4-1-animation-bento-pour-second-life</guid>
-      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Éditeur d’animation libre (LGPL-2.1, Linux et Windows) pour l’avatar Bento de Second Life : timeline, IK, graph editor, import BVH, glTF, FBX ou mocap réseau, export .anim et BVH. La 0.4 du 17 oct redimensionne tout le squelette en adaptant les clés.</description>
-      <category>animation</category>
-      <category>rigging</category>
-      <category>mocap</category>
-      <category>second-life</category>
-      <category>open-source</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>video2live2d (vidéo → motion Live2D)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-18-video2live2d-video-motion-live2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-18-video2live2d-video-motion-live2d</guid>
-      <pubDate>Sun, 18 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Outil en ligne de commande (MIT, Linux et macOS) publié le 17 oct qui transforme une vidéo de visage et d’épaules en motion3.json Live2D Cubism pour modèles VBridger : tête, yeux, sourcils, bouche, respiration, calibration auto. Sans iPhone ni suivi live.</description>
-      <category>2d</category>
-      <category>live2d</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>facial</category>
-      <category>open-source</category>
       <category>emerging</category>
     </item>
   </channel>

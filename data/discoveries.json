@@ -3007,5 +3007,85 @@
       "label_en": "GitHub — “blender rig” search sorted by update",
       "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "name": "Toyxyz Blender Retargeter 0.4.30",
+    "name_en": "Toyxyz Blender Retargeter 0.4.30",
+    "summary": "Sorti le 12 nov. sous GPL-3.0 : un add-on Blender 5.0+ qui retargete en direct une anim humanoïde entre rigs aux proportions différentes, avec trajet du root adapté, allonge des membres réglable et contact des pieds, puis cuit le tout en Action.",
+    "summary_en": "Released Nov 12 under GPL-3.0: a Blender 5.0+ add-on that live-retargets humanoid motion between rigs with different proportions, with adapted root travel, adjustable limb reach and foot contact, then bakes it all to an Action.",
+    "url": "https://github.com/toyxyz/toyxyz-blender-retargeter",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "retargeting",
+      "animation"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retargeting » triée par mise à jour",
+      "label_en": "GitHub — “retargeting” search sorted by update",
+      "url": "https://github.com/search?q=retargeting&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-12",
+    "name": "Rig Tools 0.9.0-beta (rig Blender par assemblages)",
+    "name_en": "Rig Tools 0.9.0-beta (assembly-based Blender rigging)",
+    "summary": "Bêta publiée le 7 nov. : un add-on Blender 4.1+ qui construit un rig humanoïde chaîne par chaîne (« assemblages » modifiables ou supprimables après coup), pour ne plus rester bloqué comme avec un rig Rigify finalisé. Gratuit sur GitHub, mais aucune licence indiquée.",
+    "summary_en": "Beta released Nov 7: a Blender 4.1+ add-on that builds a humanoid rig chain by chain (“assemblies” you can reconfigure or delete later), so you never get locked out like with a finalized Rigify rig. Free on GitHub, but no license stated.",
+    "url": "https://github.com/jaminvanderberg/blender-rig-tools",
+    "tags": [
+      "gratuit",
+      "blender-addon",
+      "rigging",
+      "licence-absente",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-12",
+    "name": "ComfyUI Motion Previs Studio (mocap vidéo et prévis 3D)",
+    "name_en": "ComfyUI Motion Previs Studio (video mocap and 3D previs)",
+    "summary": "Lancé fin oct. sous MIT et mis à jour le 10 nov. : un studio de prévis 3D relié à ton ComfyUI local, avec mocap vidéo multi-personnes (NLF, SMPL) retargetée sur le Y-Bot Mixamo, placement de caméra et export vers des workflows vidéo IA.",
+    "summary_en": "Launched late Oct under MIT and updated Nov 10: a 3D previs studio wired to your local ComfyUI, with multi-person video mocap (NLF, SMPL) retargeted to the Mixamo Y-Bot, camera blocking and export to AI video workflows.",
+    "url": "https://github.com/navarisun1982/comfyui-motion-previs-studio",
+    "tags": [
+      "open-source",
+      "comfyui",
+      "mocap",
+      "capture-video",
+      "ia",
+      "local"
+    ],
+    "source": {
+      "label": "GitHub — recherche « comfyui motion » triée par mise à jour",
+      "label_en": "GitHub — “comfyui motion” search sorted by update",
+      "url": "https://github.com/search?q=comfyui+motion&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-12",
+    "name": "Large Motion Matching Model (motion matching Mamba)",
+    "name_en": "Large Motion Matching Model (Mamba motion matching)",
+    "summary": "Projet MIT mis à jour le 11 nov. : un petit modèle Mamba qui génère chaque frame la pose d’un perso piloté au joystick, en s’appuyant sur une base de mocap éditable : un nouveau clip ajouté est utilisable sans réentraîner. Code de recherche, mocap LaFAN1 à télécharger à part.",
+    "summary_en": "MIT project updated Nov 11: a small Mamba model that generates a joystick-driven character’s pose every frame from an editable mocap database, so a newly added clip works without retraining. Research code; LaFAN1 mocap downloaded separately.",
+    "url": "https://github.com/MorningStarTM/Large-Motion-Matching-Model",
+    "tags": [
+      "open-source",
+      "ia",
+      "motion-matching",
+      "game",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture trié par mise à jour",
+      "label_en": "GitHub — motion-capture topic sorted by update",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
   }
 ]

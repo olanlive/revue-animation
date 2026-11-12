@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toyxyz Blender Retargeter 0.4.30</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-12-toyxyz-blender-retargeter-0-4-30</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-12-toyxyz-blender-retargeter-0-4-30</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 12 under GPL-3.0: a Blender 5.0+ add-on that live-retargets humanoid motion between rigs with different proportions, with adapted root travel, adjustable limb reach and foot contact, then bakes it all to an Action.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>animation</category>
+    </item>
+    <item>
+      <title>Rig Tools 0.9.0-beta (assembly-based Blender rigging)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-12-rig-tools-0-9-0-beta-rig-blender-par-assemblages</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-12-rig-tools-0-9-0-beta-rig-blender-par-assemblages</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Beta released Nov 7: a Blender 4.1+ add-on that builds a humanoid rig chain by chain (“assemblies” you can reconfigure or delete later), so you never get locked out like with a finalized Rigify rig. Free on GitHub, but no license stated.</description>
+      <category>gratuit</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>licence-absente</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>ComfyUI Motion Previs Studio (video mocap and 3D previs)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-12-comfyui-motion-previs-studio-mocap-video-et-previs-3d</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-12-comfyui-motion-previs-studio-mocap-video-et-previs-3d</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Launched late Oct under MIT and updated Nov 10: a 3D previs studio wired to your local ComfyUI, with multi-person video mocap (NLF, SMPL) retargeted to the Mixamo Y-Bot, camera blocking and export to AI video workflows.</description>
+      <category>open-source</category>
+      <category>comfyui</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Large Motion Matching Model (Mamba motion matching)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-12-large-motion-matching-model-motion-matching-mamba</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-12-large-motion-matching-model-motion-matching-mamba</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:00 +0100</pubDate>
+      <description>MIT project updated Nov 11: a small Mamba model that generates a joystick-driven character’s pose every frame from an editable mocap database, so a newly added clip works without retraining. Research code; LaFAN1 mocap downloaded separately.</description>
+      <category>open-source</category>
+      <category>ia</category>
+      <category>motion-matching</category>
+      <category>game</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Audio to Viseme Sync 0.2.0 (Blender lip-sync via MFA or Rhubarb)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-11-audio-to-viseme-sync-0-2-0-lip-sync-blender-via-mfa-ou-rhubarb</link>
@@ -1198,56 +1246,6 @@
       <category>retargeting</category>
       <category>capture-video</category>
       <category>ia</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>XR Animator 0.36.0 (AI webcam mocap)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-xr-animator-0-36-0-mocap-webcam-ia</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-xr-animator-0-36-0-mocap-webcam-ia</guid>
-      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Full-body webcam mocap (MediaPipe) for VRM/MMD avatars, web or desktop: 0.36.0 (Oct 17) adds a faster “lite” body model, a GPU/CPU choice and local web app mode on Android and iOS. Free, but the repo declares no license.</description>
-      <category>gratuit</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>vrm</category>
-      <category>ia</category>
-    </item>
-    <item>
-      <title>L2DEditor (Live2D-style 2D puppet rigging)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-l2deditor-rigging-de-marionnettes-2d-facon-live2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-l2deditor-rigging-de-marionnettes-2d-facon-live2d</guid>
-      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Open-source (Apache-2.0) 2D puppet editor, a Cubism alternative published Oct 19: PSD import, meshing and auto-rig, keyforms, physics, .moc3 export without Live2D binaries, plus a CLI and an MCP server so AI agents can drive it.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>puppet</category>
-      <category>rigging</category>
-      <category>live2d</category>
-      <category>ia</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>MotionForge 1.0.1 (2D animation studio for Windows)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-motionforge-1-0-1-studio-danimation-2d-windows</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-motionforge-1-0-1-studio-danimation-2d-windows</guid>
-      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Flash-style vector 2D animation studio (MIT, C#/.NET 10, Windows) released Oct 19: keyframe timeline with eased tweens, layers, symbols, onion skin, GIF, PNG, sprite sheet and SVG export. 1.0.1 smooths the brush and adds an HSV wheel.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>keyframing</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>VisemeMaker 1.0.0 (VRChat visemes from A-I-U-E-O)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-19-visememaker-1-0-0-visemes-vrchat-depuis-a-i-u-e-o</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-19-visememaker-1-0-0-visemes-vrchat-depuis-a-i-u-e-o</guid>
-      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Unity tool (MIT) released Oct 16 that builds VRChat’s 14 visemes from the 5 vowel shapes most models already have (MMD, VRoid, Source…) and wires lip sync on the avatar descriptor, with preview and strength control.</description>
-      <category>open-source</category>
-      <category>lip-sync</category>
-      <category>facial</category>
-      <category>unity</category>
-      <category>vrchat</category>
       <category>emerging</category>
     </item>
   </channel>

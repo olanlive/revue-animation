@@ -3087,5 +3087,85 @@
       "label_en": "GitHub — motion-capture topic sorted by update",
       "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "name": "Mocap Cleanup for Blender 0.1.0 (nettoyage de mocap webcam)",
+    "name_en": "Mocap Cleanup for Blender 0.1.0 (webcam mocap cleanup)",
+    "summary": "Add-on GPL-3.0 publié le 12 nov. : il nettoie la mocap sans combinaison (FreeMoCap, BlendArMocap…) en un clic : pops et jitter filtrés, retarget BVH vers Rigify, pieds verrouillés par IK puis export FBX, aussi en lot sur tout un dossier.",
+    "summary_en": "GPL-3.0 add-on released Nov 12: one-click cleanup for suitless mocap (FreeMoCap, BlendArMocap…): pops and jitter filtered, BVH retargeted to Rigify, feet locked with IK, then FBX export, also batched over a whole folder.",
+    "url": "https://github.com/Sir-D-Bread/Blender-Mocap-Cleanup",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » triée par mise à jour",
+      "label_en": "GitHub — “mocap” search sorted by update",
+      "url": "https://github.com/search?q=mocap&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "name": "HMocapTool 1.0 (vidéo → animation dans Unreal 5.8)",
+    "name_en": "HMocapTool 1.0 (video → animation in Unreal 5.8)",
+    "summary": "Plugin MIT sorti le 13 nov. pour Unreal 5.8 : file d’attente de vidéos, tracking du corps par le MetaHuman Body Tracker, retarget IK vers ton squelette, root motion et aperçu. Le plugin Markerless Motion Capture de MetaHuman (Fab) est à installer à part.",
+    "summary_en": "MIT plugin released Nov 13 for Unreal 5.8: a video queue, body tracking via the MetaHuman Body Tracker, IK retarget to your skeleton, root motion and preview. The MetaHuman Markerless Motion Capture plugin (Fab) must be installed separately.",
+    "url": "https://github.com/Ratisser/HMocapTool/releases/tag/v1.0",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "unreal",
+      "metahuman",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » triée par mise à jour",
+      "label_en": "GitHub — “retarget” search sorted by update",
+      "url": "https://github.com/search?q=retarget&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "name": "Animation Auto Offset 1.5.0",
+    "name_en": "Animation Auto Offset 1.5.0",
+    "summary": "Extension Blender GPL-3.0, v1.5.0 du 5 nov. : tu bouges un os avec les outils habituels et le décalage s’applique à toutes les clés existantes. Nouveau : fenêtre de lissage asymétrique avant/après la sélection et overlay aussi dans le Dope Sheet.",
+    "summary_en": "GPL-3.0 Blender extension, v1.5.0 from Nov 5: move a bone with the usual tools and the change is applied as an offset to all existing keys. New: an asymmetric easing window before/after the selection and the overlay now in the Dope Sheet too.",
+    "url": "https://extensions.blender.org/add-ons/anim-auto-offset/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "keyframing"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender animation addon » triée par mise à jour",
+      "label_en": "GitHub — “blender animation addon” search sorted by update",
+      "url": "https://github.com/search?q=blender+animation+addon&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "name": "Retarget to Empties 1.0.0",
+    "name_en": "Retarget to Empties 1.0.0",
+    "summary": "Add-on MIT publié le 13 nov. pour Blender 5.0+ : il transfère les contrôleurs IK d’un rig vers des Empties pour isoler translation et rotation, nettoyer les courbes, puis renvoie l’anim au rig : pratique pour mixer des clips dans le NLA ou extraire un root motion propre.",
+    "summary_en": "MIT add-on released Nov 13 for Blender 5.0+: it bakes a rig’s IK controls onto Empties to isolate translation and rotation, clean curves, then sends the motion back to the rig, handy for blending clips in the NLA or extracting clean root motion.",
+    "url": "https://github.com/Jessandn/Retarget-to-Empties",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "retargeting",
+      "root-motion",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » triée par mise à jour",
+      "label_en": "GitHub — “retarget” search sorted by update",
+      "url": "https://github.com/search?q=retarget&type=repositories&s=updated&o=desc"
+    }
   }
 ]

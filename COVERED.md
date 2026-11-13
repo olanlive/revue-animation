@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-13 | Mocap Cleanup for Blender 0.1.0 (nettoyage de mocap webcam) | open-source, blender-addon, mocap, retargeting, emerging | https://github.com/Sir-D-Bread/Blender-Mocap-Cleanup | https://olanlive.github.io/revue-animation/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam |
+| 2026-11-13 | HMocapTool 1.0 (vidéo → animation dans Unreal 5.8) | open-source, mocap, capture-video, unreal, metahuman, emerging | https://github.com/Ratisser/HMocapTool/releases/tag/v1.0 | https://olanlive.github.io/revue-animation/#2026-11-13-hmocaptool-1-0-video-animation-dans-unreal-5-8 |
+| 2026-11-13 | Animation Auto Offset 1.5.0 | open-source, blender-addon, animation, keyframing | https://extensions.blender.org/add-ons/anim-auto-offset/ | https://olanlive.github.io/revue-animation/#2026-11-13-animation-auto-offset-1-5-0 |
+| 2026-11-13 | Retarget to Empties 1.0.0 | open-source, blender-addon, retargeting, root-motion, emerging | https://github.com/Jessandn/Retarget-to-Empties | https://olanlive.github.io/revue-animation/#2026-11-13-retarget-to-empties-1-0-0 |
 | 2026-11-12 | Toyxyz Blender Retargeter 0.4.30 | open-source, blender-addon, retargeting, animation | https://github.com/toyxyz/toyxyz-blender-retargeter | https://olanlive.github.io/revue-animation/#2026-11-12-toyxyz-blender-retargeter-0-4-30 |
 | 2026-11-12 | Rig Tools 0.9.0-beta (rig Blender par assemblages) | gratuit, blender-addon, rigging, licence-absente, emerging | https://github.com/jaminvanderberg/blender-rig-tools | https://olanlive.github.io/revue-animation/#2026-11-12-rig-tools-0-9-0-beta-rig-blender-par-assemblages |
 | 2026-11-12 | ComfyUI Motion Previs Studio (mocap vidéo et prévis 3D) | open-source, comfyui, mocap, capture-video, ia, local | https://github.com/navarisun1982/comfyui-motion-previs-studio | https://olanlive.github.io/revue-animation/#2026-11-12-comfyui-motion-previs-studio-mocap-video-et-previs-3d |

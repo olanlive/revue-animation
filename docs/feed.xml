@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mocap Cleanup for Blender 0.1.0 (nettoyage de mocap webcam)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam</guid>
+      <pubDate>Fri, 13 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on GPL-3.0 publié le 12 nov. : il nettoie la mocap sans combinaison (FreeMoCap, BlendArMocap…) en un clic : pops et jitter filtrés, retarget BVH vers Rigify, pieds verrouillés par IK puis export FBX, aussi en lot sur tout un dossier.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>HMocapTool 1.0 (vidéo → animation dans Unreal 5.8)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-13-hmocaptool-1-0-video-animation-dans-unreal-5-8</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-13-hmocaptool-1-0-video-animation-dans-unreal-5-8</guid>
+      <pubDate>Fri, 13 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Plugin MIT sorti le 13 nov. pour Unreal 5.8 : file d’attente de vidéos, tracking du corps par le MetaHuman Body Tracker, retarget IK vers ton squelette, root motion et aperçu. Le plugin Markerless Motion Capture de MetaHuman (Fab) est à installer à part.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>unreal</category>
+      <category>metahuman</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Animation Auto Offset 1.5.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-13-animation-auto-offset-1-5-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-13-animation-auto-offset-1-5-0</guid>
+      <pubDate>Fri, 13 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Extension Blender GPL-3.0, v1.5.0 du 5 nov. : tu bouges un os avec les outils habituels et le décalage s’applique à toutes les clés existantes. Nouveau : fenêtre de lissage asymétrique avant/après la sélection et overlay aussi dans le Dope Sheet.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>keyframing</category>
+    </item>
+    <item>
+      <title>Retarget to Empties 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-13-retarget-to-empties-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-13-retarget-to-empties-1-0-0</guid>
+      <pubDate>Fri, 13 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on MIT publié le 13 nov. pour Blender 5.0+ : il transfère les contrôleurs IK d’un rig vers des Empties pour isoler translation et rotation, nettoyer les courbes, puis renvoie l’anim au rig : pratique pour mixer des clips dans le NLA ou extraire un root motion propre.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>root-motion</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Toyxyz Blender Retargeter 0.4.30</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-12-toyxyz-blender-retargeter-0-4-30</link>
@@ -1194,58 +1242,6 @@
       <category>capture-video</category>
       <category>retargeting</category>
       <category>2d</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Lightweight CPU VTuber Tracker 0.1.0 (mocap webcam VRM sans GPU)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-20-lightweight-cpu-vtuber-tracker-0-1-0-mocap-webcam-vrm-sans-gpu</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-20-lightweight-cpu-vtuber-tracker-0-1-0-mocap-webcam-vrm-sans-gpu</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Tracker webcam natif Windows en Rust (v0.1.0, 19 oct) qui anime un avatar VRM sur le seul CPU : 52 blendshapes ARKit, regard, bras, torse et doigts à 30 fps. Code Apache-2.0/MIT, mais le modèle de corps fourni est sous licence SAM : lis-la avant un usage pro.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>facial</category>
-      <category>vrm</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Riggle 0.1.1 (rig + jiggle bones, moteur Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-20-riggle-0-1-1-rig-jiggle-bones-moteur-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-20-riggle-0-1-1-rig-jiggle-bones-moteur-blender</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Atelier de rigging local (MIT, très WIP) piloté par Blender : tu cales un squelette humanoïde de 22 os sur ton mesh, tu marques ce qui doit ballotter (jiggle bones), puis export GLB + FBX riggés avec un manifeste de ressorts. Build Windows portable le 19 oct.</description>
-      <category>open-source</category>
-      <category>rigging</category>
-      <category>skinning</category>
-      <category>blender</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>PuppetForge 1.0 (marionnettes 2D sur Android)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-20-puppetforge-1-0-marionnettes-2d-sur-android</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-20-puppetforge-1-0-marionnettes-2d-sur-android</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Studio de marionnettes 2D pour Android (MIT, v1.0 du 20 oct), alternative libre à Character Animator : calques PNG, pivots et hiérarchie d’os au doigt, animation jouée en direct, lip-sync piloté par le micro, export GIF ou MP4, tout en local.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>puppet</category>
-      <category>lip-sync</category>
-      <category>android</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Rigger 1.2.0 (auto-rig Blender + vidéo → animation)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-19-rigger-1-2-0-auto-rig-blender-video-animation</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-19-rigger-1-2-0-auto-rig-blender-video-animation</guid>
-      <pubDate>Mon, 19 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Auto-rigger modulaire pour Blender 4.2+ (GPL-3.0) : la 1.2.0 du 18 oct ajoute la vidéo → animation en local (corps, doigts, shape keys ARKit, root motion, pieds plantés), des marqueurs placés par IA et un picker dans la vue 3D.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>retargeting</category>
-      <category>capture-video</category>
-      <category>ia</category>
       <category>emerging</category>
     </item>
   </channel>

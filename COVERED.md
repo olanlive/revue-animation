@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-18 | VeloMocap (mocap vidéo en Rust et C++) | open-source, mocap, capture-video, local, emerging | https://github.com/YuanBaoSMadLab/velomocap | https://olanlive.github.io/revue-animation/#2026-11-18-velomocap-mocap-video-en-rust-et-c |
+| 2026-11-18 | Blender Rig Tweak et Pivot Rotate | open-source, blender-addon, rigging, posing, emerging | https://github.com/IUG-NAN/Blender-Rig-Tweak | https://olanlive.github.io/revue-animation/#2026-11-18-blender-rig-tweak-et-pivot-rotate |
+| 2026-11-18 | AI Speak (lip-sync ARKit depuis l'audio) | licence-absente, lip-sync, facial, ia, emerging | https://github.com/OliveraMilicic/ai-speak-lipsync | https://olanlive.github.io/revue-animation/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio |
 | 2026-11-13 | Mocap Cleanup for Blender 0.1.0 (nettoyage de mocap webcam) | open-source, blender-addon, mocap, retargeting, emerging | https://github.com/Sir-D-Bread/Blender-Mocap-Cleanup | https://olanlive.github.io/revue-animation/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam |
 | 2026-11-13 | HMocapTool 1.0 (vidéo → animation dans Unreal 5.8) | open-source, mocap, capture-video, unreal, metahuman, emerging | https://github.com/Ratisser/HMocapTool/releases/tag/v1.0 | https://olanlive.github.io/revue-animation/#2026-11-13-hmocaptool-1-0-video-animation-dans-unreal-5-8 |
 | 2026-11-13 | Animation Auto Offset 1.5.0 | open-source, blender-addon, animation, keyframing | https://extensions.blender.org/add-ons/anim-auto-offset/ | https://olanlive.github.io/revue-animation/#2026-11-13-animation-auto-offset-1-5-0 |

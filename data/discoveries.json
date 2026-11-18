@@ -3167,5 +3167,65 @@
       "label_en": "GitHub — “retarget” search sorted by update",
       "url": "https://github.com/search?q=retarget&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "name": "VeloMocap (mocap vidéo en Rust et C++)",
+    "name_en": "VeloMocap (video mocap in Rust and C++)",
+    "summary": "Mis en ligne le 14 nov. sous Apache 2.0 : une appli locale qui transforme une vidéo de téléphone en humain 3D riggé et animé (SAM 3D Body, FlowHMR), sans Python à l'exécution, exporté en .glb pour Blender, Unity ou Unreal. Les poids et SMPL-H gardent leurs licences.",
+    "summary_en": "Released Nov 14 under Apache 2.0: a local app that turns a phone clip into a rigged, animated 3D human (SAM 3D Body, FlowHMR), with no Python at runtime, exported as .glb for Blender, Unity or Unreal. Weights and SMPL-H keep their own licenses.",
+    "url": "https://github.com/YuanBaoSMadLab/velomocap",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » des dépôts créés depuis le 13 nov.",
+      "label_en": "GitHub — “motion capture” search, repos created since Nov 13",
+      "url": "https://github.com/search?q=motion+capture+created%3A%3E2026-11-12&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "name": "Blender Rig Tweak et Pivot Rotate",
+    "name_en": "Blender Rig Tweak and Pivot Rotate",
+    "summary": "Deux petits add-ons GPL pour Blender 5.2, publiés le 15 nov. : Pivot Rotate fait tourner tout le rig autour d'un contrôleur en gardant l'IK, à la manière de Cascadeur, et Rig Tweak ajoute un décalage de position et rotation par-dessus l'anim existante. Pensés pour Auto-Rig Pro.",
+    "summary_en": "Two small GPL add-ons for Blender 5.2, released Nov 15: Pivot Rotate spins the whole rig around any controller while keeping IK, Cascadeur-style, and Rig Tweak layers a position and rotation offset on top of existing animation. Built with Auto-Rig Pro in mind.",
+    "url": "https://github.com/IUG-NAN/Blender-Rig-Tweak",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "posing",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "name": "AI Speak (lip-sync ARKit depuis l'audio)",
+    "name_en": "AI Speak (ARKit lip-sync from audio)",
+    "summary": "Publié le 17 nov. : un petit modèle (HuBERT + BiLSTM, ~3M paramètres, poids fournis) qui prédit les 52 blendshapes ARKit à 60 i/s depuis une voix, avec clignements et bouche fermée sur les silences, exportés en CSV. Attention : aucune licence dans le dépôt.",
+    "summary_en": "Released Nov 17: a small model (HuBERT + BiLSTM, ~3M parameters, weights included) that predicts the 52 ARKit blendshapes at 60 FPS from speech, with blinks and closed mouth on silence, exported as CSV. Note: the repo has no license.",
+    "url": "https://github.com/OliveraMilicic/ai-speak-lipsync",
+    "tags": [
+      "licence-absente",
+      "lip-sync",
+      "facial",
+      "ia",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lipsync » des dépôts créés depuis le 13 nov.",
+      "label_en": "GitHub — “lipsync” search, repos created since Nov 13",
+      "url": "https://github.com/search?q=lipsync+created%3A%3E2026-11-12&type=repositories&s=updated&o=desc"
+    }
   }
 ]

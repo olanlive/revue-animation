@@ -5,8 +5,44 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VeloMocap (video mocap in Rust and C++)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-18-velomocap-mocap-video-en-rust-et-c</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-18-velomocap-mocap-video-en-rust-et-c</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 14 under Apache 2.0: a local app that turns a phone clip into a rigged, animated 3D human (SAM 3D Body, FlowHMR), with no Python at runtime, exported as .glb for Blender, Unity or Unreal. Weights and SMPL-H keep their own licenses.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Blender Rig Tweak and Pivot Rotate</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-18-blender-rig-tweak-et-pivot-rotate</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-18-blender-rig-tweak-et-pivot-rotate</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Two small GPL add-ons for Blender 5.2, released Nov 15: Pivot Rotate spins the whole rig around any controller while keeping IK, Cascadeur-style, and Rig Tweak layers a position and rotation offset on top of existing animation. Built with Auto-Rig Pro in mind.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>posing</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>AI Speak (ARKit lip-sync from audio)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 17: a small model (HuBERT + BiLSTM, ~3M parameters, weights included) that predicts the 52 ARKit blendshapes at 60 FPS from speech, with blinks and closed mouth on silence, exported as CSV. Note: the repo has no license.</description>
+      <category>licence-absente</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Mocap Cleanup for Blender 0.1.0 (webcam mocap cleanup)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam</link>
@@ -1204,45 +1240,6 @@
       <category>lip-sync</category>
       <category>facial</category>
       <category>2d</category>
-    </item>
-    <item>
-      <title>cascadeur MMD toolkit 1.0 (VMD in Cascadeur)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</guid>
-      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Free Cascadeur plugin (v1.0 on Oct 19, Windows): import MMD .vmd motions onto your characters, export VMD as FK or IK and clean up the generated rig. Heads-up: no license, binary only, the repo holds just the docs.</description>
-      <category>gratuit</category>
-      <category>cascadeur</category>
-      <category>mmd</category>
-      <category>retargeting</category>
-      <category>animation</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Ekza Animator (glTF/VRM character animation in the browser)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Open-source (MIT, alpha) in-browser character animator launched Oct 18: circle controls and leg IK on a GLB or VRM, Dope Sheet, a Graph Editor with Maya-style tangents, then bake back into the original file or export VRMA.</description>
-      <category>open-source</category>
-      <category>animation</category>
-      <category>keyframing</category>
-      <category>vrm</category>
-      <category>web</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>MotionBridge 0.3.0 (browser video mocap → Blender and 2D)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>First public release (MIT, Oct 19): the video is analysed in the browser (MediaPipe), the motion is retargeted onto your GLB/FBX character and exported as animated GLB or BVH for Blender; a second workspace animates 2D PNG cutout puppets.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>2d</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

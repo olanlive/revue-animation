@@ -5,8 +5,44 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VeloMocap (mocap vidéo en Rust et C++)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-18-velomocap-mocap-video-en-rust-et-c</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-18-velomocap-mocap-video-en-rust-et-c</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Mis en ligne le 14 nov. sous Apache 2.0 : une appli locale qui transforme une vidéo de téléphone en humain 3D riggé et animé (SAM 3D Body, FlowHMR), sans Python à l'exécution, exporté en .glb pour Blender, Unity ou Unreal. Les poids et SMPL-H gardent leurs licences.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Blender Rig Tweak et Pivot Rotate</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-18-blender-rig-tweak-et-pivot-rotate</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-18-blender-rig-tweak-et-pivot-rotate</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Deux petits add-ons GPL pour Blender 5.2, publiés le 15 nov. : Pivot Rotate fait tourner tout le rig autour d'un contrôleur en gardant l'IK, à la manière de Cascadeur, et Rig Tweak ajoute un décalage de position et rotation par-dessus l'anim existante. Pensés pour Auto-Rig Pro.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>posing</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>AI Speak (lip-sync ARKit depuis l'audio)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio</guid>
+      <pubDate>Wed, 18 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 17 nov. : un petit modèle (HuBERT + BiLSTM, ~3M paramètres, poids fournis) qui prédit les 52 blendshapes ARKit à 60 i/s depuis une voix, avec clignements et bouche fermée sur les silences, exportés en CSV. Attention : aucune licence dans le dépôt.</description>
+      <category>licence-absente</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>ia</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Mocap Cleanup for Blender 0.1.0 (nettoyage de mocap webcam)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-13-mocap-cleanup-for-blender-0-1-0-nettoyage-de-mocap-webcam</link>
@@ -1204,45 +1240,6 @@
       <category>lip-sync</category>
       <category>facial</category>
       <category>2d</category>
-    </item>
-    <item>
-      <title>cascadeur MMD toolkit 1.0 (VMD dans Cascadeur)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-21-cascadeur-mmd-toolkit-1-0-vmd-dans-cascadeur</guid>
-      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Plugin gratuit pour Cascadeur (v1.0 du 19 oct, Windows) : import de motions MMD .vmd sur tes persos, export VMD en FK ou IK et nettoyage du rig généré. Attention : pas de licence, binaire seulement, le dépôt ne contient que la doc.</description>
-      <category>gratuit</category>
-      <category>cascadeur</category>
-      <category>mmd</category>
-      <category>retargeting</category>
-      <category>animation</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Ekza Animator (animation de persos glTF/VRM dans le navigateur)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-20-ekza-animator-animation-de-persos-gltf-vrm-dans-le-navigateur</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Animateur de personnages open source (MIT, alpha) lancé le 18 oct, dans le navigateur : contrôles en cercle et IK de jambes sur un GLB ou un VRM, Dope Sheet, Graph Editor aux tangentes façon Maya, puis bake dans le fichier d’origine ou export VRMA.</description>
-      <category>open-source</category>
-      <category>animation</category>
-      <category>keyframing</category>
-      <category>vrm</category>
-      <category>web</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>MotionBridge 0.3.0 (mocap vidéo dans le navigateur → Blender et 2D)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-20-motionbridge-0-3-0-mocap-video-dans-le-navigateur-blender-et-2d</guid>
-      <pubDate>Tue, 20 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Première version publique (MIT, 19 oct) : la vidéo est analysée dans le navigateur (MediaPipe), le mouvement est retargeté sur ton perso GLB/FBX et exporté en GLB animé ou BVH pour Blender ; un 2e espace anime des marionnettes 2D en PNG découpés.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>2d</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

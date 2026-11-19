@@ -5,8 +5,66 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RigTap (2D rig-control picker for Blender)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-rigtap-picker-2d-de-controleurs-pour-blender</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-19-rigtap-picker-2d-de-controleurs-pour-blender</guid>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 15 (pay what you want from $15): a Blender 4.5–5.3 add-on that lays your rig’s controls out on a 2D map (body, hands, face), with Q/E/F3 hotkeys, mirrored selection and Rigify, Auto-Rig Pro, CloudRig and MMD presets.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>picker</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FlowHMR-Blender 1.1.0 (video mocap to MMD)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-flowhmr-blender-1-1-0-mocap-video-vers-mmd</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-19-flowhmr-blender-1-1-0-mocap-video-vers-mmd</guid>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 18 under GPL-3.0: an unofficial Blender add-on that runs FlowHMR on a video and applies the motion to an MMD model, with VMD export and import. The code is free, but the FlowHMR and SMPL-H weights stay non-commercial.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>GuitarRig (guitar-playing arms on your mocap)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-guitarrig-bras-de-guitariste-sur-ta-mocap</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-19-guitarrig-bras-de-guitariste-sur-ta-mocap</guid>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Blender 4.2+ add-on under GPL-3.0, updated Nov 18: it hangs a guitar on the chest of a mocap-driven character, keeps one hand on the neck and the other over the strings, then bakes it into new actions without touching your animation.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>animation</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>usdRig 0.2.0 (OpenUSD character rigging)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-usdrig-0-2-0-rigging-de-personnages-en-openusd</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-19-usdrig-0-2-0-rigging-de-personnages-en-openusd</guid>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 15 under MIT: an OpenUSD rigging engine (RigExec) that evaluates controls, constraints and deformers so you can pose and play back a character in usdview, as a Windows, macOS or Linux bundle. Partly AI-generated prototype.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>usd</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>CineSync Bridge 0.1.0 (synced video reference in Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-cinesync-bridge-0-1-0-reference-video-synchro-dans-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-19-cinesync-bridge-0-1-0-reference-video-synchro-dans-maya</guid>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 +0100</pubDate>
+      <description>macOS preview released Nov 18 under MIT: it matches a Premiere XML with a mocap FBX take by timecode, cuts per-shot FBX files starting at 1001 and opens a multi-camera reference player locked to Maya’s timeline.</description>
+      <category>open-source</category>
+      <category>maya</category>
+      <category>mocap</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>VeloMocap (video mocap in Rust and C++)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-18-velomocap-mocap-video-en-rust-et-c</link>
@@ -1178,68 +1236,6 @@
       <category>rigging</category>
       <category>android</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>kr-custom-rigs (Rigify extensions: configurable eye, rig tools)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-22-kr-custom-rigs-extensions-rigify-il-configurable-outils-de-rig</guid>
-      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
-      <description>GPL-3.0 Rigify extensions, Blender 5.2 compatible since Oct 21: a configurable eye rig (iris, groups, eyelids optional), a rig that moves drivers onto DEF bones, and a weight-paint mode that frees the generated rig’s bones.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>rigify</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Mocap Studio (video → Mixamo animation, local)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-22-mocap-studio-video-animation-mixamo-en-local</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-22-mocap-studio-video-animation-mixamo-en-local</guid>
-      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Released Oct 22: local web app (MIT) on top of Motion2MixamoRig. Upload a video of one person and a Mixamo character, it replays the motion, .glb export and an Unreal-mannequin style skeleton. Non-commercial use only (GVHMR, SMPL-X); UI in Vietnamese.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>ia</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Live2D Offline Converter 0.3.0 (Live2D → Blender bones)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-21-live2d-offline-converter-0-3-0-live2d-os-blender</guid>
-      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Experimental Blender add-on (MIT, v0.3.0 on Oct 19) that samples a Live2D clip and converts it into a native Blender armature, weights and Action that play without the plugin. 0.3 bakes masks and blend modes (Cycles). You supply the Cubism SDK yourself.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>live2d</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>QuadMocap (AI video mocap for any rig)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-21-quadmocap-mocap-video-ia-pour-nimporte-quel-rig</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-21-quadmocap-mocap-video-ia-pour-nimporte-quel-rig</guid>
-      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Local web app (MIT, published Oct 20): give it a rigged character, it trains a DINOv2 detector on renders of your rig, then fits the skeleton to a two-view AI video. Outputs a Blender Action, .blend and FBX; tested on quadrupeds.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>ia</category>
-      <category>blender</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Stylized 2D Mouth Rig (2D mouth for Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-21-stylized-2d-mouth-rig-bouche-2d-pour-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-21-stylized-2d-mouth-rig-bouche-2d-pour-blender</guid>
-      <pubDate>Wed, 21 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Blender 5.2 add-on launched Oct 20 at $5: one click puts a stylized 2D mouth on any head, driven in Pose Mode from a floating panel, with 28 expression and lip-sync presets, 4 styles, customizable teeth and tongue.</description>
-      <category>payant</category>
-      <category>blender-addon</category>
-      <category>lip-sync</category>
-      <category>facial</category>
-      <category>2d</category>
     </item>
   </channel>
 </rss>

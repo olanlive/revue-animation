@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-19 | RigTap (picker 2D de contrôleurs pour Blender) | payant, blender-addon, rigging, picker, emerging | https://sezhiyanhua.gumroad.com/l/rigtap | https://olanlive.github.io/revue-animation/#2026-11-19-rigtap-picker-2d-de-controleurs-pour-blender |
+| 2026-11-19 | FlowHMR-Blender 1.1.0 (mocap vidéo vers MMD) | open-source, blender-addon, mocap, capture-video, emerging | https://github.com/pojbh/FlowHMR-Blender/releases/tag/v1.1.0 | https://olanlive.github.io/revue-animation/#2026-11-19-flowhmr-blender-1-1-0-mocap-video-vers-mmd |
+| 2026-11-19 | GuitarRig (bras de guitariste sur ta mocap) | open-source, blender-addon, mocap, animation, emerging | https://github.com/Huli-fox/guitar_rig | https://olanlive.github.io/revue-animation/#2026-11-19-guitarrig-bras-de-guitariste-sur-ta-mocap |
+| 2026-11-19 | usdRig 0.2.0 (rigging de personnages en OpenUSD) | open-source, rigging, usd, emerging | https://github.com/usdCharacter/usdRig/releases/tag/v0.2.0 | https://olanlive.github.io/revue-animation/#2026-11-19-usdrig-0-2-0-rigging-de-personnages-en-openusd |
+| 2026-11-19 | CineSync Bridge 0.1.0 (référence vidéo synchro dans Maya) | open-source, maya, mocap, emerging | https://github.com/ravenblu/Cinesync/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-19-cinesync-bridge-0-1-0-reference-video-synchro-dans-maya |
 | 2026-11-18 | VeloMocap (mocap vidéo en Rust et C++) | open-source, mocap, capture-video, local, emerging | https://github.com/YuanBaoSMadLab/velomocap | https://olanlive.github.io/revue-animation/#2026-11-18-velomocap-mocap-video-en-rust-et-c |
 | 2026-11-18 | Blender Rig Tweak et Pivot Rotate | open-source, blender-addon, rigging, posing, emerging | https://github.com/IUG-NAN/Blender-Rig-Tweak | https://olanlive.github.io/revue-animation/#2026-11-18-blender-rig-tweak-et-pivot-rotate |
 | 2026-11-18 | AI Speak (lip-sync ARKit depuis l'audio) | licence-absente, lip-sync, facial, ia, emerging | https://github.com/OliveraMilicic/ai-speak-lipsync | https://olanlive.github.io/revue-animation/#2026-11-18-ai-speak-lip-sync-arkit-depuis-l-audio |

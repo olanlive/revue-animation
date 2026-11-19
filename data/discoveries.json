@@ -3227,5 +3227,103 @@
       "label_en": "GitHub — “lipsync” search, repos created since Nov 13",
       "url": "https://github.com/search?q=lipsync+created%3A%3E2026-11-12&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "RigTap (picker 2D de contrôleurs pour Blender)",
+    "name_en": "RigTap (2D rig-control picker for Blender)",
+    "summary": "Sorti le 15 nov. (prix libre dès 15 $) : un add-on Blender 4.5–5.3 qui pose les contrôleurs de ton rig sur une carte 2D (corps, mains, visage), avec raccourcis Q/E/F3, sélection miroir et presets Rigify, Auto-Rig Pro, CloudRig et MMD.",
+    "summary_en": "Released Nov 15 (pay what you want from $15): a Blender 4.5–5.3 add-on that lays your rig’s controls out on a 2D map (body, hands, face), with Q/E/F3 hotkeys, mirrored selection and Rigify, Auto-Rig Pro, CloudRig and MMD presets.",
+    "url": "https://sezhiyanhua.gumroad.com/l/rigtap",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "rigging",
+      "picker",
+      "emerging"
+    ],
+    "source": {
+      "label": "Fil X — @sezhiyanhua (tutoriel du 18 nov.)",
+      "label_en": "X feed — @sezhiyanhua (Nov 18 tutorial)",
+      "url": "https://x.com/sezhiyanhua/status/2122968249386311846"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "FlowHMR-Blender 1.1.0 (mocap vidéo vers MMD)",
+    "name_en": "FlowHMR-Blender 1.1.0 (video mocap to MMD)",
+    "summary": "Sorti le 18 nov. sous GPL-3.0 : un add-on Blender non officiel qui lance FlowHMR sur une vidéo et applique le mouvement à un modèle MMD, avec export et import VMD. Le code est libre, mais les poids FlowHMR et SMPL-H restent non commerciaux.",
+    "summary_en": "Released Nov 18 under GPL-3.0: an unofficial Blender add-on that runs FlowHMR on a video and applies the motion to an MMD model, with VMD export and import. The code is free, but the FlowHMR and SMPL-H weights stay non-commercial.",
+    "url": "https://github.com/pojbh/FlowHMR-Blender/releases/tag/v1.1.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "capture-video",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture trié par mise à jour",
+      "label_en": "GitHub — motion-capture topic sorted by update",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "GuitarRig (bras de guitariste sur ta mocap)",
+    "name_en": "GuitarRig (guitar-playing arms on your mocap)",
+    "summary": "Add-on Blender 4.2+ sous GPL-3.0, mis à jour le 18 nov. : il accroche une guitare au torse d’un perso déjà animé en mocap, garde une main sur le manche et l’autre sur les cordes, puis cuit le tout dans de nouvelles actions sans toucher ton anim.",
+    "summary_en": "Blender 4.2+ add-on under GPL-3.0, updated Nov 18: it hangs a guitar on the chest of a mocap-driven character, keeps one hand on the neck and the other over the strings, then bakes it into new actions without touching your animation.",
+    "url": "https://github.com/Huli-fox/guitar_rig",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "animation",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — “blender rig” search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "usdRig 0.2.0 (rigging de personnages en OpenUSD)",
+    "name_en": "usdRig 0.2.0 (OpenUSD character rigging)",
+    "summary": "Sorti le 15 nov. sous MIT : un moteur de rig OpenUSD (RigExec) qui évalue contrôleurs, contraintes et déformeurs et permet de poser un perso et de le lire dans usdview, en bundle Windows, macOS ou Linux. Prototype en partie généré par IA.",
+    "summary_en": "Released Nov 15 under MIT: an OpenUSD rigging engine (RigExec) that evaluates controls, constraints and deformers so you can pose and play back a character in usdview, as a Windows, macOS or Linux bundle. Partly AI-generated prototype.",
+    "url": "https://github.com/usdCharacter/usdRig/releases/tag/v0.2.0",
+    "tags": [
+      "open-source",
+      "rigging",
+      "usd",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic rigging trié par mise à jour",
+      "label_en": "GitHub — rigging topic sorted by update",
+      "url": "https://github.com/topics/rigging?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "CineSync Bridge 0.1.0 (référence vidéo synchro dans Maya)",
+    "name_en": "CineSync Bridge 0.1.0 (synced video reference in Maya)",
+    "summary": "Préversion macOS sortie le 18 nov. sous MIT : elle croise un XML Premiere et une prise mocap FBX par timecode, découpe des FBX par plan à partir de 1001 et ouvre un lecteur de référence multicaméra calé sur la timeline de Maya.",
+    "summary_en": "macOS preview released Nov 18 under MIT: it matches a Premiere XML with a mocap FBX take by timecode, cuts per-shot FBX files starting at 1001 and opens a multi-camera reference player locked to Maya’s timeline.",
+    "url": "https://github.com/ravenblu/Cinesync/releases/tag/v0.1.0",
+    "tags": [
+      "open-source",
+      "maya",
+      "mocap",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » des dépôts créés depuis le 17 nov.",
+      "label_en": "GitHub — “mocap” search, repos created since Nov 17",
+      "url": "https://github.com/search?q=mocap+created%3A%3E2026-11-16&type=repositories&s=updated&o=desc"
+    }
   }
 ]

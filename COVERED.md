@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-20 | SloppyAnimatsu 0.3.0-alpha (rig et anim façon akeytsu) | open-source, rigging, skinning, retargeting, emerging | https://github.com/SloppyTheClown/SloppyAnimatsu/releases/tag/v0.3.0-alpha | https://olanlive.github.io/revue-animation/#2026-11-20-sloppyanimatsu-0-3-0-alpha-rig-et-anim-facon-akeytsu |
+| 2026-11-20 | Nakan Text Animator Tools 1.1.0 (animateurs de texte façon After Effects) | open-source, blender-addon, animation, keyframing, emerging | https://github.com/n4k4n/nakan-blender-addons/releases/tag/text-animator-tools-v1.1.0 | https://olanlive.github.io/revue-animation/#2026-11-20-nakan-text-animator-tools-1-1-0-animateurs-de-texte-facon-after-effects |
+| 2026-11-20 | Nakan GP Tools et Bone Tools 1.0.0 | open-source, blender-addon, grease-pencil, rigging, emerging | https://github.com/n4k4n/nakan-blender-addons | https://olanlive.github.io/revue-animation/#2026-11-20-nakan-gp-tools-et-bone-tools-1-0-0 |
+| 2026-11-20 | Sign Language Mocap Archive (mise à jour du 19 nov.) | gratuit, mocap, animation | https://studiogalt.github.io/Sign-Language-Mocap-Archive/ | https://olanlive.github.io/revue-animation/#2026-11-20-sign-language-mocap-archive-mise-a-jour-du-19-nov |
 | 2026-11-19 | RigTap (picker 2D de contrôleurs pour Blender) | payant, blender-addon, rigging, picker, emerging | https://sezhiyanhua.gumroad.com/l/rigtap | https://olanlive.github.io/revue-animation/#2026-11-19-rigtap-picker-2d-de-controleurs-pour-blender |
 | 2026-11-19 | FlowHMR-Blender 1.1.0 (mocap vidéo vers MMD) | open-source, blender-addon, mocap, capture-video, emerging | https://github.com/pojbh/FlowHMR-Blender/releases/tag/v1.1.0 | https://olanlive.github.io/revue-animation/#2026-11-19-flowhmr-blender-1-1-0-mocap-video-vers-mmd |
 | 2026-11-19 | GuitarRig (bras de guitariste sur ta mocap) | open-source, blender-addon, mocap, animation, emerging | https://github.com/Huli-fox/guitar_rig | https://olanlive.github.io/revue-animation/#2026-11-19-guitarrig-bras-de-guitariste-sur-ta-mocap |

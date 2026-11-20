@@ -3325,5 +3325,83 @@
       "label_en": "GitHub — “mocap” search, repos created since Nov 17",
       "url": "https://github.com/search?q=mocap+created%3A%3E2026-11-16&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-20",
+    "name": "SloppyAnimatsu 0.3.0-alpha (rig et anim façon akeytsu)",
+    "name_en": "SloppyAnimatsu 0.3.0-alpha (akeytsu-style rigging and animation)",
+    "summary": "Appli libre (MIT) pour Windows et Linux, inspirée d'akeytsu : rig, skinning, animation et retargeting de persos, import/export FBX, ouverture des scènes .akt et CLI. La 0.3.0-alpha du 19 nov. ajoute son format .slopa et des templates.",
+    "summary_en": "Free (MIT) app for Windows and Linux inspired by akeytsu: character rigging, skinning, animation and retargeting, FBX import/export, opens .akt scenes, plus a CLI. The 0.3.0-alpha of Nov 19 adds its own .slopa format and templates.",
+    "url": "https://github.com/SloppyTheClown/SloppyAnimatsu/releases/tag/v0.3.0-alpha",
+    "tags": [
+      "open-source",
+      "rigging",
+      "skinning",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » des dépôts créés depuis le 17 nov.",
+      "label_en": "GitHub — “rigging” search, repos created since Nov 17",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-11-17&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Nakan Text Animator Tools 1.1.0 (animateurs de texte façon After Effects)",
+    "name_en": "Nakan Text Animator Tools 1.1.0 (After Effects-style text animators)",
+    "summary": "Add-on Blender 5.0+ sous GPL-3.0, sorti le 19 nov. : les animateurs de texte d'After Effects (opacité, position, échelle, rotation, tracking) empilables et keyframables, plus matériau, extrusion et biseau par caractère, sur un objet Texte qui reste éditable.",
+    "summary_en": "Blender 5.0+ add-on under GPL-3.0, released Nov 19: After Effects’ text animators (opacity, position, scale, rotation, tracking), stackable and keyframable, plus per-character material, extrude and bevel, on a Text object that stays editable.",
+    "url": "https://github.com/n4k4n/nakan-blender-addons/releases/tag/text-animator-tools-v1.1.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "keyframing",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » des dépôts créés depuis le 17 nov.",
+      "label_en": "GitHub — “rigging” search, repos created since Nov 17",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-11-17&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Nakan GP Tools et Bone Tools 1.0.0",
+    "name_en": "Nakan GP Tools and Bone Tools 1.0.0",
+    "summary": "Deux add-ons Blender gratuits (GPL-3.0) du 19 nov. : GP Tools apporte au Grease Pencil le flip du canevas, le miroir en direct et la sélection par calque ; Bone Tools duplique une Bone Collection avec ses os et renomme en série avec préfixes et côtés.",
+    "summary_en": "Two free Blender add-ons (GPL-3.0) from Nov 19: GP Tools brings canvas flip, live mirror and select-by-layer to Grease Pencil; Bone Tools duplicates a Bone Collection with its bones and batch-renames with prefixes and sides.",
+    "url": "https://github.com/n4k4n/nakan-blender-addons",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "grease-pencil",
+      "rigging",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » des dépôts créés depuis le 17 nov.",
+      "label_en": "GitHub — “rigging” search, repos created since Nov 17",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-11-17&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Sign Language Mocap Archive (mise à jour du 19 nov.)",
+    "name_en": "Sign Language Mocap Archive (Nov 19 update)",
+    "summary": "Archive CC0 de Studio Galt : environ 2 700 prises mocap de langue des signes américaine (2 100+ signes, alphabet dactylologique) en FBX pour Blender, Unreal et rigs Mixamo. La version du 19 nov. ajoute un pack glTF et un miroir sur Hugging Face.",
+    "summary_en": "Studio Galt’s CC0 archive: about 2,700 American Sign Language mocap takes (2,100+ signs, fingerspelling alphabet) as FBX for Blender, Unreal and Mixamo rigs. The Nov 19 release adds a glTF pack and a Hugging Face mirror.",
+    "url": "https://studiogalt.github.io/Sign-Language-Mocap-Archive/",
+    "tags": [
+      "gratuit",
+      "mocap",
+      "animation"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture trié par mise à jour",
+      "label_en": "GitHub — motion-capture topic sorted by recent update",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
   }
 ]

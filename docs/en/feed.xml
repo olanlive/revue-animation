@@ -5,8 +5,54 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SloppyAnimatsu 0.3.0-alpha (akeytsu-style rigging and animation)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-20-sloppyanimatsu-0-3-0-alpha-rig-et-anim-facon-akeytsu</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-20-sloppyanimatsu-0-3-0-alpha-rig-et-anim-facon-akeytsu</guid>
+      <pubDate>Fri, 20 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Free (MIT) app for Windows and Linux inspired by akeytsu: character rigging, skinning, animation and retargeting, FBX import/export, opens .akt scenes, plus a CLI. The 0.3.0-alpha of Nov 19 adds its own .slopa format and templates.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Nakan Text Animator Tools 1.1.0 (After Effects-style text animators)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-20-nakan-text-animator-tools-1-1-0-animateurs-de-texte-facon-after-effects</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-20-nakan-text-animator-tools-1-1-0-animateurs-de-texte-facon-after-effects</guid>
+      <pubDate>Fri, 20 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Blender 5.0+ add-on under GPL-3.0, released Nov 19: After Effects’ text animators (opacity, position, scale, rotation, tracking), stackable and keyframable, plus per-character material, extrude and bevel, on a Text object that stays editable.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>keyframing</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Nakan GP Tools and Bone Tools 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-20-nakan-gp-tools-et-bone-tools-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-20-nakan-gp-tools-et-bone-tools-1-0-0</guid>
+      <pubDate>Fri, 20 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Two free Blender add-ons (GPL-3.0) from Nov 19: GP Tools brings canvas flip, live mirror and select-by-layer to Grease Pencil; Bone Tools duplicates a Bone Collection with its bones and batch-renames with prefixes and sides.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>grease-pencil</category>
+      <category>rigging</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Sign Language Mocap Archive (Nov 19 update)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-20-sign-language-mocap-archive-mise-a-jour-du-19-nov</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-20-sign-language-mocap-archive-mise-a-jour-du-19-nov</guid>
+      <pubDate>Fri, 20 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Studio Galt’s CC0 archive: about 2,700 American Sign Language mocap takes (2,100+ signs, fingerspelling alphabet) as FBX for Blender, Unreal and Mixamo rigs. The Nov 19 release adds a glTF pack and a Hugging Face mirror.</description>
+      <category>gratuit</category>
+      <category>mocap</category>
+      <category>animation</category>
+    </item>
     <item>
       <title>RigTap (2D rig-control picker for Blender)</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-19-rigtap-picker-2d-de-controleurs-pour-blender</link>
@@ -1186,55 +1232,6 @@
       <category>procedural</category>
       <category>web</category>
       <category>three-js</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Pixel Puppettier (layer-based rigging for Aseprite)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-pixel-puppettier-rigging-par-calques-pour-aseprite</guid>
-      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Released Oct 22 (MIT): Aseprite extension that attaches bones to layers, with hierarchy and mouse posing; “Create frame” builds a new frame where each part stays on its own layer for pixel-art cleanup. UI in Spanish.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>pixel-art</category>
-      <category>rigging</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Auto Copy Transforms DEF 1.1.5</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-23-auto-copy-transforms-def-1-1-5</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-23-auto-copy-transforms-def-1-1-5</guid>
-      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Released Oct 22 (GPL-3.0, Blender 4.2+ and 5.x): batch-creates Copy Transforms/Rotation/Location/Scale constraints between DEF and MCH/ORG bones, prefix, regex and L/R mapping, preview before applying and cleanup that leaves manual constraints alone.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>constraints</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>prompt2rig (prompt → Mixamo character animation, fingers included)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-22-prompt2rig-prompt-animation-de-perso-mixamo-doigts-compris</guid>
-      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Type a motion, a video model acts it out, then GVHMR + WiLoR (added Oct 20) extract body and fingers for a Mixamo character, .glb export to Blender or Unity. Apache-2.0 code, but GVHMR, SMPL-X and WiLoR are non-commercial and video goes through fal (paid).</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>ia</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>KinetiFrame (2D animation studio for Android)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-22-kinetiframe-studio-danimation-2d-pour-android</guid>
-      <pubDate>Thu, 22 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Released Oct 21: Apache-2.0 Android app mixing frame-by-frame drawing (onion skin, layers) with IK-rigged characters, finger-recorded performances, camera moves, audio and MP4 export. Offline, no account; still in development, no stable release yet.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>android</category>
       <category>emerging</category>
     </item>
   </channel>

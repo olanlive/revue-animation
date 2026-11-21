@@ -3403,5 +3403,105 @@
       "label_en": "GitHub — motion-capture topic sorted by recent update",
       "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
     }
+  },
+  {
+    "date": "2026-11-21",
+    "name": "Marionette Workflow Helper 1.4.0",
+    "name_en": "Marionette Workflow Helper 1.4.0",
+    "summary": "Add-on Blender 5.2+ libre (GPL-3.0) publié le 20 nov. : il prépare une armature de capture façon Mixamo pour la mocap Marionette, cale les persos Tripo, retouche les prises et les transfère dans le NLA du perso d'origine. L'appli Marionette reste requise.",
+    "summary_en": "Free Blender 5.2+ add-on (GPL-3.0) released Nov 20: it prepares a Mixamo-style capture armature for Marionette mocap, calibrates Tripo characters, adjusts takes and transfers them into the original character's NLA. The Marionette app is still required.",
+    "url": "https://github.com/KillianPi22/marionette-workflow-helper/releases/tag/v1.4.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » des dépôts mis à jour depuis le 19 nov.",
+      "label_en": "GitHub — “mocap” search, repos updated since Nov 19",
+      "url": "https://github.com/search?q=mocap+pushed%3A%3E2026-11-19&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "name": "MotionForge 0.1.0-alpha.3 (mocap webcam)",
+    "name_en": "MotionForge 0.1.0-alpha.3 (webcam mocap)",
+    "summary": "Appli Windows libre (MIT) de mocap par webcam pour Blender et Unity : corps entier ou maillage facial, compte à rebours, prises nommées et relues avant export. Premières préversions publiées le 20 nov. (alpha.3).",
+    "summary_en": "Free Windows app (MIT) for webcam mocap aimed at Blender and Unity: full body or face mesh, countdown, named takes reviewed before export. First previews released Nov 20 (alpha.3).",
+    "url": "https://github.com/Efeyasin46/Python-Mocap/releases/tag/v0.1.0-alpha.3",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » des dépôts mis à jour depuis le 19 nov.",
+      "label_en": "GitHub — “mocap” search, repos updated since Nov 19",
+      "url": "https://github.com/search?q=mocap+pushed%3A%3E2026-11-19&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "name": "Video2VMD 0.2.0 (vidéo → VMD/BVH)",
+    "name_en": "Video2VMD 0.2.0 (video → VMD/BVH)",
+    "summary": "Outil CLI qui tire le mouvement d'une vidéo ou d'une image (GVHMR + SMPL-X) vers VMD (MMD) ou BVH, mains WiLoR en option et extension Blender 4.2+. Préversion 0.2.0 du 20 nov. ; code Apache-2.0, mais modèles amont non commerciaux.",
+    "summary_en": "CLI tool that pulls motion from a video or still (GVHMR + SMPL-X) into VMD (MMD) or BVH, with optional WiLoR hands and a Blender 4.2+ extension. 0.2.0 preview from Nov 20; Apache-2.0 code, but upstream models are non-commercial.",
+    "url": "https://github.com/alloystorm/video2vmd",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "ia",
+      "retargeting",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » des dépôts mis à jour depuis le 19 nov.",
+      "label_en": "GitHub — “retarget” search, repos updated since Nov 19",
+      "url": "https://github.com/search?q=retarget+pushed%3A%3E2026-11-19&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "name": "AnyMachine (rigs mécaniques par agent IA)",
+    "name_en": "AnyMachine (mechanical rigs by an AI agent)",
+    "summary": "Pipeline libre (MIT) où un agent IA construit dans Blender des machines qui bougent : rig mécanique (charnières, pattes, vérins), chaque contrôle réglé de 0 à 1. Ajout le 16 nov. de Stilt, marcheur de 30 m avec 104 os et trois animations.",
+    "summary_en": "Free pipeline (MIT) where an AI agent builds working machines in Blender: mechanical rigs (hinges, legs, hydraulics), every control a 0-1 parameter. Added Nov 16: Stilt, a 30 m walker with 104 bones and three animations.",
+    "url": "https://github.com/apekshik/anymachine",
+    "tags": [
+      "open-source",
+      "rigging",
+      "ia",
+      "blender",
+      "emerging"
+    ],
+    "source": {
+      "label": "Fil X — @bonduelleioat",
+      "label_en": "X feed — @bonduelleioat",
+      "url": "https://x.com/bonduelleioat/status/2123842056842018835"
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "name": "Anim Doctor (diagnostic des clips d'animation)",
+    "name_en": "Anim Doctor (animation clip checker)",
+    "summary": "Add-on Blender 4.2+ payant (24 $), lancé le 20 nov. : il scanne chaque clip d'un rig, repère pops d'une image, flips de quaternion, sauts d'Euler, coutures de boucle et jitter, saute à l'image fautive et corrige les cas sûrs en un clic.",
+    "summary_en": "Paid Blender 4.2+ add-on ($24), launched Nov 20: it scans every clip on a rig, finds one-frame pops, quaternion flips, Euler jumps, loop seams and jitter, jumps to the broken frame and fixes the safe ones in one click.",
+    "url": "https://okabrat.gumroad.com/l/anim-doctor",
+    "tags": [
+      "payant",
+      "blender-addon",
+      "animation",
+      "game",
+      "emerging"
+    ],
+    "source": {
+      "label": "Fil X — @Diyorbek4523",
+      "label_en": "X feed — @Diyorbek4523",
+      "url": "https://x.com/Diyorbek4523/status/2123420182291079520"
+    }
   }
 ]

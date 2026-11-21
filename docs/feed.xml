@@ -5,8 +5,68 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marionette Workflow Helper 1.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-21-marionette-workflow-helper-1-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-21-marionette-workflow-helper-1-4-0</guid>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on Blender 5.2+ libre (GPL-3.0) publié le 20 nov. : il prépare une armature de capture façon Mixamo pour la mocap Marionette, cale les persos Tripo, retouche les prises et les transfère dans le NLA du perso d'origine. L'appli Marionette reste requise.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MotionForge 0.1.0-alpha.3 (mocap webcam)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-21-motionforge-0-1-0-alpha-3-mocap-webcam</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-21-motionforge-0-1-0-alpha-3-mocap-webcam</guid>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Appli Windows libre (MIT) de mocap par webcam pour Blender et Unity : corps entier ou maillage facial, compte à rebours, prises nommées et relues avant export. Premières préversions publiées le 20 nov. (alpha.3).</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Video2VMD 0.2.0 (vidéo → VMD/BVH)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-21-video2vmd-0-2-0-video-vmd-bvh</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-21-video2vmd-0-2-0-video-vmd-bvh</guid>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Outil CLI qui tire le mouvement d'une vidéo ou d'une image (GVHMR + SMPL-X) vers VMD (MMD) ou BVH, mains WiLoR en option et extension Blender 4.2+. Préversion 0.2.0 du 20 nov. ; code Apache-2.0, mais modèles amont non commerciaux.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>ia</category>
+      <category>retargeting</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>AnyMachine (rigs mécaniques par agent IA)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-21-anymachine-rigs-mecaniques-par-agent-ia</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-21-anymachine-rigs-mecaniques-par-agent-ia</guid>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Pipeline libre (MIT) où un agent IA construit dans Blender des machines qui bougent : rig mécanique (charnières, pattes, vérins), chaque contrôle réglé de 0 à 1. Ajout le 16 nov. de Stilt, marcheur de 30 m avec 104 os et trois animations.</description>
+      <category>open-source</category>
+      <category>rigging</category>
+      <category>ia</category>
+      <category>blender</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Anim Doctor (diagnostic des clips d'animation)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-21-anim-doctor-diagnostic-des-clips-d-animation</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-21-anim-doctor-diagnostic-des-clips-d-animation</guid>
+      <pubDate>Sat, 21 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on Blender 4.2+ payant (24 $), lancé le 20 nov. : il scanne chaque clip d'un rig, repère pops d'une image, flips de quaternion, sauts d'Euler, coutures de boucle et jitter, saute à l'image fautive et corrige les cas sûrs en un clic.</description>
+      <category>payant</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>game</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>SloppyAnimatsu 0.3.0-alpha (rig et anim façon akeytsu)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-20-sloppyanimatsu-0-3-0-alpha-rig-et-anim-facon-akeytsu</link>
@@ -1172,67 +1232,6 @@
       <category>rigging</category>
       <category>secondary-motion</category>
       <category>skinning</category>
-    </item>
-    <item>
-      <title>mmd-retarget 0.0.2 (VMD d’un modèle à l’autre, sans passe-murailles)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-24-mmd-retarget-0-0-2-vmd-dun-modele-a-lautre-sans-passe-murailles</guid>
-      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Créé le 23 oct (GPL-3.0, Python, VMD ↔ Blender) : retarget une danse MMD vers un autre gabarit avec mise à l’échelle, verrouillage des pieds, IK des bras, puis détecte les interpénétrations frame par frame avec rapport CSV/JSON. Encore très jeune, doc en chinois.</description>
-      <category>open-source</category>
-      <category>retargeting</category>
-      <category>mmd</category>
-      <category>blender</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>C3D Reader 0.3.4 (lecteur C3D local façon Mokka)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-24-c3d-reader-0-3-4-lecteur-c3d-local-facon-mokka</guid>
-      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Sorti le 23 oct (MIT) : ouvre tes fichiers mocap C3D en local (app macOS Apple Silicon ou navigateur), lecture 3D des marqueurs, signaux analogiques synchronisés, événements, inspecteur de paramètres et export CSV par lot, même sur des prises de plusieurs centaines de Mo.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>c3d</category>
-      <category>viewer</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Prima Motion Capture Volume Planner (placement des caméras mocap)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-24-prima-motion-capture-volume-planner-placement-des-cameras-mocap</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-24-prima-motion-capture-volume-planner-placement-des-cameras-mocap</guid>
-      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Publié le 24 oct (AGPL-3.0 + conditions en plus, nom et logo non libres) : appli web en un fichier pour placer les caméras d’une salle mocap optique (OptiTrack, Qualisys, Vicon), couverture, visibilité des marqueurs et erreur 3D estimée. Modèle géométrique seulement.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>planning</category>
-      <category>web</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Batlejka (sync multicaméra → FreeMoCap → .blend)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-23-batlejka-sync-multicamera-freemocap-blend</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-23-batlejka-sync-multicamera-freemocap-blend</guid>
-      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Publié le 21 oct (AGPL-3.0) : tu déposes les clips d’une séance mocap multicaméra (téléphones, sans timecode), il les synchronise par l’audio, te laisse découper les prises, puis lance FreeMoCap pour sortir les squelettes 3D jusqu’au .blend.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>blender</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>three-procedural-locomotion</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-23-three-procedural-locomotion</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-23-three-procedural-locomotion</guid>
-      <pubDate>Fri, 23 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Publié le 22 oct (MIT) : locomotion humaine procédurale pour Three.js, sans anim précalculée. Marche, course, virages, accroupi et saut calculés à chaque frame (planif des pas, IK deux os, pieds posés sur le terrain), réglés sur la mocap CMU.</description>
-      <category>open-source</category>
-      <category>animation</category>
-      <category>procedural</category>
-      <category>web</category>
-      <category>three-js</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

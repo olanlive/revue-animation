@@ -3503,5 +3503,88 @@
       "label_en": "X feed — @Diyorbek4523",
       "url": "https://x.com/Diyorbek4523/status/2123420182291079520"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Motus Animator 1.0.0",
+    "name_en": "Motus Animator 1.0.0",
+    "summary": "Boîte à outils d'animation de perso pour Blender 5.2+ (GPL-3.0, ex-Nexus Studio) : tu poses en tirant des points d'articulation, tu traces un chemin de marche, tu retargetes Mixamo/Unreal/Reallusion, puis Tween Machine, calques et lip-sync.",
+    "summary_en": "Character animation toolkit for Blender 5.2+ (GPL-3.0, formerly Nexus Studio): pose by dragging joint dots, draw a walk path, retarget Mixamo/Unreal/Reallusion clips, then finish with Tween Machine, motion layers and lip sync.",
+    "url": "https://github.com/sanomarion/Motus-Animator",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "retargeting",
+      "lip-sync",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “retarget” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=retarget+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Motion Doll Studio 0.4.0",
+    "name_en": "Motion Doll Studio 0.4.0",
+    "summary": "Studio de pose et keyframes dans le navigateur (MIT), 100 % local : mannequin avec IK, mocap vidéo « Copy Dance » via MediaPipe (jusqu'à 4 personnes), export BVH/GLB pour Blender, Unity ou Unreal, et pilotage par agent IA via MCP.",
+    "summary_en": "Browser pose-and-keyframe studio (MIT), fully local: IK mannequin, “Copy Dance” video mocap with MediaPipe (up to 4 people), BVH/GLB export for Blender, Unity or Unreal, and AI-agent control over MCP.",
+    "url": "https://github.com/dkfadhila/motion-doll-studio",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "web",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “mocap” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=mocap+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Keyframe Reducer 1.1.1",
+    "name_en": "Keyframe Reducer 1.1.1",
+    "summary": "Extension Blender 5.2+ gratuite (GPL-3.0) qui allège les clés d'animation — pratique pour nettoyer de la mocap — en travaillant sur une copie protégée de l'Action, avec réduction stricte limitée aux clés sélectionnées.",
+    "summary_en": "Free Blender 5.2+ extension (GPL-3.0) that thins out animation keys (handy for mocap cleanup) while working on a protected copy of the Action, with strict reduction limited to the selected keys.",
+    "url": "https://github.com/KillianPi22/blender-keyframe-reducer/releases/tag/v1.1.1",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "keyframing",
+      "cleanup",
+      "mocap",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “motion capture” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=%22motion+capture%22+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-22",
+    "name": "MultiLang LipSync pour iClone 8",
+    "name_en": "MultiLang LipSync for iClone 8",
+    "summary": "Plugin iClone 8 (code MIT) de lip-sync auto multilingue : AccuLips natif pour l'anglais, packs .iTalk pour chinois/japonais, alignement MMS sur CPU (~2 s pour 10 s) pour les autres langues. Attention : modèle MMS en CC-BY-NC (non commercial).",
+    "summary_en": "iClone 8 plugin (MIT code) for multilingual auto lip sync: native AccuLips for English, .iTalk packs for Chinese/Japanese, CPU MMS alignment (~2 s per 10 s) for other languages. Note: the MMS model is CC-BY-NC (non-commercial).",
+    "url": "https://github.com/dazhn/iclone-multilang-lipsync",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "visemes",
+      "non-commercial",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lipsync » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “lipsync” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=lipsync+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
   }
 ]

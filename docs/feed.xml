@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Motus Animator 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-22-motus-animator-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-22-motus-animator-1-0-0</guid>
+      <pubDate>Sun, 22 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Boîte à outils d'animation de perso pour Blender 5.2+ (GPL-3.0, ex-Nexus Studio) : tu poses en tirant des points d'articulation, tu traces un chemin de marche, tu retargetes Mixamo/Unreal/Reallusion, puis Tween Machine, calques et lip-sync.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>retargeting</category>
+      <category>lip-sync</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Motion Doll Studio 0.4.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-22-motion-doll-studio-0-4-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-22-motion-doll-studio-0-4-0</guid>
+      <pubDate>Sun, 22 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Studio de pose et keyframes dans le navigateur (MIT), 100 % local : mannequin avec IK, mocap vidéo « Copy Dance » via MediaPipe (jusqu'à 4 personnes), export BVH/GLB pour Blender, Unity ou Unreal, et pilotage par agent IA via MCP.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>web</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Keyframe Reducer 1.1.1</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-22-keyframe-reducer-1-1-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-22-keyframe-reducer-1-1-1</guid>
+      <pubDate>Sun, 22 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Extension Blender 5.2+ gratuite (GPL-3.0) qui allège les clés d'animation — pratique pour nettoyer de la mocap — en travaillant sur une copie protégée de l'Action, avec réduction stricte limitée aux clés sélectionnées.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>keyframing</category>
+      <category>cleanup</category>
+      <category>mocap</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>MultiLang LipSync pour iClone 8</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-22-multilang-lipsync-pour-iclone-8</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-22-multilang-lipsync-pour-iclone-8</guid>
+      <pubDate>Sun, 22 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Plugin iClone 8 (code MIT) de lip-sync auto multilingue : AccuLips natif pour l'anglais, packs .iTalk pour chinois/japonais, alignement MMS sur CPU (~2 s pour 10 s) pour les autres langues. Attention : modèle MMS en CC-BY-NC (non commercial).</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>visemes</category>
+      <category>non-commercial</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Marionette Workflow Helper 1.4.0</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-21-marionette-workflow-helper-1-4-0</link>
@@ -1185,53 +1236,6 @@
       <category>rigging</category>
       <category>vector</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>CTRL_DEF 0.1.2 (contrôleurs auto depuis les os DEF)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-ctrl-def-0-1-2-controleurs-auto-depuis-les-os-def</guid>
-      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Sorti le 24 oct (GPL-3.0, Blender 4.2 à 5.2) : sélectionne tes os DEF_ et l’add-on génère en un clic des contrôleurs FK colorés avec custom shapes partagées, puis les relie sans cycle de dépendance. Du même auteur qu’Auto Copy Transforms DEF (vu le 23 oct).</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>controllers</category>
-    </item>
-    <item>
-      <title>FaceSet Creature Rigger 1.0.0</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-faceset-creature-rigger-1-0-0</guid>
-      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Sorti le 24 oct (MIT, Blender 4.2+) : peins chaque membre de ta créature en Face Sets, l’add-on détecte la symétrie, te laisse choisir FK, IK avec pole, Spline IK ou wiggle, puis génère l’armature et des poids lissés. Tout nouveau, 0 étoile.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>creature</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>FellowStudio3D 0.1.0 (pose et animation de persos pixel)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-25-fellowstudio3d-0-1-0-pose-et-animation-de-persos-pixel</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-25-fellowstudio3d-0-1-0-pose-et-animation-de-persos-pixel</guid>
-      <pubDate>Sun, 25 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Première version le 24 oct (MIT, Windows) : pars d’une marche ou d’une course, ajuste chaque partie du corps, empile des couches de mouvement, IK et suivi physique, sans éditer de clés, puis exporte des sprites 64×64 en 1x, 4x ou 8x.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>pixel-art</category>
-      <category>sprites</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Auto Dangle Rig 1.9.0 (chaînes d’os pour jupes, cheveux, rubans)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-24-auto-dangle-rig-1-9-0-chaines-dos-pour-jupes-cheveux-rubans</guid>
-      <pubDate>Sat, 24 Oct 2026 09:51:00 +0200</pubDate>
-      <description>Add-on Blender 5.2 payant (300 ¥, BOOTH) : crée les chaînes d’os des éléments qui bougent depuis une sélection, une par colonne de jupe, miroir des rubans, poids transférés ou par distance, puis teste le ballant sur une anim Mixamo/VRMA. Annoncé le 22 oct.</description>
-      <category>payant</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>secondary-motion</category>
-      <category>skinning</category>
     </item>
   </channel>
 </rss>

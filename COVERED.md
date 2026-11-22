@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-22 | Motus Animator 1.0.0 | open-source, blender-addon, animation, retargeting, lip-sync, emerging | https://github.com/sanomarion/Motus-Animator | https://olanlive.github.io/revue-animation/#2026-11-22-motus-animator-1-0-0 |
+| 2026-11-22 | Motion Doll Studio 0.4.0 | open-source, mocap, capture-video, web, local, emerging | https://github.com/dkfadhila/motion-doll-studio | https://olanlive.github.io/revue-animation/#2026-11-22-motion-doll-studio-0-4-0 |
+| 2026-11-22 | Keyframe Reducer 1.1.1 | open-source, blender-addon, keyframing, cleanup, mocap, emerging | https://github.com/KillianPi22/blender-keyframe-reducer/releases/tag/v1.1.1 | https://olanlive.github.io/revue-animation/#2026-11-22-keyframe-reducer-1-1-1 |
+| 2026-11-22 | MultiLang LipSync pour iClone 8 | open-source, lip-sync, visemes, non-commercial, emerging | https://github.com/dazhn/iclone-multilang-lipsync | https://olanlive.github.io/revue-animation/#2026-11-22-multilang-lipsync-pour-iclone-8 |
 | 2026-11-21 | Marionette Workflow Helper 1.4.0 | open-source, blender-addon, mocap, retargeting, emerging | https://github.com/KillianPi22/marionette-workflow-helper/releases/tag/v1.4.0 | https://olanlive.github.io/revue-animation/#2026-11-21-marionette-workflow-helper-1-4-0 |
 | 2026-11-21 | MotionForge 0.1.0-alpha.3 (mocap webcam) | open-source, mocap, capture-video, emerging | https://github.com/Efeyasin46/Python-Mocap/releases/tag/v0.1.0-alpha.3 | https://olanlive.github.io/revue-animation/#2026-11-21-motionforge-0-1-0-alpha-3-mocap-webcam |
 | 2026-11-21 | Video2VMD 0.2.0 (vidéo → VMD/BVH) | open-source, mocap, capture-video, ia, retargeting, emerging | https://github.com/alloystorm/video2vmd | https://olanlive.github.io/revue-animation/#2026-11-21-video2vmd-0-2-0-video-vmd-bvh |

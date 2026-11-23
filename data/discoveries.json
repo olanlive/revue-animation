@@ -3586,5 +3586,69 @@
       "label_en": "GitHub — “lipsync” search, repos updated since Nov 20",
       "url": "https://github.com/search?q=lipsync+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "name": "XR Animator 0.37.0 (lip-sync audio)",
+    "name_en": "XR Animator 0.37.0 (audio lip sync)",
+    "summary": "Déjà vu le 19 oct. : l'appli libre de mocap webcam (Windows/Linux/macOS/Android/web) sort la 0.37.0 le 22 nov. avec le lip-sync piloté par l'audio (wLipSync), un meilleur placement des jambes et le support des VRM hors T-pose.",
+    "summary_en": "Seen Oct 19: the free webcam mocap app (Windows/Linux/macOS/Android/web) ships 0.37.0 on Nov 22 with audio-driven lip sync (wLipSync), better leg placement and support for non-T-pose VRM rigs.",
+    "url": "https://github.com/ButzYung/SystemAnimatorOnline/releases/tag/XR-Animator_v0.37.0",
+    "tags": [
+      "gratuit",
+      "mocap",
+      "capture-video",
+      "lip-sync",
+      "vrm",
+      "licence-absente"
+    ],
+    "source": {
+      "label": "Fil X — @butz_yung (annonce du 22 nov.)",
+      "label_en": "X feed — @butz_yung (Nov 22 announcement)",
+      "url": "https://x.com/butz_yung/status/2124500792283664465"
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "name": "AutoRig 0.1.0 (UniRig sans flash-attention)",
+    "name_en": "AutoRig 0.1.0 (UniRig without flash-attention)",
+    "summary": "Sorti le 23 nov. : dérivé MIT d'UniRig qui génère squelette et skinning pour n'importe quel mesh, sur Windows ou Linux, GPU GeForce ou CPU, sans flash-attention, avec un lanceur unique et des outils pour comparer les rigs. Contient un module GPL-3.0.",
+    "summary_en": "Released Nov 23: an MIT derivative of UniRig that generates skeleton and skinning for any mesh on Windows or Linux, GeForce GPU or CPU, without flash-attention, with a single launcher and rig comparison tools. Includes a GPL-3.0 module.",
+    "url": "https://github.com/produtoramaxvision/AutoRig/releases/tag/v0.1.0",
+    "tags": [
+      "open-source",
+      "ia",
+      "auto-rig",
+      "skinning",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « facial rig / shape keys » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “facial rig / shape keys” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=%22shape+keys%22+OR+%22facial+rig%22+OR+%22arkit+blendshape%22+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "name": "3D-AutoAnimate 0.1.0 (texte → anim dans Blender)",
+    "name_en": "3D-AutoAnimate 0.1.0 (text-to-motion in Blender)",
+    "summary": "Sorti le 23 nov. : texte → mouvement pour n'importe quel perso riggé, basé sur UniMate (SIGGRAPH Asia 2026), dans un Blender 5.x standard, sur CPU ou GPU, avec retarget vers tes rigs Rigify ou Auto-Rig Pro. Code MIT, mais poids CC BY-NC 4.0 (non commercial).",
+    "summary_en": "Released Nov 23: text-to-motion for any rigged character, built on UniMate (SIGGRAPH Asia 2026), in stock Blender 5.x on CPU or GPU, retargeting onto your Rigify or Auto-Rig Pro rigs. MIT code, but CC BY-NC 4.0 weights (non-commercial).",
+    "url": "https://github.com/produtoramaxvision/3D-AutoAnimate/releases/tag/v0.1.0",
+    "tags": [
+      "open-source",
+      "ia",
+      "text-to-motion",
+      "blender",
+      "retargeting",
+      "non-commercial",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « facial rig / shape keys » des dépôts mis à jour depuis le 20 nov.",
+      "label_en": "GitHub — “facial rig / shape keys” search, repos updated since Nov 20",
+      "url": "https://github.com/search?q=%22shape+keys%22+OR+%22facial+rig%22+OR+%22arkit+blendshape%22+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
+    }
   }
 ]

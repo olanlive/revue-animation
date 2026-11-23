@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-23 | XR Animator 0.37.0 (lip-sync audio) | gratuit, mocap, capture-video, lip-sync, vrm, licence-absente | https://github.com/ButzYung/SystemAnimatorOnline/releases/tag/XR-Animator_v0.37.0 | https://olanlive.github.io/revue-animation/#2026-11-23-xr-animator-0-37-0-lip-sync-audio |
+| 2026-11-23 | AutoRig 0.1.0 (UniRig sans flash-attention) | open-source, ia, auto-rig, skinning, local, emerging | https://github.com/produtoramaxvision/AutoRig/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-23-autorig-0-1-0-unirig-sans-flash-attention |
+| 2026-11-23 | 3D-AutoAnimate 0.1.0 (texte → anim dans Blender) | open-source, ia, text-to-motion, blender, retargeting, non-commercial, emerging | https://github.com/produtoramaxvision/3D-AutoAnimate/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-23-3d-autoanimate-0-1-0-texte-anim-dans-blender |
 | 2026-11-22 | Motus Animator 1.0.0 | open-source, blender-addon, animation, retargeting, lip-sync, emerging | https://github.com/sanomarion/Motus-Animator | https://olanlive.github.io/revue-animation/#2026-11-22-motus-animator-1-0-0 |
 | 2026-11-22 | Motion Doll Studio 0.4.0 | open-source, mocap, capture-video, web, local, emerging | https://github.com/dkfadhila/motion-doll-studio | https://olanlive.github.io/revue-animation/#2026-11-22-motion-doll-studio-0-4-0 |
 | 2026-11-22 | Keyframe Reducer 1.1.1 | open-source, blender-addon, keyframing, cleanup, mocap, emerging | https://github.com/KillianPi22/blender-keyframe-reducer/releases/tag/v1.1.1 | https://olanlive.github.io/revue-animation/#2026-11-22-keyframe-reducer-1-1-1 |

@@ -3650,5 +3650,67 @@
       "label_en": "GitHub — “facial rig / shape keys” search, repos updated since Nov 20",
       "url": "https://github.com/search?q=%22shape+keys%22+OR+%22facial+rig%22+OR+%22arkit+blendshape%22+pushed%3A%3E2026-11-20&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "name": "GaitKeeper 0.9.0",
+    "name_en": "GaitKeeper 0.9.0",
+    "summary": "Sorti le 25 nov. (bêta) : add-on Blender qui passe tes clips au crible (pieds qui glissent, genoux à l'envers, pops, boucles qui accrochent, attaques sans anticipation) avec un verdict PASS/WARN/FAIL, et peut corriger une copie du clip.",
+    "summary_en": "Released Nov 25 (beta): a Blender add-on that audits your clips (sliding feet, backward knees, pops, hitching loops, attacks with no wind-up) with a PASS/WARN/FAIL verdict, and can fix a copy of the clip.",
+    "url": "https://github.com/connor-ignites/gaitkeeper/releases/tag/v0.9.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "animation",
+      "cleanup",
+      "game",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « mocap » des dépôts créés depuis le 21 nov.",
+      "label_en": "GitHub — “mocap” search, repos created since Nov 21",
+      "url": "https://github.com/search?q=mocap+created%3A%3E2026-11-21&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "name": "JiggleKit Free 1.0.1",
+    "name_en": "JiggleKit Free 1.0.1",
+    "summary": "Sorti le 24 nov. (1.0.1 le 25) : sélectionne une zone du mesh, un clic crée os ou chaîne d'os, mélange les poids et active une physique de ressort en direct (cheveux, queue, oreilles). Version libre GPL limitée à 8 os ; complète à 12 $.",
+    "summary_en": "Released Nov 24 (1.0.1 on Nov 25): select a mesh area and one click creates a bone or chain, blends the weights and turns on live spring physics (hair, tails, ears). Free GPL version limited to 8 bones; full version $12.",
+    "url": "https://github.com/mendbox/jigglekit-free/releases/tag/v1.0.1",
+    "tags": [
+      "freemium",
+      "blender-addon",
+      "rigging",
+      "spring-bones",
+      "open-source",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « rigging » des dépôts créés depuis le 21 nov.",
+      "label_en": "GitHub — “rigging” search, repos created since Nov 21",
+      "url": "https://github.com/search?q=rigging+created%3A%3E2026-11-21&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "name": "dittomo (retarget en Rust)",
+    "name_en": "dittomo (Rust retargeting)",
+    "summary": "Publié le 23 nov. : bibliothèque Rust MIT-0 et commande CLI qui retargetent une anim d'un squelette vers n'importe quel autre en gardant regard, mains posées sur le corps et appuis des pieds ; démo navigateur sans upload.",
+    "summary_en": "Published Nov 23: an MIT-0 Rust library and CLI that retarget an animation from one skeleton onto any other while keeping gaze, hands resting on the body and foot contacts; in-browser demo with no upload.",
+    "url": "https://github.com/Azazel-Labs/dittomo",
+    "tags": [
+      "open-source",
+      "retargeting",
+      "rust",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « retarget » des dépôts créés depuis le 21 nov.",
+      "label_en": "GitHub — “retarget” search, repos created since Nov 21",
+      "url": "https://github.com/search?q=retarget+created%3A%3E2026-11-21&type=repositories&s=updated&o=desc"
+    }
   }
 ]

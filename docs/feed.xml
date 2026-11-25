@@ -5,8 +5,46 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GaitKeeper 0.9.0</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-25-gaitkeeper-0-9-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-25-gaitkeeper-0-9-0</guid>
+      <pubDate>Wed, 25 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 25 nov. (bêta) : add-on Blender qui passe tes clips au crible (pieds qui glissent, genoux à l'envers, pops, boucles qui accrochent, attaques sans anticipation) avec un verdict PASS/WARN/FAIL, et peut corriger une copie du clip.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>animation</category>
+      <category>cleanup</category>
+      <category>game</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>JiggleKit Free 1.0.1</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-25-jigglekit-free-1-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-25-jigglekit-free-1-0-1</guid>
+      <pubDate>Wed, 25 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sorti le 24 nov. (1.0.1 le 25) : sélectionne une zone du mesh, un clic crée os ou chaîne d'os, mélange les poids et active une physique de ressort en direct (cheveux, queue, oreilles). Version libre GPL limitée à 8 os ; complète à 12 $.</description>
+      <category>freemium</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>spring-bones</category>
+      <category>open-source</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>dittomo (retarget en Rust)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-25-dittomo-retarget-en-rust</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-25-dittomo-retarget-en-rust</guid>
+      <pubDate>Wed, 25 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 23 nov. : bibliothèque Rust MIT-0 et commande CLI qui retargetent une anim d'un squelette vers n'importe quel autre en gardant regard, mains posées sur le corps et appuis des pieds ; démo navigateur sans upload.</description>
+      <category>open-source</category>
+      <category>retargeting</category>
+      <category>rust</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>XR Animator 0.37.0 (lip-sync audio)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-23-xr-animator-0-37-0-lip-sync-audio</link>
@@ -1199,44 +1237,6 @@
       <category>capture-video</category>
       <category>ia</category>
       <category>creature</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>mmdance 0.1.0 (danses MMD sur un perso Mixamo dans Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-27-mmdance-0-1-0-danses-mmd-sur-un-perso-mixamo-dans-blender</guid>
-      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Sorti le 26 oct sous MIT : un pipeline Python headless pour Blender 5.2 qui retargete un VMD MikuMikuDance sur un perso Mixamo, Tripo, Meshy ou AccuRig, avec caméra, visage (clignements, lip-sync) et physique jupe et cheveux, puis rend la vidéo.</description>
-      <category>open-source</category>
-      <category>blender</category>
-      <category>retargeting</category>
-      <category>mmd</category>
-      <category>mixamo</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>LipScan 0.5.0 (voix → courbes de lip-sync et de visage)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-26-lipscan-0-5-0-voix-courbes-de-lip-sync-et-de-visage</guid>
-      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Version 0.5.0 le 26 oct (MIT, en local) : mesure un vrai visage en vidéo (52 blendshapes, tête, regard) pour le rejouer sur un rig, ou transforme une voix seule en courbes bouche, clignements et sourcils, export ARKit 52 pour Blender, Unity, Unreal.</description>
-      <category>open-source</category>
-      <category>lip-sync</category>
-      <category>facial</category>
-      <category>ia</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>OrthoRig 0.2.0 (rigs 2D Blender → PixiJS)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-26-orthorig-0-2-0-rigs-2d-blender-pixijs</guid>
-      <pubDate>Mon, 26 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Version 0.2.0 le 25 oct (MIT) : tu montes un squelette 2D orthographique dans Blender, il le compile pour PixiJS v8 avec IK 2 os, look-at, sockets, événements de timeline depuis les marqueurs, couches additives et baker de spritesheet.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>blender</category>
-      <category>web</category>
       <category>emerging</category>
     </item>
   </channel>

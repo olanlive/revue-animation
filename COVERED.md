@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-25 | GaitKeeper 0.9.0 | open-source, blender-addon, animation, cleanup, game, emerging | https://github.com/connor-ignites/gaitkeeper/releases/tag/v0.9.0 | https://olanlive.github.io/revue-animation/#2026-11-25-gaitkeeper-0-9-0 |
+| 2026-11-25 | JiggleKit Free 1.0.1 | freemium, blender-addon, rigging, spring-bones, open-source, emerging | https://github.com/mendbox/jigglekit-free/releases/tag/v1.0.1 | https://olanlive.github.io/revue-animation/#2026-11-25-jigglekit-free-1-0-1 |
+| 2026-11-25 | dittomo (retarget en Rust) | open-source, retargeting, rust, web, emerging | https://github.com/Azazel-Labs/dittomo | https://olanlive.github.io/revue-animation/#2026-11-25-dittomo-retarget-en-rust |
 | 2026-11-23 | XR Animator 0.37.0 (lip-sync audio) | gratuit, mocap, capture-video, lip-sync, vrm, licence-absente | https://github.com/ButzYung/SystemAnimatorOnline/releases/tag/XR-Animator_v0.37.0 | https://olanlive.github.io/revue-animation/#2026-11-23-xr-animator-0-37-0-lip-sync-audio |
 | 2026-11-23 | AutoRig 0.1.0 (UniRig sans flash-attention) | open-source, ia, auto-rig, skinning, local, emerging | https://github.com/produtoramaxvision/AutoRig/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-23-autorig-0-1-0-unirig-sans-flash-attention |
 | 2026-11-23 | 3D-AutoAnimate 0.1.0 (texte → anim dans Blender) | open-source, ia, text-to-motion, blender, retargeting, non-commercial, emerging | https://github.com/produtoramaxvision/3D-AutoAnimate/releases/tag/v0.1.0 | https://olanlive.github.io/revue-animation/#2026-11-23-3d-autoanimate-0-1-0-texte-anim-dans-blender |

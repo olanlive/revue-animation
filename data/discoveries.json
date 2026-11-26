@@ -3712,5 +3712,90 @@
       "label_en": "GitHub — “retarget” search, repos created since Nov 21",
       "url": "https://github.com/search?q=retarget+created%3A%3E2026-11-21&type=repositories&s=updated&o=desc"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "name": "MetaHuman for Blender 1.0.0",
+    "name_en": "MetaHuman for Blender 1.0.0",
+    "summary": "Sorti le 25 nov. : add-on GPL-3.0 (non officiel) qui monte tes MetaHumans dans Blender avec rigs visage et corps en direct (RigLogic réécrit en Python), éditeurs d'expressions et de poses correctives, puis renvoie DNA, FBX et anim faciale vers UE5. Persos sous licence Epic.",
+    "summary_en": "Released Nov 25: an unofficial GPL-3.0 add-on that builds your MetaHumans in Blender with live face and body rigs (RigLogic rewritten in Python), expression and corrective-pose editors, then sends DNA, FBX and face animation back to UE5. Characters under Epic's licence.",
+    "url": "https://github.com/kvriel/MetaHuman-for-Blender/releases/tag/v1.0.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "facial",
+      "metahuman",
+      "shape-keys",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » des dépôts créés depuis le 23 nov.",
+      "label_en": "GitHub — “blender rig” search, repos created since Nov 23",
+      "url": "https://github.com/search?q=blender+rig+in%3Aname%2Cdescription+created%3A%3E2026-11-23&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "name": "lipsync-2d (visèmes multilingues, ONNX)",
+    "name_en": "lipsync-2d (multilingual visemes, ONNX)",
+    "summary": "Publié le 24 nov. : modèle ONNX de 6,5 Mo qui prédit les formes de bouche en 7 langues (dont français et japonais), en direct dans le navigateur, avec CLI compatible Rhubarb et exports Live2D, Godot et Blender. Code et poids Apache-2.0.",
+    "summary_en": "Published Nov 24: a 6.5 MB ONNX model that predicts mouth shapes in 7 languages (including French and Japanese), live in the browser, with a Rhubarb-compatible CLI and Live2D, Godot and Blender exports. Code and weights Apache-2.0.",
+    "url": "https://github.com/Lumonopolis/lipsync-2d",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "visemes",
+      "ia",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lipsync » des dépôts créés depuis le 23 nov.",
+      "label_en": "GitHub — “lipsync” search, repos created since Nov 23",
+      "url": "https://github.com/search?q=lipsync+created%3A%3E2026-11-23&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "name": "FlowHMR2Warudo (mocap vidéo temps réel vers Warudo)",
+    "name_en": "FlowHMR2Warudo (real-time video mocap to Warudo)",
+    "summary": "Publié le 25 nov. : mocap temps réel en local sous Windows (GPU NVIDIA) à partir d'une webcam, DroidCam ou vidéo, basée sur FlowHMR, avec sortie VMC vers Warudo. Code AGPL-3.0 ; modèles tiers (SAM 3D Body, DINOv3) sous leurs propres licences Meta.",
+    "summary_en": "Published Nov 25: local real-time mocap on Windows (NVIDIA GPU) from a webcam, DroidCam or video, built on FlowHMR, with VMC output to Warudo. AGPL-3.0 code; third-party models (SAM 3D Body, DINOv3) under their own Meta licences.",
+    "url": "https://github.com/dinhngocanh43937-glitch/FlowHMR2Warudo",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "local",
+      "vtuber",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » des dépôts créés depuis le 23 nov.",
+      "label_en": "GitHub — “motion capture” search, repos created since Nov 23",
+      "url": "https://github.com/search?q=%22motion+capture%22+created%3A%3E2026-11-23&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "name": "FlexForge 1.1.0 (muscles pilotés par la pose)",
+    "name_en": "FlexForge 1.1.0 (pose-driven muscles)",
+    "summary": "Sortie le 23 nov. (alpha) : extension GPL-3.0 qui ajoute à ton rig des muscles avec os d'aide et skinning auto, qui se gonflent selon la pose, avec réglage du gonflement par shape key, rebond secondaire baké et export glTF/FBX pour Godot et Unity.",
+    "summary_en": "Released Nov 23 (alpha): a GPL-3.0 extension that adds muscles with helper bones and auto skinning to your rig, bulging with the pose, with per-shape-key bulge control, baked secondary bounce and glTF/FBX export for Godot and Unity.",
+    "url": "https://extensions.blender.org/add-ons/flexforge/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "muscles",
+      "shape-keys",
+      "emerging"
+    ],
+    "source": {
+      "label": "Blender Extensions — add-ons triés par date d'approbation",
+      "label_en": "Blender Extensions — add-ons sorted by approval date",
+      "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
+    }
   }
 ]

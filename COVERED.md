@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-26 | MetaHuman for Blender 1.0.0 | open-source, blender-addon, rigging, facial, metahuman, shape-keys, emerging | https://github.com/kvriel/MetaHuman-for-Blender/releases/tag/v1.0.0 | https://olanlive.github.io/revue-animation/#2026-11-26-metahuman-for-blender-1-0-0 |
+| 2026-11-26 | lipsync-2d (visèmes multilingues, ONNX) | open-source, lip-sync, visemes, ia, web, emerging | https://github.com/Lumonopolis/lipsync-2d | https://olanlive.github.io/revue-animation/#2026-11-26-lipsync-2d-visemes-multilingues-onnx |
+| 2026-11-26 | FlowHMR2Warudo (mocap vidéo temps réel vers Warudo) | open-source, mocap, capture-video, local, vtuber, emerging | https://github.com/dinhngocanh43937-glitch/FlowHMR2Warudo | https://olanlive.github.io/revue-animation/#2026-11-26-flowhmr2warudo-mocap-video-temps-reel-vers-warudo |
+| 2026-11-26 | FlexForge 1.1.0 (muscles pilotés par la pose) | open-source, blender-addon, rigging, muscles, shape-keys, emerging | https://extensions.blender.org/add-ons/flexforge/ | https://olanlive.github.io/revue-animation/#2026-11-26-flexforge-1-1-0-muscles-pilotes-par-la-pose |
 | 2026-11-25 | GaitKeeper 0.9.0 | open-source, blender-addon, animation, cleanup, game, emerging | https://github.com/connor-ignites/gaitkeeper/releases/tag/v0.9.0 | https://olanlive.github.io/revue-animation/#2026-11-25-gaitkeeper-0-9-0 |
 | 2026-11-25 | JiggleKit Free 1.0.1 | freemium, blender-addon, rigging, spring-bones, open-source, emerging | https://github.com/mendbox/jigglekit-free/releases/tag/v1.0.1 | https://olanlive.github.io/revue-animation/#2026-11-25-jigglekit-free-1-0-1 |
 | 2026-11-25 | dittomo (retarget en Rust) | open-source, retargeting, rust, web, emerging | https://github.com/Azazel-Labs/dittomo | https://olanlive.github.io/revue-animation/#2026-11-25-dittomo-retarget-en-rust |

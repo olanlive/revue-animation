@@ -5,8 +5,61 @@
     <link>https://olanlive.github.io/revue-animation/en/</link>
     <description>Animation watch — open source software, Blender animation add-ons, rigging, mocap and video capture, 2D animation (Grease Pencil, OpenToonz, Krita…).</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MetaHuman for Blender 1.0.0</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-26-metahuman-for-blender-1-0-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-26-metahuman-for-blender-1-0-0</guid>
+      <pubDate>Thu, 26 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 25: an unofficial GPL-3.0 add-on that builds your MetaHumans in Blender with live face and body rigs (RigLogic rewritten in Python), expression and corrective-pose editors, then sends DNA, FBX and face animation back to UE5. Characters under Epic's licence.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>facial</category>
+      <category>metahuman</category>
+      <category>shape-keys</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>lipsync-2d (multilingual visemes, ONNX)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-26-lipsync-2d-visemes-multilingues-onnx</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-26-lipsync-2d-visemes-multilingues-onnx</guid>
+      <pubDate>Thu, 26 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Nov 24: a 6.5 MB ONNX model that predicts mouth shapes in 7 languages (including French and Japanese), live in the browser, with a Rhubarb-compatible CLI and Live2D, Godot and Blender exports. Code and weights Apache-2.0.</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>visemes</category>
+      <category>ia</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FlowHMR2Warudo (real-time video mocap to Warudo)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-26-flowhmr2warudo-mocap-video-temps-reel-vers-warudo</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-26-flowhmr2warudo-mocap-video-temps-reel-vers-warudo</guid>
+      <pubDate>Thu, 26 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Published Nov 25: local real-time mocap on Windows (NVIDIA GPU) from a webcam, DroidCam or video, built on FlowHMR, with VMC output to Warudo. AGPL-3.0 code; third-party models (SAM 3D Body, DINOv3) under their own Meta licences.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>local</category>
+      <category>vtuber</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>FlexForge 1.1.0 (pose-driven muscles)</title>
+      <link>https://olanlive.github.io/revue-animation/en/#2026-11-26-flexforge-1-1-0-muscles-pilotes-par-la-pose</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-11-26-flexforge-1-1-0-muscles-pilotes-par-la-pose</guid>
+      <pubDate>Thu, 26 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Released Nov 23 (alpha): a GPL-3.0 extension that adds muscles with helper bones and auto skinning to your rig, bulging with the pose, with per-shape-key bulge control, baked secondary bounce and glTF/FBX export for Godot and Unity.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>muscles</category>
+      <category>shape-keys</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>GaitKeeper 0.9.0</title>
       <link>https://olanlive.github.io/revue-animation/en/#2026-11-25-gaitkeeper-0-9-0</link>
@@ -1187,57 +1240,6 @@
       <category>posing</category>
       <category>animation</category>
       <category>rigging</category>
-    </item>
-    <item>
-      <title>Puppet (webcam VTuber, VRM and ARKit)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-puppet-vtuber-webcam-vrm-et-arkit</guid>
-      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Released Oct 28 under MIT: a desktop app (macOS, Windows, Linux) that drives a VRM avatar from a plain webcam via MediaPipe (52 ARKit blendshapes, head, gaze, upper body and hands), with calibration, per-blendshape gain and VMC output.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>facial</category>
-      <category>vrm</category>
-      <category>webcam</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>BoneStudio (2D skeletal animation editor)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-28-bonestudio-editeur-danimation-squelettique-2d</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-28-bonestudio-editeur-danimation-squelettique-2d</guid>
-      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Released Oct 28 under MIT: a web and Electron 2D bone animation editor that reads and writes DragonBones 5.x projects and imports Spine 4.1/4.2, with IK, skinning, FFD mesh deformation, weight painting, curves and an MCP server for AI.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>skeletal</category>
-      <category>dragonbones</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Dynamic Skinning 0.1.1 (cartoon effects on a Blender rig)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-27-dynamic-skinning-0-1-1-effets-cartoon-sur-un-rig-blender</guid>
-      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Released Oct 25–26: the Blender extension of the IEEE TVCG 2026 paper adds real-time lag, oscillation and propagation to a skinned character, driven by its bones' velocity. Prototype, Blender 4.4+, GPL (C++ code under MIT).</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>skinning</category>
-      <category>secondary-motion</category>
-    </item>
-    <item>
-      <title>anymove (mocap for any creature from an AI video)</title>
-      <link>https://olanlive.github.io/revue-animation/en/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/en/#2026-10-27-anymove-mocap-de-nimporte-quelle-creature-depuis-une-video-ia</guid>
-      <pubDate>Tue, 27 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Published Oct 27 under Apache-2.0: an AI video shows the creature front and side in one frame, a DINOv2 reader finds every joint and the rig (wings, tails, eight legs) is fitted frame by frame, then exported as GLB. Needs an NVIDIA GPU and the paid fal API.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>ia</category>
-      <category>creature</category>
-      <category>emerging</category>
     </item>
   </channel>
 </rss>

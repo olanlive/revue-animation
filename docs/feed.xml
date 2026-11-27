@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cascadeur 2026.3 (facial MetaHuman, IK Chains)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-27-cascadeur-2026-3-facial-metahuman-ik-chains</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-27-cascadeur-2026-3-facial-metahuman-ik-chains</guid>
+      <pubDate>Fri, 27 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sortie le 26 nov. : Cascadeur (freemium, version gratuite limitée) ajoute l'animation faciale MetaHuman en alpha avec Live Link Unreal corps + visage, des IK Chains pour tentacules, queues et pattes d'araignée, un nettoyage auto de mocap et des calques Override.</description>
+      <category>freemium</category>
+      <category>animation</category>
+      <category>facial</category>
+      <category>metahuman</category>
+      <category>creature</category>
+      <category>cleanup</category>
+    </item>
+    <item>
+      <title>RGB MoCap Connect 0.5.1 (Live Link Unreal)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-27-rgb-mocap-connect-0-5-1-live-link-unreal</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-27-rgb-mocap-connect-0-5-1-live-link-unreal</guid>
+      <pubDate>Fri, 27 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Déjà vu le 28 oct., RGB MoCap (MIT) envoie depuis le 24 nov. les os captés sur vidéo vers Unreal 5.6 à 5.8 via Live Link, en suivant lecture et scrub ; la 0.5.1 du 27 nov. corrige les clavicules et la pose A, paquets Win64 prêts à installer.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>unreal</category>
+      <category>local</category>
+    </item>
+    <item>
+      <title>AZKimodo 2.5 (texte → mouvement dans Maya)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-27-azkimodo-2-5-texte-mouvement-dans-maya</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-27-azkimodo-2-5-texte-mouvement-dans-maya</guid>
+      <pubDate>Fri, 27 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Version 2.5 du 26 nov. (MIT) : installeur Windows de Kimodo, le modèle texte → mouvement de NVIDIA, en local via kimodo.cpp, et outil Maya qui génère depuis un texte ou tes poses clés et cuit sur un rig Advanced Skeleton. Poids du modèle sous leur propre licence.</description>
+      <category>open-source</category>
+      <category>ia</category>
+      <category>maya</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Blender Face Picker (visages 2D sans rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-27-blender-face-picker-visages-2d-sans-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-27-blender-face-picker-visages-2d-sans-rig</guid>
+      <pubDate>Fri, 27 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié vers le 21 nov. par SouthernShotty, gratuit (code GPL) : tu animes un visage dessiné en cliquant des vignettes de séquences PNG, avec clés et marqueurs auto, yeux et bouche séparés en mode avancé. Blender 5.3 ; pack de 300+ visages en option à 15 $.</description>
+      <category>gratuit</category>
+      <category>blender-addon</category>
+      <category>facial</category>
+      <category>2d</category>
+      <category>keyframing</category>
+    </item>
     <item>
       <title>MetaHuman for Blender 1.0.0</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-26-metahuman-for-blender-1-0-0</link>
@@ -1191,55 +1240,6 @@
       <category>capture-video</category>
       <category>smpl-x</category>
       <category>ia</category>
-    </item>
-    <item>
-      <title>Tracking Toolkit 3.0 RC (mocap VR dans Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-tracking-toolkit-3-0-rc-mocap-vr-dans-blender</guid>
-      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
-      <description>3.0.0-rc.2 publiée le 26 oct (GPL-3.0) : l’add-on enregistre casques et trackers OpenXR directement dans Blender, désormais via le XR natif de Blender 5.2+, avec pistes NLA et timecode SMPTE ; les trackers Vive demandent Blender 5.3.</description>
-      <category>open-source</category>
-      <category>blender-addon</category>
-      <category>mocap</category>
-      <category>vr</category>
-      <category>openxr</category>
-    </item>
-    <item>
-      <title>VideoIntoBlenderModel (vidéo vers perso .glb)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-29-videointoblendermodel-video-vers-perso-glb</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-videointoblendermodel-video-vers-perso-glb</guid>
-      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Repo Apache-2.0 lancé le 16 oct, mis à jour le 25 : depuis une vidéo ou une photo, il capte corps, mains (30 os) et 52 expressions ARKit puis les retargete sur un humanoïde .glb, en extension Blender 4.2+ (CUDA optionnel).</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>blender-addon</category>
-      <category>facial</category>
-      <category>retargeting</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>RGB MoCap (mocap vidéo locale, Windows)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-28-rgb-mocap-mocap-video-locale-windows</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-28-rgb-mocap-mocap-video-locale-windows</guid>
-      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Publiée le 26 oct sous MIT par toyxyz : une appli Windows qui transforme une vidéo en animation 3D avec ExMR, FlowHMR ou GVHMR en local (GPU NVIDIA), corrige le glissement des pieds et retargete sur Mixamo, VRM ou PMX, export FBX ou VMD.</description>
-      <category>open-source</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>retargeting</category>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Animatica Marionette (poser au doigt dans Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-28-animatica-marionette-poser-au-doigt-dans-blender</guid>
-      <pubDate>Wed, 28 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Nouvel add-on Blender 5.0+ (59 $, licence perpétuelle indé) : tu tires une main ou un pied et un modèle de pose local place le reste du corps, puis trajectoires éditables, pinceau de lissage et détection des pieds qui glissent, en clés FK sur Rigify, ARP, CloudRig ou Mixamo.</description>
-      <category>payant</category>
-      <category>blender-addon</category>
-      <category>posing</category>
-      <category>animation</category>
-      <category>rigging</category>
     </item>
   </channel>
 </rss>

@@ -3797,5 +3797,86 @@
       "label_en": "Blender Extensions — add-ons sorted by approval date",
       "url": "https://extensions.blender.org/add-ons/?sort_by=-date_approved"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Cascadeur 2026.3 (facial MetaHuman, IK Chains)",
+    "name_en": "Cascadeur 2026.3 (MetaHuman facial, IK Chains)",
+    "summary": "Sortie le 26 nov. : Cascadeur (freemium, version gratuite limitée) ajoute l'animation faciale MetaHuman en alpha avec Live Link Unreal corps + visage, des IK Chains pour tentacules, queues et pattes d'araignée, un nettoyage auto de mocap et des calques Override.",
+    "summary_en": "Released Nov 26: Cascadeur (freemium, limited free tier) adds alpha MetaHuman facial animation with body + face Unreal Live Link, IK Chains for tentacles, tails and spider legs, automatic mocap cleanup and Override animation layers.",
+    "url": "https://cascadeur.com/blog/general/cascadeur-2026-3-mcp-facial-animation-creature-animation",
+    "tags": [
+      "freemium",
+      "animation",
+      "facial",
+      "metahuman",
+      "creature",
+      "cleanup"
+    ],
+    "source": {
+      "label": "CG Channel — « Nekki releases Cascadeur 2026.3 » (26 nov.)",
+      "label_en": "CG Channel — “Nekki releases Cascadeur 2026.3” (Nov 26)",
+      "url": "https://www.cgchannel.com/2026/11/nekki-releases-cascadeur-2026-3-and-offers-40-off-for-black-friday/"
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "name": "RGB MoCap Connect 0.5.1 (Live Link Unreal)",
+    "name_en": "RGB MoCap Connect 0.5.1 (Unreal Live Link)",
+    "summary": "Déjà vu le 28 oct., RGB MoCap (MIT) envoie depuis le 24 nov. les os captés sur vidéo vers Unreal 5.6 à 5.8 via Live Link, en suivant lecture et scrub ; la 0.5.1 du 27 nov. corrige les clavicules et la pose A, paquets Win64 prêts à installer.",
+    "summary_en": "First seen Oct 28, RGB MoCap (MIT) has streamed video-captured bones to Unreal 5.6 to 5.8 through Live Link since Nov 24, following playback and scrubbing; 0.5.1 (Nov 27) fixes clavicles and A-pose, with ready-made Win64 bundles.",
+    "url": "https://github.com/toyxyz/toyxyz_RGBMocap/releases/tag/unreal-live-link-win64-v0.5.1",
+    "tags": [
+      "open-source",
+      "mocap",
+      "capture-video",
+      "unreal",
+      "local"
+    ],
+    "source": {
+      "label": "GitHub — recherche « motion capture » triée par mise à jour",
+      "label_en": "GitHub — “motion capture” search sorted by recent update",
+      "url": "https://github.com/search?q=motion+capture&type=repositories&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "name": "AZKimodo 2.5 (texte → mouvement dans Maya)",
+    "name_en": "AZKimodo 2.5 (text-to-motion in Maya)",
+    "summary": "Version 2.5 du 26 nov. (MIT) : installeur Windows de Kimodo, le modèle texte → mouvement de NVIDIA, en local via kimodo.cpp, et outil Maya qui génère depuis un texte ou tes poses clés et cuit sur un rig Advanced Skeleton. Poids du modèle sous leur propre licence.",
+    "summary_en": "Version 2.5 from Nov 26 (MIT): a Windows installer for NVIDIA's Kimodo text-to-motion model running locally via kimodo.cpp, plus a Maya tool that generates from text or your key poses and bakes onto an Advanced Skeleton rig. Model weights under their own license.",
+    "url": "https://github.com/azigo45/AZKimodo/releases/tag/v2.5.1",
+    "tags": [
+      "open-source",
+      "ia",
+      "maya",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « text to motion » triée par mise à jour",
+      "label_en": "GitHub — “text to motion” search sorted by recent update",
+      "url": "https://github.com/search?q=text+to+motion&type=repositories&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Blender Face Picker (visages 2D sans rig)",
+    "name_en": "Blender Face Picker (2D faces without a rig)",
+    "summary": "Publié vers le 21 nov. par SouthernShotty, gratuit (code GPL) : tu animes un visage dessiné en cliquant des vignettes de séquences PNG, avec clés et marqueurs auto, yeux et bouche séparés en mode avancé. Blender 5.3 ; pack de 300+ visages en option à 15 $.",
+    "summary_en": "Released around Nov 21 by SouthernShotty, free (GPL code): animate a drawn face by clicking thumbnails from PNG sequences, with auto keys and markers, separate eyes and mouth in advanced mode. Blender 5.3; optional 300+ face pack for $15.",
+    "url": "https://superhivemarket.com/products/blender-face-picker/",
+    "tags": [
+      "gratuit",
+      "blender-addon",
+      "facial",
+      "2d",
+      "keyframing"
+    ],
+    "source": {
+      "label": "ModelingTechNote — article du 25 nov. (page d'accueil)",
+      "label_en": "ModelingTechNote — Nov 25 article (home page)",
+      "url": "https://modelingtechnote.com/"
+    }
   }
 ]

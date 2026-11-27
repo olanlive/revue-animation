@@ -7,6 +7,10 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX généraliste (voir `olanliv
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-27 | Cascadeur 2026.3 (facial MetaHuman, IK Chains) | freemium, animation, facial, metahuman, creature, cleanup | https://cascadeur.com/blog/general/cascadeur-2026-3-mcp-facial-animation-creature-animation | https://olanlive.github.io/revue-animation/#2026-11-27-cascadeur-2026-3-facial-metahuman-ik-chains |
+| 2026-11-27 | RGB MoCap Connect 0.5.1 (Live Link Unreal) | open-source, mocap, capture-video, unreal, local | https://github.com/toyxyz/toyxyz_RGBMocap/releases/tag/unreal-live-link-win64-v0.5.1 | https://olanlive.github.io/revue-animation/#2026-11-27-rgb-mocap-connect-0-5-1-live-link-unreal |
+| 2026-11-27 | AZKimodo 2.5 (texte → mouvement dans Maya) | open-source, ia, maya, local, emerging | https://github.com/azigo45/AZKimodo/releases/tag/v2.5.1 | https://olanlive.github.io/revue-animation/#2026-11-27-azkimodo-2-5-texte-mouvement-dans-maya |
+| 2026-11-27 | Blender Face Picker (visages 2D sans rig) | gratuit, blender-addon, facial, 2d, keyframing | https://superhivemarket.com/products/blender-face-picker/ | https://olanlive.github.io/revue-animation/#2026-11-27-blender-face-picker-visages-2d-sans-rig |
 | 2026-11-26 | MetaHuman for Blender 1.0.0 | open-source, blender-addon, rigging, facial, metahuman, shape-keys, emerging | https://github.com/kvriel/MetaHuman-for-Blender/releases/tag/v1.0.0 | https://olanlive.github.io/revue-animation/#2026-11-26-metahuman-for-blender-1-0-0 |
 | 2026-11-26 | lipsync-2d (visèmes multilingues, ONNX) | open-source, lip-sync, visemes, ia, web, emerging | https://github.com/Lumonopolis/lipsync-2d | https://olanlive.github.io/revue-animation/#2026-11-26-lipsync-2d-visemes-multilingues-onnx |
 | 2026-11-26 | FlowHMR2Warudo (mocap vidéo temps réel vers Warudo) | open-source, mocap, capture-video, local, vtuber, emerging | https://github.com/dinhngocanh43937-glitch/FlowHMR2Warudo | https://olanlive.github.io/revue-animation/#2026-11-26-flowhmr2warudo-mocap-video-temps-reel-vers-warudo |

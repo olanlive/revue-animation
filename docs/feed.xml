@@ -5,8 +5,71 @@
     <link>https://olanlive.github.io/revue-animation/</link>
     <description>Veille animation — logiciels open source, add-ons Blender d’animation, rigging, mocap et capture vidéo, animation 2D (Grease Pencil, OpenToonz, Krita…).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:51:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-animation/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BlendCap 1.1 (mocap vidéo multi-caméra)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-28-blendcap-1-1-mocap-video-multi-camera</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-28-blendcap-1-1-mocap-video-multi-camera</guid>
+      <pubDate>Sat, 28 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Sortie le 27 nov. : ce add-on de capture corps, mains et visage depuis une vidéo gère jusqu'à 4 caméras et plusieurs acteurs (une armature chacun), avec retarget refait et mise à jour intégrée. Code GPL-3.0 sur GitHub ; build prêt à l'emploi payant.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>mocap</category>
+      <category>capture-video</category>
+      <category>facial</category>
+    </item>
+    <item>
+      <title>Retarget 6.0.0 (intégration CloudRig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-28-retarget-6-0-0-integration-cloudrig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-28-retarget-6-0-0-integration-cloudrig</guid>
+      <pubDate>Sat, 28 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Version du 28 nov. de ce fork d'Expy Kit et AnimAide (GPL-3.0) : conversion de n'importe quel rig humanoïde vers CloudRig, option non destructive, « Stabilize » contre le glissement des pieds, miroir et inversion d'actions, preset Daz Genesis 9. Blender 5+.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>retargeting</category>
+      <category>rigging</category>
+      <category>cleanup</category>
+    </item>
+    <item>
+      <title>callable-lipsync (voix → visage ARKit en streaming)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-28-callable-lipsync-voix-visage-arkit-en-streaming</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-28-callable-lipsync-voix-visage-arkit-en-streaming</guid>
+      <pubDate>Sat, 28 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Publié le 28 nov. (Apache-2.0, poids inclus) : un mini-modèle qui transforme la parole en paramètres FLAME ou 51 blendshapes ARKit, en streaming avec 160 ms d'avance, 36 à 95× le temps réel sur un seul thread CPU, en Python ou dans le navigateur. Entraîné sur l'anglais.</description>
+      <category>open-source</category>
+      <category>lip-sync</category>
+      <category>facial</category>
+      <category>ia</category>
+      <category>local</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>likeness (capture visage et mains dans le navigateur)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-28-likeness-capture-visage-et-mains-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-28-likeness-capture-visage-et-mains-dans-le-navigateur</guid>
+      <pubDate>Sat, 28 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Créé le 27 nov. (MIT) : capture sans marqueurs depuis webcam, vidéo ou partage d'écran, qui sort 52 blendshapes ARKit, la pose de tête et 21 articulations par main, pour piloter ton VRM ou tout logiciel via VMC ou WebSocket.</description>
+      <category>open-source</category>
+      <category>mocap</category>
+      <category>facial</category>
+      <category>capture-video</category>
+      <category>vrm</category>
+      <category>web</category>
+      <category>emerging</category>
+    </item>
+    <item>
+      <title>Rig Updater (migrer anims et poids vers un nouveau rig)</title>
+      <link>https://olanlive.github.io/revue-animation/#2026-11-28-rig-updater-migrer-anims-et-poids-vers-un-nouveau-rig</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-11-28-rig-updater-migrer-anims-et-poids-vers-un-nouveau-rig</guid>
+      <pubDate>Sat, 28 Nov 2026 09:51:00 +0100</pubDate>
+      <description>Add-on Blender (MIT) créé le 13 nov. et mis à jour le 27 nov. : trois fichiers JSON de règles (déformation, contrôleurs, scène) suffisent pour mettre à jour actions, poids de skin et scènes quand ton rig change de version.</description>
+      <category>open-source</category>
+      <category>blender-addon</category>
+      <category>rigging</category>
+      <category>skinning</category>
+      <category>emerging</category>
+    </item>
     <item>
       <title>Cascadeur 2026.3 (facial MetaHuman, IK Chains)</title>
       <link>https://olanlive.github.io/revue-animation/#2026-11-27-cascadeur-2026-3-facial-metahuman-ik-chains</link>
@@ -1178,68 +1241,6 @@
       <category>animation</category>
       <category>cleanup</category>
       <category>emerging</category>
-    </item>
-    <item>
-      <title>Tsukumoe (alternative ouverte à Live2D Cubism)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-30-tsukumoe-alternative-ouverte-a-live2d-cubism</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-30-tsukumoe-alternative-ouverte-a-live2d-cubism</guid>
-      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Repo lancé le 30 oct, sous Apache-2.0 ou MIT : une plateforme de rigging et d’animation 2D qui vise à charger les modèles Live2D (.moc3) et Inochi2D, avec CLI, rendu wgpu et lip-sync prévu. Encore au tout début, pas utilisable comme appli.</description>
-      <category>open-source</category>
-      <category>2d</category>
-      <category>rigging</category>
-      <category>live2d</category>
-      <category>puppet</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>Sekiro Animation Bridge 0.14.2 (animations FromSoftware dans Blender)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-30-sekiro-animation-bridge-0-14-2-animations-fromsoftware-dans-blender</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-30-sekiro-animation-bridge-0-14-2-animations-fromsoftware-dans-blender</guid>
-      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Version du 29 oct, sous GPL-3.0 : importe une anim HKX de Sekiro, Dark Souls ou Elden Ring avec son perso skinné dans Blender 4.5, tu l’édites comme une action, puis tu réexportes en HKX. Un add-on optionnel retargete entre persos. Windows, prototype.</description>
-      <category>open-source</category>
-      <category>blender</category>
-      <category>retargeting</category>
-      <category>animation</category>
-      <category>game-modding</category>
-    </item>
-    <item>
-      <title>Maul Anim 0.7.0 (bibliothèque d’animation squelettique en C)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-30-maul-anim-0-7-0-bibliotheque-danimation-squelettique-en-c</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-30-maul-anim-0-7-0-bibliotheque-danimation-squelettique-en-c</guid>
-      <pubDate>Fri, 30 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Version du 29 oct, sous MIT : une lib C sans dépendance pour blend spaces, state machines, motion matching, IK (FABRIK, full-body), spring bones VRM et retargeting entre rigs, avec import glTF et FBX. La 0.7.0 renomme toute l’API (changement cassant).</description>
-      <category>open-source</category>
-      <category>runtime</category>
-      <category>ik</category>
-      <category>retargeting</category>
-      <category>motion-matching</category>
-      <category>emerging</category>
-    </item>
-    <item>
-      <title>SHAPES pour Blender (éditeur de shape keys)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-shapes-pour-blender-editeur-de-shape-keys</guid>
-      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
-      <description>Sorti le 27 oct : l’éditeur de shapes de brave rabbit (réf. sous Maya) arrive dans Blender 4.2+ pour créer en pose, miroir, découpe, combos, drivers et correctifs faciaux. Sous GPL sans vérif de licence ; 20 € perso, 60 € pro avec RBF Nodes.</description>
-      <category>payant</category>
-      <category>blender-addon</category>
-      <category>rigging</category>
-      <category>shape-keys</category>
-      <category>facial</category>
-    </item>
-    <item>
-      <title>ExMR 0.1.5 (mocap vidéo monoculaire)</title>
-      <link>https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-animation/#2026-10-29-exmr-0-1-5-mocap-video-monoculaire</guid>
-      <pubDate>Thu, 29 Oct 2026 09:51:00 +0100</pubDate>
-      <description>v0.1.5 du 29 oct : ExMR tire d’une seule vidéo un corps SMPL-X (mains, pieds) ancré dans le monde, corrige les vidéos de téléphone en portrait, ajoute les contacts au sol ; export BVH, FBX et Blender depuis le 26 oct. Licence recherche/non commerciale.</description>
-      <category>non-commercial</category>
-      <category>mocap</category>
-      <category>capture-video</category>
-      <category>smpl-x</category>
-      <category>ia</category>
     </item>
   </channel>
 </rss>

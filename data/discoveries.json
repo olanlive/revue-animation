@@ -3878,5 +3878,108 @@
       "label_en": "ModelingTechNote — Nov 25 article (home page)",
       "url": "https://modelingtechnote.com/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "name": "BlendCap 1.1 (mocap vidéo multi-caméra)",
+    "name_en": "BlendCap 1.1 (multi-camera video mocap)",
+    "summary": "Sortie le 27 nov. : ce add-on de capture corps, mains et visage depuis une vidéo gère jusqu'à 4 caméras et plusieurs acteurs (une armature chacun), avec retarget refait et mise à jour intégrée. Code GPL-3.0 sur GitHub ; build prêt à l'emploi payant.",
+    "summary_en": "Released Nov 27: this body, hands and face capture add-on from video now handles up to 4 cameras and several performers (one armature each), with rebuilt retargeting and a built-in updater. GPL-3.0 code on GitHub; ready-made build is paid.",
+    "url": "https://github.com/Arcomade/BlendCap/releases/tag/v1.1.0",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "mocap",
+      "capture-video",
+      "facial"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Retarget 6.0.0 (intégration CloudRig)",
+    "name_en": "Retarget 6.0.0 (CloudRig integration)",
+    "summary": "Version du 28 nov. de ce fork d'Expy Kit et AnimAide (GPL-3.0) : conversion de n'importe quel rig humanoïde vers CloudRig, option non destructive, « Stabilize » contre le glissement des pieds, miroir et inversion d'actions, preset Daz Genesis 9. Blender 5+.",
+    "summary_en": "Nov 28 release of this Expy Kit and AnimAide fork (GPL-3.0): convert any humanoid rig to CloudRig, non-destructive option, 'Stabilize' foot-slide fix, mirror and reverse actions, Daz Genesis 9 preset. Blender 5+.",
+    "url": "https://extensions.blender.org/add-ons/retarget/",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "retargeting",
+      "rigging",
+      "cleanup"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender rig » triée par mise à jour",
+      "label_en": "GitHub — 'blender rig' search sorted by update",
+      "url": "https://github.com/search?q=blender+rig&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "name": "callable-lipsync (voix → visage ARKit en streaming)",
+    "name_en": "callable-lipsync (streaming voice → ARKit face)",
+    "summary": "Publié le 28 nov. (Apache-2.0, poids inclus) : un mini-modèle qui transforme la parole en paramètres FLAME ou 51 blendshapes ARKit, en streaming avec 160 ms d'avance, 36 à 95× le temps réel sur un seul thread CPU, en Python ou dans le navigateur. Entraîné sur l'anglais.",
+    "summary_en": "Published Nov 28 (Apache-2.0, weights included): a tiny model turning speech into FLAME parameters or 51 ARKit blendshapes, streaming with 160 ms lookahead, 36–95× realtime on one CPU thread, in Python or the browser. Trained on English.",
+    "url": "https://github.com/callabledev/callable-lipsync",
+    "tags": [
+      "open-source",
+      "lip-sync",
+      "facial",
+      "ia",
+      "local",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « lipsync » triée par mise à jour",
+      "label_en": "GitHub — 'lipsync' search sorted by update",
+      "url": "https://github.com/search?q=lipsync&type=repositories&s=updated&o=desc"
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "name": "likeness (capture visage et mains dans le navigateur)",
+    "name_en": "likeness (face and hand capture in the browser)",
+    "summary": "Créé le 27 nov. (MIT) : capture sans marqueurs depuis webcam, vidéo ou partage d'écran, qui sort 52 blendshapes ARKit, la pose de tête et 21 articulations par main, pour piloter ton VRM ou tout logiciel via VMC ou WebSocket.",
+    "summary_en": "Created Nov 27 (MIT): markerless capture from webcam, video or screen share that outputs 52 ARKit blendshapes, head pose and 21 joints per hand, driving your VRM or any app over VMC or WebSocket.",
+    "url": "https://github.com/raincrash/likeness",
+    "tags": [
+      "open-source",
+      "mocap",
+      "facial",
+      "capture-video",
+      "vrm",
+      "web",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — topic motion-capture (tri par mise à jour)",
+      "label_en": "GitHub — motion-capture topic (sorted by update)",
+      "url": "https://github.com/topics/motion-capture?o=desc&s=updated"
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Rig Updater (migrer anims et poids vers un nouveau rig)",
+    "name_en": "Rig Updater (migrate animations and weights to a new rig)",
+    "summary": "Add-on Blender (MIT) créé le 13 nov. et mis à jour le 27 nov. : trois fichiers JSON de règles (déformation, contrôleurs, scène) suffisent pour mettre à jour actions, poids de skin et scènes quand ton rig change de version.",
+    "summary_en": "Blender add-on (MIT) created Nov 13, updated Nov 27: three JSON rule files (deform, controls, scene) are enough to update actions, skin weights and scenes when your rig changes version.",
+    "url": "https://github.com/xavier150/Rig-Updater-Addon",
+    "tags": [
+      "open-source",
+      "blender-addon",
+      "rigging",
+      "skinning",
+      "emerging"
+    ],
+    "source": {
+      "label": "GitHub — recherche « blender animation addon » triée par mise à jour",
+      "label_en": "GitHub — 'blender animation addon' search sorted by update",
+      "url": "https://github.com/search?q=blender+animation+addon&type=repositories&s=updated&o=desc"
+    }
   }
 ]
